@@ -9,11 +9,8 @@
 <header class="entry-header"><h1 class="entry-title">.NET Core Interview Questions and Answers</h1>
 </header>
 <div class="entry-content">
-
 <p>According to <a href="https://survey.stackoverflow.co/2023/#section-most-popular-technologies-other-frameworks-and-libraries" target="_blank" rel="noopener">Stackoverflow Survey 2023</a>, developers are using .NET and .NET Core in first place respectively, as framework or libraries. Mostly it is the first programming language the programmers learn after the OOPs concepts. There are multiple reasons for the success of .NET, one of the most prominent ones is its stack- layered architecture. This architecture provides flexibility to add/ update layers without disturbing the whole application.</p>
-<p>&nbsp;</p>
 <p>.NET can be used to develop different types of high-performance applications such as gaming applications. It provides better monitoring, scalability, performance, and consistency for a whole range of applications such as console apps, GUI apps, web apps, web API apps, Windows services etc.</p>
-<p>&nbsp;</p>
 <p>.NET MVC(Model-View-Controller), provides a large set of additional functionalities to create modular applications. It eases the whole application creation process by providing component-based development and testing.</p>
 <p>&nbsp;</p>
 
@@ -90,7 +87,6 @@
 <li>Now, the Common Language Runtime (CLR) of the framework convert the compiled code to machine code (executable code) using the Just In Time (JIT) compiler.</li>
 <li>At last, we can execute this executable code on any specific architecture used by developers.</li>
 </ul>
-
 <p>&nbsp;</p>
 <h3><span class="ez-toc-section" id="2-What-is-the-latest-version-of-NET-Core-Share-one-specific-attribute"></span>
 <section id="what-is-the-latest-version-of-net-core"><span style="color: #f66700;">2. What is the latest version of .NET Core? Share one specific attribute.</span></section>
