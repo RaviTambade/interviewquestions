@@ -17,8 +17,7 @@
 <li>Now, the Common Language Runtime (CLR) of the framework convert the compiled code to machine code (executable code) using the Just In Time (JIT) compiler.</li>
 <li>At last, we can execute this executable code on any specific architecture used by developers.</li>
 </ul>
-<p><a href="https://www.hackertrail.com/jobs/?utm_source=Careers&utm_medium=CallToAction&utm_campaign=SEO" target="_blank" rel="noopener"><br />
-<img loading="lazy" src="https://www.hackertrail.com/wp-content/uploads/2022/09/Explore-the-Job-Openings-in-APAC.webp" alt="Explore our careers section for .Net Job Openings" width="780" height="78"><br />
+
 </a></p>
 <p>&nbsp;</p>
 <h3><span class="ez-toc-section" id="2-What-is-the-latest-version-of-NET-Core-Share-one-specific-attribute"></span>
