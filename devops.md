@@ -1,15 +1,13 @@
-# DevOps Interview Questions
-
 <article>
 <div class="entry-content-wrap primary-entry-content">
 <header class="entry-header"><h1 class="entry-title">How to Prepare for a Job Interview</h1>
 </header>
 <div class="entry-content">
-<p>Preparing for an interview takes a lot more than Googling a list of common interview questions (though yes, you should 100% be ready for those). You have to make a great first impression (no showing up in wrinkly suits or running late!), know about the company and its products and mission, and, of course, convey exactly why you’d be a great hire for this job.</p>
-<p>So to help you prepare, we compiled a list of our all-time best pre-interview tips. From strategizing about how to tackle the toughest questions to packing your bag, we’ve got you covered—with 30 ways to make sure you bring your A-game.</p>
+<p>DevOps is the intersection point of software development, operations, and quality assurance (QA). Organizations around the world are fast adapting to the DevOps culture to streamline their business strategy. If you are planning to start a career in this field, you must prepare the top DevOps interview questions that you might face in your job interview. We have listed most frequently asked DevOps interview questions and answers to boost your interview preparation. </p>
 
 
-<h3><span class="ez-toc-section" id="Basic-NET-Core-interview-questions"></span><a href="#basic-net-core-interview-questions">Basic .NET Core interview questions</a><span class="ez-toc-section-end"></span></h3>
+
+<h3><span class="ez-toc-section" id="Basic-NET-Core-interview-questions"></span><a href="#basic-net-core-interview-questions">DevOps interview questions</a><span class="ez-toc-section-end"></span></h3>
 <ol>
 <li><a href="#what-is-net-core-framework-and-how-does-it-work">1.What are the popular DevOps tools that you use?</a></li>
 <li><a href="#what-is-the-latest-version-of-net-core">2.What are the main benefits of DevOps?</a></li>
@@ -104,36 +102,36 @@
 <li><a href="#what-is-net-core-framework-and-how-does-it-work">89.What are the different kinds of namespaces available in a Container?</a></li>
 <li><a href="#what-is-net-core-framework-and-how-does-it-work"></a></li>
 
-<li><a href="#what-is-net-core-framework-and-how-does-it-work"></a></li>
-<li><a href="#what-is-the-latest-version-of-net-core"></a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work"></a></li>
-<li><a href="#what-is-the-latest-version-of-net-core"></a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work"></a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work"> </a></li>
-<li><a href="#what-is-the-latest-version-of-net-core"> </a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work"></a></li>
-<li><a href="#what-is-the-latest-version-of-net-core"></a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work"></a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work"></a></li>
-<li><a href="#what-is-the-latest-version-of-net-core"></a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work"></a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work"></a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work"></a></li>
-<li><a href="#what-is-the-latest-version-of-net-core"></a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work"></a></li>
-<li><a href="#what-is-the-latest-version-of-net-core"></a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work"></a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work"> </a></li>
-<li><a href="#what-is-the-latest-version-of-net-core"></a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work"></a></li>
-<li><a href="#what-is-the-latest-version-of-net-core"> </a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work"></a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work"></a></li>
-<li><a href="#what-is-the-latest-version-of-net-core"></a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work"></a></li>
-<li><a href="#what-is-the-latest-version-of-net-core"></a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work"></a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work"></a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">108.Why do we use API in cloud computing environment?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">109.What are the different areas of Security Management in cloud?  </a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">110.What are the main cost factors of cloud based data center?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">111.How can we measure the cloud-based services?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">112.How a traditional datacenter is different from a cloud environment?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work"> 113.How will you optimize availability of your application in a Cloud environment?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core"> 114.What are the requirements for implementing IaaS strategy in Cloud?  </a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">115.What is the scenario in which public cloud is preferred over private cloud?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">116.Do you think Cloud Computing is a software application or a hardware service?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">117.Why companies now prefer Cloud Computing architecture over Client Server Architecture?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">118.What are the main characteristics of Cloud Computing architecture?  </a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">119.How databases in Cloud computing are different from traditional databases?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">120.What is Virtual Private Network (VPN)?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">121.What are the main components of a VPN?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">122.How will you secure the application data for transport in a cloud environment?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">123.What are the large-scale databases available in Cloud? </a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">124.What are the options for open source NoSQL database in a Cloud environment?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">125.What are the important points to consider before selecting cloud computing?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">126.What is a System integrator in Cloud computing?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work"> 127.What is virtualization in cloud computing?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">128.What is Eucalyptus in a cloud environment?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">129.What are the main components of Eucalyptus cloud architecture?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">130.What is Auto-scaling in Cloud computing? </a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">131.What are the benefits of Utility Computing model?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">132.What is a Hypervisor in Cloud Computing?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">133.What are the different types of Hypervisor in Cloud Computing?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">134.Why Type-1 Hypervisor has better performance than Type-2 Hypervisor?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">135.What is CaaS?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">136.How is Cloud computing different from computing for mobile devices?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">137.Why automation of deployment is very important in Cloud architecture?</a></li>
 </ol>
 
 
