@@ -150,22 +150,44 @@
 <li><a href="#what-is-net-core-framework-and-how-does-it-work">152.What is the difference between Multi-tasking and Multi-user environment?</a></li>
 <li><a href="#what-is-the-latest-version-of-net-core">153.What is an Inode in Unix? </a></li>
 <li><a href="#what-is-net-core-framework-and-how-does-it-work">154.What is the difference between absolute path and relative path in Unix file system?</a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">125.What are the important points to consider before selecting cloud computing?</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">126.What is a System integrator in Cloud computing?</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work"> 127.What is virtualization in cloud computing?</a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">128.What is Eucalyptus in a cloud environment?</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">129.What are the main components of Eucalyptus cloud architecture?</a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">130.What is Auto-scaling in Cloud computing? </a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">131.What are the benefits of Utility Computing model?</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">132.What is a Hypervisor in Cloud Computing?</a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">133.What are the different types of Hypervisor in Cloud Computing?</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">134.Why Type-1 Hypervisor has better performance than Type-2 Hypervisor?</a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">135.What is CaaS?</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">136.How is Cloud computing different from computing for mobile devices?</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">137.Why automation of deployment is very important in Cloud architecture?</a></li>
-
-
-
+<li><a href="#what-is-the-latest-version-of-net-core">155.What are the main responsibilities of a Unix Shell?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">156.What is a Shell variable?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work"> 157.What are the important Shell variables that are initialized on starting a Shell?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">158.How will you set the value of Environment variables in Unix?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">159.What is the difference between a System Call and a library function?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">160.What are the networking commands in Unix that you have used?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">161.What is a Pipeline in Unix?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">162.What is the use of tee command in Unix?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">163.How will you count the number of lines and words in a file in Unix?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">164.What is Bash shell?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">165.How will you search for a name in Unix files?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">166.What are the popular options of grep command in Unix?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">167.What is the difference between whoami and who am i commands in Unix?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">168.What is a Superuser in Unix?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">169.How will you check the information about a process in Unix?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">170.What is the use of more command with cat command?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">171.What are the File modes in Unix?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">172.We wrote a shell script in Unix but it is not doing anything. What could be the reason?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">177.What is the significance of 755 in chmod 755 command?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">178.How can we run a process in background in Unix? How can we kill a process running in background?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">179.How will you create a read only file in Unix?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">180.How does alias work in Unix? </a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">181.How can you redirect I/O in Unix?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">182.What are the main steps taken by a Unix Shell for processing a</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">183.What is a Sticky bit in Unix?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">184.What are the different outputs from Kill command in Unix?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core"> 185.How will you customize your environment in Unix?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">186.What are the popular commands for user management in Unix?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">187.How will you debug a shell script in Unix?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">188.What is the difference between a Zombie and Orphan process in Unix?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">189.How will you check if a remote host is still alive?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">190.How will you get the last executed command in Unix?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">191.What is the meaning of<b> “2>&1” </b>in a Unix shell?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">192.How will you find which process is taking most CPU time in Unix?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">194.How will you find which processes are using a file?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">195.What is the purpose of nohup in Unix? </a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">196.How will you remove blank lines from a file in Unix?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">197.How will you find the remote hosts that are connecting to your system on a specific port in Unix?</a></li>
 </ol>
 
 
