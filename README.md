@@ -8,9 +8,6 @@
 <div class="entry-content-wrap primary-entry-content">
 <header class="entry-header"><h1 class="entry-title">.NET Core Interview Questions and Answers</h1>
 </header>
-<div class="entry-meta">
-
-
 <div class="entry-content">
 
 <p>According to <a href="https://insights.stackoverflow.com/survey/2020#technology-other-frameworks-libraries-and-tools-all-respondents3" target="_blank" rel="noopener">Stackoverflow Survey 2020</a>, developers are using .NET and .NET Core in second and third place respectively, as framework or libraries. Mostly it is the first programming language the programmers learn after the OOPs concepts. There are multiple reasons for the success of .NET, one of the most prominent ones is its stack- layered architecture. This architecture provides flexibility to add/ update layers without disturbing the whole application.</p>
@@ -18,10 +15,8 @@
 <p>.NET can be used to develop different types of high-performance applications such as gaming applications. It provides better monitoring, scalability, performance, and consistency for a whole range of applications such as console apps, GUI apps, web apps, web API apps, Windows services etc.</p>
 <p>&nbsp;</p>
 <p>.NET MVC(Model-View-Controller), provides a large set of additional functionalities to create modular applications. It eases the whole application creation process by providing component-based development and testing.</p>
-
-&nbsp;</p>
-<h4>In this article we will dig deeper into .NET core interview questions into the following sections:</h4>
 <p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="Basic-NET-Core-interview-questions"></span><a href="#basic-net-core-interview-questions">Basic .NET Core interview questions</a><span class="ez-toc-section-end"></span></h3>
 <ol>
 <li><a href="#what-is-net-core-framework-and-how-does-it-work">What is .NET Core Framework, and how does it work?</a></li>
