@@ -10,7 +10,7 @@
 </header>
 <div class="entry-content">
 
-<p>According to <a href="https://insights.stackoverflow.com/survey/2020#technology-other-frameworks-libraries-and-tools-all-respondents3" target="_blank" rel="noopener">Stackoverflow Survey 2020</a>, developers are using .NET and .NET Core in second and third place respectively, as framework or libraries. Mostly it is the first programming language the programmers learn after the OOPs concepts. There are multiple reasons for the success of .NET, one of the most prominent ones is its stack- layered architecture. This architecture provides flexibility to add/ update layers without disturbing the whole application.</p>
+<p>According to <a href="https://survey.stackoverflow.co/2023/#section-most-popular-technologies-other-frameworks-and-libraries" target="_blank" rel="noopener">Stackoverflow Survey 2023</a>, developers are using .NET and .NET Core in first place respectively, as framework or libraries. Mostly it is the first programming language the programmers learn after the OOPs concepts. There are multiple reasons for the success of .NET, one of the most prominent ones is its stack- layered architecture. This architecture provides flexibility to add/ update layers without disturbing the whole application.</p>
 <p>&nbsp;</p>
 <p>.NET can be used to develop different types of high-performance applications such as gaming applications. It provides better monitoring, scalability, performance, and consistency for a whole range of applications such as console apps, GUI apps, web apps, web API apps, Windows services etc.</p>
 <p>&nbsp;</p>
