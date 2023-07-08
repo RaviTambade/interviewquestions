@@ -4,6 +4,19 @@
 
 <ol>
 
+<li><h2>What is .NET Core Framework, and how does it work?</h2> 
+<p>.NET Core framework provides an open-source, accessible, and general-purpose platform to create and run applications onto different operating systems. The framework follows the object-oriented programming principles that we can use C#, .NET, VB, Perl, Cobol, etc., programming languages. The framework provides various built-in tools such as packages, classes, libraries, APIs, and other functionalities. We can create a diverse range of applications.</p>
+<p>It works as follows:</p>
+<ol>
+<li>Once you have finished developing codes for required applications, you need to compile those application codes to Common Intermediate Language. </li>
+<li>The framework uses an assembly file to store the compiled code with an extension (.dll or .exe) </li>
+<li>Now, the Common Language Runtime (CLR) of the framework convert the compiled code to machine code (executable code) using the Just In Time (JIT) compiler. </li>
+<li>At last, we can execute this executable code on any specific architecture used by developers. </li>
+</ol>
+</li><li>
+
+
+_____________________________________________________________________________________________
 <li><h2>What is the ASP.NET Core?</h2> 
 <p><a href="https://www.dotnettricks.com/training/masters-program/aspnet-core">ASP.NET Core</a> is not an upgraded version of ASP.NET. ASP.NET Core is completely rewriting that work with the .net Core framework. It is much faster, configurable, modular, scalable, extensible, and has cross-platform support. It can work with both .NET Core and .net framework via the .NET standard framework. It is best suitable for developing cloud-based such as web applications, mobile applications, and IoT applications.</p><p>ASP.NET Core was primarily designed to make the most important part of the ASP.NET components under the concept learn and the compose framework where the previous ASP.NET&nbsp; components were released under a variety of different licenses periodically, The ASP.NET Core framework is a completely open-sourced framework. Apart from the other parts of the framework of the .NET framework libraries, the ASP.NET Core is primarily designed from scratch to be the platform-agnostic that performs seamlessly. It will allow the ASP.NET Core apps to be deployed on the various platforms or the o/s such as the macOS or Linux-based servers or certain devices.</p>
 </li><li>
