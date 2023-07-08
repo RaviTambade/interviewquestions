@@ -132,6 +132,40 @@
 <li><a href="#what-is-the-latest-version-of-net-core">135.What is CaaS?</a></li>
 <li><a href="#what-is-net-core-framework-and-how-does-it-work">136.How is Cloud computing different from computing for mobile devices?</a></li>
 <li><a href="#what-is-net-core-framework-and-how-does-it-work">137.Why automation of deployment is very important in Cloud architecture?</a></li>
+
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">138.What are the main components in Amazon Cloud?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">139.What are main components in Google Cloud?  </a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">140.What are the major offerings of Microsoft Azure Cloud?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">141.What are the reasons of popularity of Cloud Computing architecture?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">142.What are the Machine Learning options from Google Cloud?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">143.How will you optimize the Cloud Computing environment?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core"> 144.Do you think Regulations and Legal Compliance is an important aspect of Cloud Computing? </a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">145.How will you remove all files in current directory? Including the files that are two levels down in a sub-directory.</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">146.What is the difference between the –v and –x options in Bash shell scripts?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">147.What is a Filter in Unix command?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">148.What is Kernel in Unix operating system?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">149.What is a Shell in Unix OS</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">150.What are the different shells in Unix that you know about?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">151.What is the first character of the output in ls –l command ?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">152.What is the difference between Multi-tasking and Multi-user environment?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">153.What is an Inode in Unix? </a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">154.What is the difference between absolute path and relative path in Unix file system?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">125.What are the important points to consider before selecting cloud computing?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">126.What is a System integrator in Cloud computing?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work"> 127.What is virtualization in cloud computing?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">128.What is Eucalyptus in a cloud environment?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">129.What are the main components of Eucalyptus cloud architecture?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">130.What is Auto-scaling in Cloud computing? </a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">131.What are the benefits of Utility Computing model?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">132.What is a Hypervisor in Cloud Computing?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">133.What are the different types of Hypervisor in Cloud Computing?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">134.Why Type-1 Hypervisor has better performance than Type-2 Hypervisor?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">135.What is CaaS?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">136.How is Cloud computing different from computing for mobile devices?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">137.Why automation of deployment is very important in Cloud architecture?</a></li>
+
+
+
 </ol>
 
 
