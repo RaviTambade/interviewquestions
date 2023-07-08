@@ -22,7 +22,6 @@
 <li><a href="#what-is-net-core-framework-and-how-does-it-work">11. Familiarize yourself with the STAR method.</a></li>
 <li><a href="#what-is-the-latest-version-of-net-core">12. Jot down important numbers and details.</a></li>
 <li><a href="#what-is-net-core-framework-and-how-does-it-work">13. Brush up on your interview skills.</a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">9. Do some salary research.</a></li>
 <li><a href="#what-is-net-core-framework-and-how-does-it-work">14. Practice—but don’t memorize—your answers to common interview questions.</a></li>
 <li><a href="#what-is-net-core-framework-and-how-does-it-work">15. Think about body language.</a></li>
 <li><a href="#what-is-the-latest-version-of-net-core">16.Try some mock interviews.</a></li>
