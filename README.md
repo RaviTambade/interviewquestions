@@ -333,10 +333,7 @@
 </tr>
 </tbody>
 </table>
-<p style="text-align: center;"><i><b>Practice Skill:</b> Test your C# knowledge <a href="https://www.hackertrail.com/single-quiz/?quiz_id=20630a81-070e-4969-a094-49e77fa9e095" target="_blank" rel="noopener">here.</a></i></p>
-<p><a href="https://www.hackertrail.com/jobs/?utm_source=Careers&utm_medium=CallToAction&utm_campaign=SEO" target="_blank" rel="noopener"><br />
-<img loading="lazy" src="https://www.hackertrail.com/wp-content/uploads/2022/09/Explore-the-Job-Openings-in-APAC.webp" alt="Explore our careers section for .Net Job Openings" width="780" height="78"><br />
-</a></p>
+
 <p>&nbsp;</p>
 <h2><span class="ez-toc-section" id="Advanced-NET-Core-Interview-Questions"></span>
 <section id="advanced-net-core-interview-questions"><span style="color: #f66700;">Advanced .NET Core Interview Questions</span></section>
