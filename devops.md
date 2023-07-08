@@ -146,6 +146,11 @@
 <span class="ez-toc-section-end"></span></h3>
 <p>Spend a few hours learning everything you can about the company—from as many sources as you can. Talk to people in your network to find current and previous employees, read current news releases, and, yes, spend some time on Google. Often, candidates just look at the information a company is pushing out on its own website and social media accounts, but fail to look more in depth at what others are saying. By looking at multiple sources, you’ll get a broader picture of the company (along with any negative press), and be ready to talk about why you’d like to work there and what you can do for them.</p>
 
+</div> </div>
+</div>
+</article>
+<hr/>
+<hr/>
 <hr/>
 
 
