@@ -1,7 +1,136 @@
 # UploadFile
 
+<hr/>
 
+<h2><span class="ez-toc-section" id="Basic-NET-Core-Interview-Questions"></span>
+<section id="basic-net-core-interview-questions"><span style="color: #f66700;">Basic .NET Core Interview Questions</span></section>
+<span class="ez-toc-section-end"></span></h2>
+<p>&nbsp;</p>
+<h3><span class="ez-toc-section" id="1-What-is-NET-Core-Framework-and-how-does-it-work"></span>
+<section id="what-is-net-core-framework-and-how-does-it-work"><span style="color: #f66700;">1. What is .NET Core Framework, and how does it work?</span></section>
+<span class="ez-toc-section-end"></span></h3>
+<p>.NET Core framework provides an open-source, accessible, and general-purpose platform to create and run applications onto different operating systems. The framework follows the object-oriented programming principles that we can use C#, .NET, VB, Perl, Cobol, etc., programming languages. The framework provides various built-in tools such as packages, classes, libraries, APIs, and other functionalities. We can create a diverse range of applications.</p>
+<h4>It works as follows:</h4>
+<ul>
+<li>Once you have finished developing codes for required applications, you need to compile those application codes to Common Intermediate Language.</li>
+<li>The framework uses an assembly file to store the compiled code with an extension (.dll or .exe)</li>
+<li>Now, the Common Language Runtime (CLR) of the framework convert the compiled code to machine code (executable code) using the Just In Time (JIT) compiler.</li>
+<li>At last, we can execute this executable code on any specific architecture used by developers.</li>
+</ul>
+<p><a href="https://www.hackertrail.com/jobs/?utm_source=Careers&utm_medium=CallToAction&utm_campaign=SEO" target="_blank" rel="noopener"><br />
+<img loading="lazy" src="https://www.hackertrail.com/wp-content/uploads/2022/09/Explore-the-Job-Openings-in-APAC.webp" alt="Explore our careers section for .Net Job Openings" width="780" height="78"><br />
+</a></p>
+<p>&nbsp;</p>
+<h3><span class="ez-toc-section" id="2-What-is-the-latest-version-of-NET-Core-Share-one-specific-attribute"></span>
+<section id="what-is-the-latest-version-of-net-core"><span style="color: #f66700;">2. What is the latest version of .NET Core? Share one specific attribute.</span></section>
+<span class="ez-toc-section-end"></span></h3>
+<p>The latest version of .NET Core is .NET Core 6.0, and its release date is July 12 2022, according to <a href="https://dotnet.microsoft.com/en-us/download/dotnet/6.0" target="_blank" rel="noopener">Microsoft Documentation</a>. The newest release includes the .NET Runtime and ASP.NET Core Runtime. It has introduced Android, iOS, and macOS SDKs for developing native applications. You can check this <a href="https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.7/6.0.7.md?WT.mc_id=dotnet-35129-website" target="_blank" rel="noopener">documentation</a> to know the setup instructions and develop .NET MAUI applications.</p>
+<p>&nbsp;</p>
+<h3><span class="ez-toc-section" id="3-Share-specific-features-of-NET-Core"></span>
+<section id="share-specific-features-of-net-core"><span style="color: #f66700;">3. Share specific features of .NET Core?</span></section>
+<span class="ez-toc-section-end"></span></h3>
+<h4>.NET Core has these 4 specific features:</h4>
+<ul>
+<li><b>Cross-platform:</b> It supports various platforms and is executable on windows, macOS, and Linux. You can easily port the codes from one platform to another platform.</li>
+<li><b>Flexibility:</b> You can easily include codes in the desired app or install them per requirements. It means you can use one single consistent API model for all .NET applications with the help of the same library on various platforms.</li>
+<li><b>Open Source:</b> You can use it by downloading it from the Github library. You don't need to pay to purchase a license. The framework has been licensed under MIT and Apache.</li>
+<li><b>Command-line tools:</b> You can efficiently execute applications at the command line.</li>
+</ul>
+<p>&nbsp;</p>
+<h3><span class="ez-toc-section" id="4-What-is-NET-Core-used-for"></span>
+<section id="what-is-net-core-used-for"><span style="color: #f66700;">4. What is .NET Core used for?</span></section>
+<span class="ez-toc-section-end"></span></h3>
+<h4>You can use .NET Core in many ways:</h4>
+<ul>
+<li>For developing and building web applications and services that run on diverse operating systems</li>
+<li>For creating Internet of Things applications and mobile backends</li>
+<li>For using any development tools on any operating system</li>
+<li>For creating and deploying applications to the cloud or other on-premises services.</li>
+<li>Flexibility, high performance, and lightweight features allow for the development of applications quickly in containers deployable on all operating systems.</li>
+</ul>
+<p>&nbsp;</p>
+<h3><span class="ez-toc-section" id="5-Discuss-critical-components-in-NET-Core"></span>
+<section id="discuss-critical-components-in-net-core"><span style="color: #f66700;">5. Discuss critical components in .NET Core?</span></section>
+<span class="ez-toc-section-end"></span></h3>
+<p>Since .NET Core is a modular platform thus, its components could be stacked into these three layers:</p>
+<ul>
+<li>A .Net runtime: It consists of different runtime libraries that allow you to perform functions such as type safety, load assemblies, garbage collections etc.</li>
+<li>A collection of Framework libraries: It also consists of libraries that offer utilities, primitive data types, etc.</li>
+<li>A collection of SDK tools and compilers: It permits you to work with .NET Core SDK quickly.</li>
+</ul>
+<p>This stack could be divided into these four components:</p>
+<p><img loading="lazy" class="alignnone " src="https://www.hackertrail.com/wp-content/uploads/2022/09/critical-components-in-.NET-Core.webp" alt="critical components in .NET Core" width="624" height="364" /></p>
+<p>Image Credit: .NET Core Components</p>
+<p>&nbsp;</p>
+<h3><span class="ez-toc-section" id="6-What-is-the-difference-between-Net-Core-and-Mono"></span>
+<section id="what-is-the-difference-between-net-core-and-mono"><span style="color: #f66700;">6. What is the difference between .Net Core and Mono?</span></section>
+<span class="ez-toc-section-end"></span></h3>
+<table style="width:100%">
+<tr>
+<td><b>Point</b></td>
+<td><b>.Net Core</b></td>
+<td><b>Mono</b></td>
+</tr>
+<tr>
+<td>What is exactly?</td>
+<td>A part of.NET framework which is specially optimised for designing modern apps and supporting developer workflows</td>
+<td>It is also part of .NET family frameworks, but this framework is optimised for iOS, macOS, Android, and Windows devices by the Xamarin platform</td>
+</tr>
+<tr>
+<td>Best application Area</td>
+<td>
+<ul>
+<li>To design command line applications</li>
+<li>Web application development</li>
+<li>Designing background service apps</li>
+<li>Desktop application</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Mobile app development</li>
+<li>Designing games</li>
+<li>Code compilation within the browser</li>
+<li>Designing multi-platform desktop applications</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Specific features</td>
+<td>
+<ul>
+<li>Natural acquisition</li>
+<li>Modular framework</li>
+<li>Smaller deployment footprint</li>
+<li>Fast release cycles</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Native User Interface</li>
+<li>Native API Access</li>
+<li>Native Performance</li>
+<li>Productivity</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>App Models</td>
+<td>UWP (Universal Windows Platform), ASP.NET Core</td>
+<td>Xamarin iOS, Xamarin Android, Xamarin Forms, Xamarin Mac</td>
+</tr>
+<tr>
+<td>Base library</td>
+<td>CoreFX Class Library</td>
+<td>Mono Class Library</td>
+</tr>
+</table>
+<p><a href="https://www.hackertrail.com/practice/?utm_source=PracticeSkills&utm_medium=CallToAction&utm_campaign=SEO" target="_blank" rel="noopener"><br />
+<img loading="lazy" src="https://www.hackertrail.com/wp-content/uploads/2022/09/Practice-Your-Coding-Skills-Here.webp" alt="Test your .Net coding skills here" width="780" height="78"><br />
+</a></p>
+<p>&nbsp;</p>
 
+<hr/>
 <ol>
 
 <li><h2>What is .NET Core Framework, and how does it work?</h2> 
@@ -14,6 +143,20 @@
 <li>At last, we can execute this executable code on any specific architecture used by developers. </li>
 </ol>
 </li><li>
+
+____________________________________________________________________________________
+
+<li><h2>What is the latest version of .NET Core? Share one specific attribute.</h2> 
+<p>.NET Core framework provides an open-source, accessible, and general-purpose platform to create and run applications onto different operating systems. The framework follows the object-oriented programming principles that we can use C#, .NET, VB, Perl, Cobol, etc., programming languages. The framework provides various built-in tools such as packages, classes, libraries, APIs, and other functionalities. We can create a diverse range of applications.</p>
+<p>It works as follows:</p>
+<ol>
+<li>Once you have finished developing codes for required applications, you need to compile those application codes to Common Intermediate Language. </li>
+<li>The framework uses an assembly file to store the compiled code with an extension (.dll or .exe) </li>
+<li>Now, the Common Language Runtime (CLR) of the framework convert the compiled code to machine code (executable code) using the Just In Time (JIT) compiler. </li>
+<li>At last, we can execute this executable code on any specific architecture used by developers. </li>
+</ol>
+</li><li>
+
 
 
 _____________________________________________________________________________________________
