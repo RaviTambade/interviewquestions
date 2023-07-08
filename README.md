@@ -1,9 +1,3 @@
-# UploadFile
-
-<hr/>
-
-<div>
-
 <article>
 <div class="entry-content-wrap primary-entry-content">
 <header class="entry-header"><h1 class="entry-title">.NET Core Interview Questions and Answers</h1>
