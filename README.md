@@ -4,30 +4,15 @@
 
 <div>
 
-<article id="post-9472" class="post-9472 post type-post status-publish format-standard has-post-thumbnail hentry category-backend user-has-earned default-fi">
+<article>
 <div class="entry-content-wrap primary-entry-content">
-<header class="entry-header"><h1 class="entry-title">.NET Core Interview Questions and Answers 2023</h1>
+<header class="entry-header"><h1 class="entry-title">.NET Core Interview Questions and Answers</h1>
 </header>
 <div class="entry-meta">
-<div class="bb-user-avatar-wrap">
-<div class="avatar-wrap">
-<a href="https://www.hackertrail.com/author/hackertrail/">
-<img alt='' src='https://www.hackertrail.com/wp-content/uploads/avatars/3/60efa89225332-bpthumb.jpg' srcset='https://www.hackertrail.com/wp-content/uploads/avatars/3/60efa89225332-bpthumb.jpg 2x' class='avatar avatar-80 photo' height='80' width='80' loading='lazy' /> </a>
-</div>
-<div class="meta-wrap">
-<a class="post-author" href="https://www.hackertrail.com/author/hackertrail/">
-HackerTrail </a>
-<span class="post-date"><a href="https://www.hackertrail.com/talent/backend/net-core-interview-questions-answers/">May 12, 2023</a></span>
-</div>
-</div>
-<div class="push-right flex align-items-center top-meta">
-</div>
-</div>
-<figure class="entry-media entry-img bb-vw-container1">
-<img width="640" height="360" src="https://www.hackertrail.com/wp-content/uploads/2021/07/NET-Interview-Questions-Answers.jpg" class="attachment-large size-large wp-post-image" alt=".NET Core Interview Questions and Answers" loading="lazy" srcset="https://www.hackertrail.com/wp-content/uploads/2021/07/NET-Interview-Questions-Answers.jpg 768w, https://www.hackertrail.com/wp-content/uploads/2021/07/NET-Interview-Questions-Answers-300x169.jpg 300w, https://www.hackertrail.com/wp-content/uploads/2021/07/NET-Interview-Questions-Answers-624x351.jpg 624w, https://www.hackertrail.com/wp-content/uploads/2021/07/NET-Interview-Questions-Answers-50x28.jpg 50w, https://www.hackertrail.com/wp-content/uploads/2021/07/NET-Interview-Questions-Answers-100x56.jpg 100w, https://www.hackertrail.com/wp-content/uploads/2021/07/NET-Interview-Questions-Answers-600x338.jpg 600w" sizes="(max-width: 640px) 100vw, 640px" /> </figure>
+
 
 <div class="entry-content">
-<div class="shared-counts-wrap before_content style-bar"><a href="https://twitter.com/share?url=https://www.hackertrail.com/talent/backend/net-core-interview-questions-answers/&amp;text=.NET%20Core%20Interview%20Questions%20and%20Answers%202023" title="Share on Twitter" target="_blank" rel="nofollow noopener noreferrer" class="shared-counts-button twitter shared-counts-no-count" data-postid="9472" data-social-network="Twitter" data-social-action="Tweet" data-social-target="https://www.hackertrail.com/talent/backend/net-core-interview-questions-answers/"><span class="shared-counts-icon-label"><span class="shared-counts-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="29.71875" height="32" viewBox="0 0 951 1024"><path d="M925.714 233.143q-38.286 56-92.571 95.429 0.571 8 0.571 24 0 74.286-21.714 148.286t-66 142-105.429 120.286-147.429 83.429-184.571 31.143q-154.857 0-283.429-82.857 20 2.286 44.571 2.286 128.571 0 229.143-78.857-60-1.143-107.429-36.857t-65.143-91.143q18.857 2.857 34.857 2.857 24.571 0 48.571-6.286-64-13.143-106-63.714t-42-117.429v-2.286q38.857 21.714 83.429 23.429-37.714-25.143-60-65.714t-22.286-88q0-50.286 25.143-93.143 69.143 85.143 168.286 136.286t212.286 56.857q-4.571-21.714-4.571-42.286 0-76.571 54-130.571t130.571-54q80 0 134.857 58.286 62.286-12 117.143-44.571-21.143 65.714-81.143 101.714 53.143-5.714 106.286-28.571z"></path></svg></span><span class="shared-counts-label">Tweet</span></span></a><a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.hackertrail.com/talent/backend/net-core-interview-questions-answers/" title="Share on LinkedIn" target="_blank" rel="nofollow noopener noreferrer" class="shared-counts-button linkedin shared-counts-no-count" data-postid="9472" data-social-network="LinkedIn" data-social-action="Share" data-social-target="https://www.hackertrail.com/talent/backend/net-core-interview-questions-answers/"><span class="shared-counts-icon-label"><span class="shared-counts-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="27.4375" height="32" viewBox="0 0 878 1024"><path d="M199.429 357.143v566.286h-188.571v-566.286h188.571zM211.429 182.286q0.571 41.714-28.857 69.714t-77.429 28h-1.143q-46.857 0-75.429-28t-28.571-69.714q0-42.286 29.429-70t76.857-27.714 76 27.714 29.143 70zM877.714 598.857v324.571h-188v-302.857q0-60-23.143-94t-72.286-34q-36 0-60.286 19.714t-36.286 48.857q-6.286 17.143-6.286 46.286v316h-188q1.143-228 1.143-369.714t-0.571-169.143l-0.571-27.429h188v82.286h-1.143q11.429-18.286 23.429-32t32.286-29.714 49.714-24.857 65.429-8.857q97.714 0 157.143 64.857t59.429 190z"></path></svg></span><span class="shared-counts-label">LinkedIn</span></span></a><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.hackertrail.com/talent/backend/net-core-interview-questions-answers/&amp;display=popup&amp;ref=plugin&amp;src=share_button" title="Share on Facebook" target="_blank" rel="nofollow noopener noreferrer" class="shared-counts-button facebook_shares shared-counts-no-count" data-postid="9472" data-social-network="Facebook" data-social-action="Share" data-social-target="https://www.hackertrail.com/talent/backend/net-core-interview-questions-answers/"><span class="shared-counts-icon-label"><span class="shared-counts-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="18.8125" height="32" viewBox="0 0 602 1024"><path d="M548 6.857v150.857h-89.714q-49.143 0-66.286 20.571t-17.143 61.714v108h167.429l-22.286 169.143h-145.143v433.714h-174.857v-433.714h-145.714v-169.143h145.714v-124.571q0-106.286 59.429-164.857t158.286-58.571q84 0 130.286 6.857z"></path></svg></span><span class="shared-counts-label">Share</span></span></a></div>
+
 <p>According to <a href="https://insights.stackoverflow.com/survey/2020#technology-other-frameworks-libraries-and-tools-all-respondents3" target="_blank" rel="noopener">Stackoverflow Survey 2020</a>, developers are using .NET and .NET Core in second and third place respectively, as framework or libraries. Mostly it is the first programming language the programmers learn after the OOPs concepts. There are multiple reasons for the success of .NET, one of the most prominent ones is its stack- layered architecture. This architecture provides flexibility to add/ update layers without disturbing the whole application.</p>
 <p>&nbsp;</p>
 <p>.NET can be used to develop different types of high-performance applications such as gaming applications. It provides better monitoring, scalability, performance, and consistency for a whole range of applications such as console apps, GUI apps, web apps, web API apps, Windows services etc.</p>
