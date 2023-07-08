@@ -811,11 +811,6 @@
 <p style="text-align: center;"><i><b>Practice Skill:</b> Expertise comes from practice. Develop your <a href="https://www.hackertrail.com/practice/" target="_blank" rel="noopener">coding skills</a> to become an expert.</i></p>
 <p style="text-align: center;"><i>Refresh your backend development skills <a href="https://www.hackertrail.com/talent/backend/backend-development-skills-2021/" target="_blank" rel="noopener">here</a>.</i></p>
 <p>&nbsp;</p>
-<h2><span class="ez-toc-section" id="Final-Thoughts-2"></span>
-<section id="final-thoughts"><span style="color: #f66700;">Final Thoughts</span></section>
-<span class="ez-toc-section-end"></span></h2>
-<p>We are here to help you prepare for your .NET Core Interview Questions. We hope these questions will help you sharpen your .NET Core knowledge. Read these <a href="https://www.hackertrail.com/talent/tips/interview-questions-where-do-you-see-yourself-in-5-years/" target="_blank" rel="noopener">interview questions</a> to learn how to succeed in any interview. Join us and practice your skills before your tech interviews. We'd love to hear your questions in the comment section.</p>
-<p>&nbsp;</p>
 <</div> </div>
 </div>
 </article>
