@@ -69,11 +69,10 @@
 <li><a href="#describe-the-request-flow-in-the-asp-net-mvc-framework">Describe the request flow in the ASP.NET MVC framework.</a></li>
 </ol>
 
-<p>&nbsp;</p>
+
 <h2><span class="ez-toc-section" id="Basic-NET-Core-Interview-Questions"></span>
 <section id="basic-net-core-interview-questions"><span style="color: #f66700;">Basic .NET Core Interview Questions</span></section>
 <span class="ez-toc-section-end"></span></h2>
-<p>&nbsp;</p>
 <h3><span class="ez-toc-section" id="1-What-is-NET-Core-Framework-and-how-does-it-work"></span>
 <section id="what-is-net-core-framework-and-how-does-it-work"><span style="color: #f66700;">1. What is .NET Core Framework, and how does it work?</span></section>
 <span class="ez-toc-section-end"></span></h3>
@@ -85,12 +84,12 @@
 <li>Now, the Common Language Runtime (CLR) of the framework convert the compiled code to machine code (executable code) using the Just In Time (JIT) compiler.</li>
 <li>At last, we can execute this executable code on any specific architecture used by developers.</li>
 </ul>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="2-What-is-the-latest-version-of-NET-Core-Share-one-specific-attribute"></span>
 <section id="what-is-the-latest-version-of-net-core"><span style="color: #f66700;">2. What is the latest version of .NET Core? Share one specific attribute.</span></section>
 <span class="ez-toc-section-end"></span></h3>
 <p>The latest version of .NET Core is .NET Core 6.0, and its release date is July 12 2022, according to <a href="https://dotnet.microsoft.com/en-us/download/dotnet/6.0" target="_blank" rel="noopener">Microsoft Documentation</a>. The newest release includes the .NET Runtime and ASP.NET Core Runtime. It has introduced Android, iOS, and macOS SDKs for developing native applications. You can check this <a href="https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.7/6.0.7.md?WT.mc_id=dotnet-35129-website" target="_blank" rel="noopener">documentation</a> to know the setup instructions and develop .NET MAUI applications.</p>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="3-Share-specific-features-of-NET-Core"></span>
 <section id="share-specific-features-of-net-core"><span style="color: #f66700;">3. Share specific features of .NET Core?</span></section>
 <span class="ez-toc-section-end"></span></h3>
@@ -101,7 +100,7 @@
 <li><b>Open Source:</b> You can use it by downloading it from the Github library. You don't need to pay to purchase a license. The framework has been licensed under MIT and Apache.</li>
 <li><b>Command-line tools:</b> You can efficiently execute applications at the command line.</li>
 </ul>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="4-What-is-NET-Core-used-for"></span>
 <section id="what-is-net-core-used-for"><span style="color: #f66700;">4. What is .NET Core used for?</span></section>
 <span class="ez-toc-section-end"></span></h3>
@@ -113,7 +112,7 @@
 <li>For creating and deploying applications to the cloud or other on-premises services.</li>
 <li>Flexibility, high performance, and lightweight features allow for the development of applications quickly in containers deployable on all operating systems.</li>
 </ul>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="5-Discuss-critical-components-in-NET-Core"></span>
 <section id="discuss-critical-components-in-net-core"><span style="color: #f66700;">5. Discuss critical components in .NET Core?</span></section>
 <span class="ez-toc-section-end"></span></h3>
@@ -125,7 +124,7 @@
 </ul>
 <p>This stack could be divided into these four components:</p>
 
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="6-What-is-the-difference-between-Net-Core-and-Mono"></span>
 <section id="what-is-the-difference-between-net-core-and-mono"><span style="color: #f66700;">6. What is the difference between .Net Core and Mono?</span></section>
 <span class="ez-toc-section-end"></span></h3>
@@ -190,26 +189,24 @@
 </tr>
 </table>
 
-<p>&nbsp;</p>
 <h3><span class="ez-toc-section" id="7-What-is-NET-Core-CoreFX"></span>
 <section id="what-is-net-core-corefx"><span style="color: #f66700;">7. What is .NET Core CoreFX?</span></section>
 <span class="ez-toc-section-end"></span></h3>
 <p>CoreFX is the introductive class library for .NET Core. It consists of collection types, file systems, console, JSON, and XML for class library implementation. You can use this code as a single portable assembly. Since it provides platform-neutral code, thus you can share it across different platforms.</p>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="8-What-is-CoreCLR"></span>
 <section id="what-is-coreclr"><span style="color: #f66700;">8. What is CoreCLR?</span></section>
 <span class="ez-toc-section-end"></span></h3>
 <p>CoreCLR is the .NET execution engine in .NET Core. It consists of a garbage collector, JIT compiler, low-level classes, and primitive data types. Garbage collection and machine code compilation are its primary functions.</p>
-<p>&nbsp;</p>
-<p>The following image shows .NET Core Compilation. You can clearly write codes in different languages that compliers like Roslyn would comply with. The compiler will generate the respective CIL code used by the JIT compiler for further compilation. Since CoreCLR is embedded in the JIT compiler, it would eventually generate machine code. Check its source code available on <a href="https://github.com/dotnet/runtime" target="_blank" rel="noopener">GitHub</a></p>
-<p>&nbsp;</p>
 
-<p>&nbsp;</p>
+<p>The following image shows .NET Core Compilation. You can clearly write codes in different languages that compliers like Roslyn would comply with. The compiler will generate the respective CIL code used by the JIT compiler for further compilation. Since CoreCLR is embedded in the JIT compiler, it would eventually generate machine code. Check its source code available on <a href="https://github.com/dotnet/runtime" target="_blank" rel="noopener">GitHub</a></p>
+
+
 <h3><span class="ez-toc-section" id="9-How-is-NET-Core-SDK-different-from-NET-Core-Runtime"></span>
 <section id="how-is-net-core-sdk-different-from-net-core-runtime"><span style="color: #f66700;">9. How is .NET Core SDK different from .NET Core Runtime?</span></section>
 <span class="ez-toc-section-end"></span></h3>
 <p>.NET Core SDK builds applications, whereas .NET Core Runtime runs the application. Consider SDK is a collection of all tools and libraries you need to develop .NET Core applications quickly like a compiler, CLI. Consider Runtime as a virtual machine consisting of runtimes libraries and helps you run those applications.</p>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="10-Where-should-you-not-use-NET-Core"></span>
 <section id="where-should-you-not-use-net-core"><span style="color: #f66700;">10. Where should you not use .NET Core?</span></section>
 <span class="ez-toc-section-end"></span></h3>
@@ -220,7 +217,7 @@
 <li>Any applications that need sub frameworks like WPF, WebForms, Winforms as .NET Core don't support these.</li>
 <li>Prevent trying .NET Core in applications requiring higher level frameworks such as WCF, Entity Framework, and Windows Workflow Foundation.</li>
 </ul>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="11-What-are-the-advantages-of-NET-Core"></span>
 <section id="what-are-the-advantages-of-net-core"><span style="color: #f66700;">11. What are the advantages of .NET Core?</span></section>
 <span class="ez-toc-section-end"></span></h3>
@@ -232,7 +229,7 @@
 <li><b>High performance</b>: With every new release of the .NET core, the performance is improved for the benefit of users. For example, in .NET 5, the garbage collection is improved for faster speed, scalability, and reduction in memory resets’ cost. Detailed account of <a href="https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-5/" target="_blank" rel="noopener">performance improvement in .NET 5.</a></li>
 <li><b>Flexible</b>: Provides the flexibility to use any database and infrastructure as per choice. It provides the ability to change, evolve and grow easily according to external factors.</li>
 </ul>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="12-What-is-Kestrel"></span>
 <section id="what-is-kestrel"><span style="color: #f66700;">12. What is Kestrel?</span></section>
 <span class="ez-toc-section-end"></span></h3>
@@ -240,9 +237,9 @@
 
 &nbsp;</p>
 <p>Kestrel is an event-driven, I/O-based, open-source, cross-platform, and asynchronous server which hosts .NET applications. It is provided as a default server for .NET Core therefore, it is compatible with all the platforms and their versions which .NET Core supports.</p>
-<p>&nbsp;</p>
+
 <p>Usually, it is used as an edge-server, which means it is the server which faces the internet and handles HTTP web requests from clients directly. It is a listening server with a command-line interface.</p>
-<p>&nbsp;</p>
+
 <h4>Advantages of Kestrel are:</h4>
 <ul>
 <li>Lightweight and fast.</li>
@@ -250,7 +247,7 @@
 <li>Supports HTTPS.</li>
 <li>Easy configuration</li>
 </ul>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="13-What-do-you-know-about-NET-Core-middleware"></span>
 <section id="what-do-you-know-about-net-core-middleware"><span style="color: #f66700;">13. What do you know about .NET Core middleware?</span></section>
 <span class="ez-toc-section-end"></span></h3>
@@ -259,38 +256,30 @@
 <li>To pass the request to the next component.</li>
 <li>Perform some processing on the request before or after passing it.</li>
 </ul>
-<p>&nbsp;</p>
+
 <p>The below diagram shows a middleware request pipeline consisting of many delegates called one after another. Where black arrows mark the direction of execution. Each delegate in the diagram performs some operations before or after the next delegate.</p>
 <p>More details from <a href="https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-5.0" target="_blank" rel="noopener">Microsoft’s documentation.</a></p>
-<p>&nbsp;<br />
 
-&nbsp;</p>
 <h3><span class="ez-toc-section" id="14-What-are-Razor-Pages-in-NET-Core"></span>
 <section id="what-are-razor-pages-in-net-core"><span style="color: #f66700;">14. What are Razor Pages in .NET Core?</span></section>
 <span class="ez-toc-section-end"></span></h3>
 <p>Razor Pages is a new server-side framework which works on a page-based approach to render applications in .NET Core. They are stored as a physical <a href="https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-5.0&amp;tabs=visual-studio" target="_blank" rel="noopener">.cshtml</a><a href="https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-5.0&amp;tabs=visual-studio" target="_blank" rel="noopener"></a>file.</p>
-<p>&nbsp;</p>
+
 <p>They have the HTML and code in a single file, without the need to maintain separate controllers, view models, action methods, etc. We can also have the code separate from the HTML in a different file which is attached to the Razor Page. Both types are shown below in the diagram:</p>
-<p>&nbsp;<br />
-<figure id="attachment_9476" aria-describedby="caption-attachment-9476" style="width: 400px" class="wp-caption alignnone"><img loading="lazy" class="size-full wp-image-9476" src="https://www.hackertrail.com/wp-content/uploads/2022/05/ASP.NET-Core-Razor-Pages.webp" alt="Razor Pages" width="400" height="300" /><figcaption id="caption-attachment-9476" class="wp-caption-text">Image credit: https://www.ezzylearning.net/</figcaption></figure>
-&nbsp;</p>
 <p>Razor Pages framework is flexible, lightweight, cohesive, page-based, easy to learn and maintain compared to MVC. It can be used in conjunction with traditional MVC (Model-View-Controller) architecture or Web-API controllers.</p>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="15-What-are-service-lifetimes-in-NET-Core"></span>
 <section id="what-are-service-lifetimes-in-net-core"><span style="color: #f66700;">15. What are service lifetimes in .NET Core?</span></section>
 <span class="ez-toc-section-end"></span></h3>
 <p>.NET Core supports a design pattern called ‘<a href="https://docs.microsoft.com/en-us/dotnet/core/extensions/dependency-injection#service-lifetimes">Dependency Injection</a>’ which helps in the implementation of IoC(<a href="https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles#dependency-inversion" target="_blank" rel="noopener">Inversion of Control</a>). During registration, dependencies require their lifetime to be defined. The lifetime of service decides under what condition the instance of the service will be created and till what time it will be live. </p>
-<p>&nbsp;</p>
+
 <p>There are three types of service lifetimes supported by .NET Core:</p>
 <ul>
 <li><b>Transient Service:</b> Instance is created each time it is requested.</li>
 <li><b>Scoped Service:</b> User-specific instance is created once per user and shared across all the requests.</li>
 <li><b>Singleton Service:</b> Single Instance is created once a lifetime of the application.</li>
 </ul>
-<p>&nbsp;<br />
 
-
-&nbsp;</p>
 <h3><span class="ez-toc-section" id="16-What-are-the-differences-between-NET-Core-and-NET-Framework"></span>
 <section id="what-are-the-differences-between-net-core-and-net-framework"><span style="color: #f66700;">16. What are the differences between .NET Core and .NET Framework?</span></section>
 <span class="ez-toc-section-end"></span></h3>
@@ -323,11 +312,11 @@
 </tbody>
 </table>
 
-<p>&nbsp;</p>
+
 <h2><span class="ez-toc-section" id="Advanced-NET-Core-Interview-Questions"></span>
 <section id="advanced-net-core-interview-questions"><span style="color: #f66700;">Advanced .NET Core Interview Questions</span></section>
 <span class="ez-toc-section-end"></span></h2>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="17-Explain-Docker-in-NET-Core"></span>
 <section id="explain-docker-in-net-core"><span style="color: #f66700;">17. Explain Docker in .NET Core.</span></section>
 <span class="ez-toc-section-end"></span></h3>
@@ -338,20 +327,20 @@
 <li>Responsive deployment and scaling</li>
 <li>Efficiently run more workloads on the same hardware</li>
 </ul>
-<p>&nbsp;</p>
+
 <h4>Take care following points while using <a href="https://docs.microsoft.com/en-us/dotnet/core/docker/introduction" target="_blank" rel="noopener">Docker in .NET Core</a></h4>
 <ul>
 <li>You can use the Docker client's CLI for managing images and containers</li>
 <li>You must adequately integrate Docker images, containers, and registries while designing and containerising applications or microservices</li>
 <li>Use Dockerfile for rebuilding images and distribute them with others</li>
 </ul>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="18-What-is-NET-Core-CLI"></span>
 <section id="what-is-net-core-cli"><span style="color: #f66700;">18. What is .NET Core CLI?</span></section>
 <span class="ez-toc-section-end"></span></h3>
 <p>.NET Core CLI is part of .NET SDK that provides a cross-platform toolset to develop, create, and run .NET Core applications. You can install multiple versions of the toolset on your machine. You can use the following standard syntax to use CLI:</p>
 <p><i>dotnet [verb] [arguments]</i></p>
-<p>&nbsp;</p>
+
 <h4>It provides four types of commands</h4>
 <ul>
 <li><b>Basic commands</b>: All commands required to develop applications like new, restore, build, run, etc.</li>
@@ -359,19 +348,19 @@
 <li><b>Advanced commands</b>: It gives various commands to perform additional functions such as deleting nuget.</li>
 <li><b>Tool management commands</b>: You can use these commands to manage tools.</li>
 </ul>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="19-What-is-Hosting-Environment-Management"></span>
 <section id="what-is-hosting-environment-management"><span style="color: #f66700;">19. What is Hosting Environment Management?</span></section>
 <span class="ez-toc-section-end"></span></h3>
 <p>It is a new feature of .NET Core that permits you to work with multiple environments with no friction. You can use this feature through the available interface, Hosting Environment. The interface has been open since the first run of the application. Its execution depends on the environment variable and switch between the configuration files during runtime.</p>
-<p>&nbsp;</p>
+
 <p>The interface reads a specific environment variable named "ASPNETCORE_ENVIRONMENT" and checks its value. Check its following values:</p>
 <ul>
 <li><b>If value</b>: Development – You are running the application in Dev mode</li>
 <li><b>If value</b>: Staging – You are running the application in staging mode</li>
 </ul>
 <p>This feature permits you to manage the different environments as well.</p>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="20-Briefly-explain-Garbage-Collection-its-benefits-and-its-condition"></span>
 <section id="garbage-collection-its-benefits-and-its-condition"><span style="color: #f66700;">20. Briefly explain Garbage Collection, its benefits, and its condition.</span></section>
 <span class="ez-toc-section-end"></span></h3>
@@ -383,7 +372,7 @@
 <li>Ensure memory security by ensuring object's usage</li>
 <li>You can reclaim objects that are no longer needed, free the memory, and use it for other purposes.</li>
 </ul>
-<p>&nbsp;</p>
+
 <h4>Three conditions that allow garbage collection</h4>
 <ul>
 <li>The system has low physical memory</li>
@@ -393,7 +382,7 @@
 <p><a href="https://www.hackertrail.com/practice/?utm_source=PracticeSkills&utm_medium=CallToAction&utm_campaign=SEO" target="_blank" rel="noopener"><br />
 <img loading="lazy" src="https://www.hackertrail.com/wp-content/uploads/2022/09/Practice-Your-Coding-Skills-Here.webp" alt="Test your .Net coding skills here" width="780" height="78"><br />
 </a></p>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="21-Discuss-CTS-types-in-NET-Core"></span>
 <section id="discuss-cts-types-in-net-core"><span style="color: #f66700;">21. Discuss CTS types in .NET Core.</span></section>
 <span class="ez-toc-section-end"></span></h3>
@@ -407,7 +396,7 @@
 <li><b>Reference types:</b> This data type uses a reference to the object's value to represent the objects. You can say it follows the concept of pointers. It doesn't create any copy if you assign a reference type to a variable that further points to original values.</li>
 </ul>
 <p><b>Examples:</b> Self-defining types like array, Pointer type, Interface Type</p>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="22-Explain-CoreRT"></span>
 <section id="explain-corert"><span style="color: #f66700;">22. Explain CoreRT.</span></section>
 <span class="ez-toc-section-end"></span></h3>
@@ -418,7 +407,7 @@
 <li>It works fast because of the prior execution of compiled code. You don't need to generate machine code or load the JIT compiler at runtime.</li>
 <li>Since it uses an optimised compiler, thus it generates faster output from higher quality code.</li>
 </ul>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="23-Why-is-Startup-Class-important"></span>
 <section id="why-is-startup-class-important"><span style="color: #f66700;">23. Why is Startup Class important?</span></section>
 <span class="ez-toc-section-end"></span></h3>
@@ -429,12 +418,12 @@
 <li>It helps to perform the registration of all required middleware components.</li>
 <li>Reading and checking thousands of lines in different environments is tough, but you can use various startup classes to resolve it.</li>
 </ul>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="24-What-do-you-mean-by-state-management"></span>
 <section id="what-do-you-mean-by-state-management"><span style="color: #f66700;">24. What do you mean by state management?</span></section>
 <span class="ez-toc-section-end"></span></h3>
 <p>Regarding .NET Core frameworks, state management is a kind of state control object to control the states of the object during different processes. Since stateless protocol, HTTP has been used, which is unable to retain user values; thus, <a href="https://docs.microsoft.com/en-us/aspnet/core/fundamentals/app-state?view=aspnetcore-6.0#state-management" target="_blank" rel="noopener">different methods</a> have been used to store and preserve the user data between requests.</p>
-<p>&nbsp;</p>
+
 <table style="width:100%">
 <tr>
 <td><b>Approach Name</b></td>
@@ -469,7 +458,6 @@
 <td>Server-side app code</td>
 </tr>
 </table>
-<p>&nbsp;</p>
 <h3><span class="ez-toc-section" id="25-What-is-the-best-way-to-manage-errors-in-NET-Core"></span>
 <section id="what-is-the-best-way-to-manage-errors-in-net-core"><span style="color: #f66700;">25. What is the best way to manage errors in .NET Core?</span></section>
 <span class="ez-toc-section-end"></span></h3>
@@ -481,28 +469,26 @@
 <li>UseStatusCodePages</li>
 </ul>
 <p>But, in all these four, the best way is "Developer Exception Page" as it provides detailed information (stacks, query string parameters, headers, cookies) about unhandled request exceptions. You can easily enable this page by running your applications in the development environment. This page runs early in the middleware pipeline, so you can easily catch the exception in middleware.</p>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="26-IS-MEF-still-available-in-NET-Core"></span>
 <section id="is-mef-still-available-in-net-core"><span style="color: #f66700;">26. IS MEF still available in .NET Core?</span></section>
 <span class="ez-toc-section-end"></span></h3>
 <p>Yes, MEF or Managed Extensibility Framework is still available. This library plays a major role in developing lightweight and extensible applications. You can easily use extensions without configuration. You can restore the extensions within and outside the application. You can smoothly perform code encapsulation and prevent fragile complex dependencies.</p>
-<p>&nbsp;</p>
+
 <p>It has been considered outdated but is still available. If you want to use it, you must use it using some plugins systems and namespaces like "System.Composition", "System.ComponnetModel.Composition", and "Microsoft.Composition".</p>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="27-What-is-response-caching-in-NET-Core"></span>
 <section id="what-is-response-caching-in-net-core"><span style="color: #f66700;">27. What is response caching in .NET Core?</span></section>
 <span class="ez-toc-section-end"></span></h3>
 <p>During response caching, cache-related headers are mentioned in the HTTP responses of .NET Core MVC actions. Using these headers, we can specify how the client/proxy machine will cache responses to requests. This, in turn, reduces the number of client/proxy requests to the web server because the responses are sent from the cache itself.</p>
-<p>&nbsp;</p>
-<p>As we can see in the below diagram, the first request has a complete cycle from client browser to proxy server and then subsequently to web server. Now, the proxy server has stored the response in the cache. For all the subsequent requests, the proxy server sends the response from the cache itself. Hence, the number of proxy/client requests to the web server is reduced.</p>
-<p>&nbsp;<br />
 
-&nbsp;</p>
+<p>As we can see in the below diagram, the first request has a complete cycle from client browser to proxy server and then subsequently to web server. Now, the proxy server has stored the response in the cache. For all the subsequent requests, the proxy server sends the response from the cache itself. Hence, the number of proxy/client requests to the web server is reduced.</p>
+
 <h3><span class="ez-toc-section" id="28-What-is-a-generic-host-in-NET-Core"></span>
 <section id="what-is-a-generic-host-in-net-core"><span style="color: #f66700;">28. What is a generic host in .NET Core?</span></section>
 <span class="ez-toc-section-end"></span></h3>
 <p>The generic host was previously present as ‘Web Host’, in .NET Core for web applications. Later, the ‘Web Host’ was deprecated and a generic host was introduced to cater to the web, Windows, Linux, and console applications.</p>
-<p>&nbsp;</p>
+
 <p>Whenever a new application is started we are required to take care of the below points:</p>
 <ul>
 <li>Dependency Injection</li>
@@ -511,12 +497,12 @@
 <li>Service lifetime management</li>
 </ul>
 <p>.NET generic host called ‘HostBuilder’ helps us to manage all the above tasks since it is built on the original abstraction of these tools.</p>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="29-What-is-routing-in-NET-Core"></span>
 <section id="what-is-routing-in-net-core"><span style="color: #f66700;">29. What is routing in .NET Core?</span></section>
 <span class="ez-toc-section-end"></span></h3>
 <p>It is a process through which the incoming requests are mapped to the corresponding controllers and actions.  The .NET Core MVC has a routing middleware to perform this task. This middleware matches the incoming HTTP requests to the executable request-handling code. We can define the routing in the middleware pipeline in the ‘Startup.Configure’ file.</p>
-<p>&nbsp;</p>
+
 <p>As we can see in the below code snippet, there are two methods or pair of middleware to define routing:</p>
 <ul>
 <li><b>UseRouting:</b> Adds route which matches the middleware pipeline.</li>
@@ -539,19 +525,19 @@
         }); 
     }); 
 }</pre>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="30-What-is-Dependency-Injection-in-NET-Core-Explain-its-advantages"></span>
 <section id="what-is-dependency-injection-in-net-core"><span style="color: #f66700;">30. What is Dependency Injection in .NET Core? Explain its advantages.</span></section>
 <span class="ez-toc-section-end"></span></h3>
 <p>.NET Core has been designed to support Dependency Injection(DI), which means the application is loosely coupled. It is a technique to introduce Inversion Control(IoC) between the classes and their dependencies. In other words, the object maintains only that dependency which is required during that particular task. A dependency is an object on which another object depends, by dependency injection, the application becomes better testable, maintainable, and reusable.</p>
-<p>&nbsp;</p>
+
 <h4>Dependency Injection has three steps:</h4>
 <ul>
 <li>An interface or base class is present to provide an abstraction for dependency implementation.</li>
 <li>Dependency is registered in a service container, a built-in container <a href="https://docs.microsoft.com/en-us/dotnet/api/system.iserviceprovider?view=net-5.0" target="_blank" rel="noopener">IServiceProvider</a> is present in .NET Core.</li>
 <li>Service is injected into the constructor of the class where dependency is used.</li>
 </ul>
-<p>&nbsp;</p>
+
 <h4>Advantages of Dependency Injection:</h4>
 <ul>
 <li>Code is flexible, implementation can be changed without much overhead.</li>
@@ -562,23 +548,23 @@
 <h2><span class="ez-toc-section" id="ASPNET-MVC-Interview-Questions"></span>
 <section id="asp-net-mvc-interview-questions"><span style="color: #f66700;">ASP.NET MVC  Interview Questions</span></section>
 <span class="ez-toc-section-end"></span></h2>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="31-What-role-does-IIS-manager-play-for-ASPNET-MVC"></span>
 <section id="what-role-does-iis-manager-play-for-asp-net-mvc"><span style="color: #f66700;">31. What role does IIS manager play for ASP.NET MVC?</span></section>
 <span class="ez-toc-section-end"></span></h3>
 <p>The application deployment process requires a windows server with an installed IIS manager. You need to use the IIS manager to perform deployment after the development of the applications. Without deployment, you can't bring any application to the market; thus, the IIS manager plays a primary role in completing this process. Click this <a href="https://www.c-sharpcorner.com/article/asp-net-mvc5-deployment-on-windows-iis-server/" target="_blank" rel="noopener">link</a> to know all steps of deployment using IIS manager.</p>
-<p>&nbsp;</p>
+
 <p>Another deployment option is to use the Docker environment, which first deploys the docker package on any server machine and then implements the next deployment stage.</p>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="32-Discuss-role-based-authentication-in-ASPNET-MVC"></span>
 <section id="discuss-role-based-authentication-in-asp-net-mvc"><span style="color: #f66700;">32. Discuss role-based authentication in ASP.NET MVC?</span></section>
 <span class="ez-toc-section-end"></span></h3>
 <p>Roles define the permission to access something. A user can access any resource if they have permission. Role-based authentication is essential to ensure the security of applications and their data. It defines the role of providers and membership. The main task of providers is to give permission and assign roles to users to ensure authentication and authorisation.</p>
-<p>&nbsp;</p>
+
 <h4>Check this image to know how it works and establish security in applications.</h4>
 <p><img loading="lazy" class="alignnone " src="https://www.hackertrail.com/wp-content/uploads/2022/09/how-it-works-and-establish-security-in-applications.webp" alt="how it works and establish security in applications" width="975" height="975" /></p>
 <p>Image Credit: C-metric</p>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="33-How-would-you-differentiate-ASPNET-from-ASPNET-MVC"></span>
 <section id="differentiate-asp-net-from-asp-net-mvc"><span style="color: #f66700;">33. How would you differentiate ASP.NET from ASP.NET MVC?</span></section>
 <span class="ez-toc-section-end"></span></h3>
@@ -588,7 +574,7 @@
 <li>ASP.NET offers a layer that resides on the web server's top layer for creating web applications and services. Conversely, ASP.NET MVC framework stays on top of ASP.NET to design web applications with the help of ASP.NET's APIs.</li>
 <li>ASP.NET is based on a simple event-driven programming model, whereas ASP.NET MVC is based on the "Model-View-Controller" architectural model.</li>
 </ul>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="34-Which-feature-of-ASPNET-Core-MVC-has-been-used-as-a-new-way-of-exposing-server-side-code-that-renders-HTML-elements"></span>
 <section id="asp-net-core-mvc-exposing-server-side-code-that-renders-html-elements"><span style="color: #f66700;">34. Which feature of ASP.NET Core MVC has been used as a new way of exposing server-side code that renders HTML elements?</span></section>
 <span class="ez-toc-section-end"></span></h3>
@@ -600,14 +586,14 @@
 <li><b>asp-validation-summary</b> – For validations</li>
 </ul>
 <p>If you are a front-end designer working on CSS, JS frameworks or libraries, this feature can help you to quickly change or update the "View" without knowing the programming language. Additionally, they are reliable and reusable, which could be used in multiple views.</p>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="35-What-is-the-view-component-feature"></span>
 <section id="what-is-the-view-component-feature"><span style="color: #f66700;">35. What is the view component feature?</span></section>
 <span class="ez-toc-section-end"></span></h3>
 <p>View Component is another new feature that has been considered a powerful version of partial views. It is used for solving many problems. The primary function of this feature is to split the complex views into reusable parts. With the help of partial views, you can also access the parent page's view model.</p>
-<p>&nbsp;</p>
+
 <p>But, one drawback of this feature is that it can't access the page model and can operate on the passed arguments. Thus, the best application of this feature is to use it to render reusable pieces of pages that might consist of logic. Use this feature through dependency injection, which makes it robust and reusable.</p>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="36-What-do-you-mean-by-MVC-application-life-cycle"></span>
 <section id="what-do-you-mean-by-mvc-application-life-cycle"><span style="color: #f66700;">36. What do you mean by MVC application life cycle?</span></section>
 <span class="ez-toc-section-end"></span></h3>
@@ -624,12 +610,12 @@
 <li>Execute the action</li>
 <li>Send the response to the browser as a result</li>
 </ul>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="37-What-are-the-different-return-types-used-by-the-%22controller-action%22-method-in-MVC"></span>
 <section id="different-return-types-used-by-the-controller-action-method-in-mvc"><span style="color: #f66700;">37. What are the different return types used by the "controller action" method in MVC</span></section>
 <span class="ez-toc-section-end"></span></h3>
 <p>In ASP.NET MVC, controllers, controller actions, and action results are linked. You can consider that the action is a method on the controller which is called whenever someone requests URL in the browser address bar. The controller responds to the requests and also exposes controller actions. In simple, this action returns action results in different return types. Check this following table to know these return types, which inherit from the base Action Result class.</p>
-<p>&nbsp;</p>
+
 <table style="width:100%">
 <tr>
 <td><b>Return Type</b></td>
@@ -672,19 +658,19 @@
 <td>It represents a downloadable file (with a file stream)</td>
 </tr>
 </table>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="38-What-is-Scaffolding-in-ASPNET-MVC"></span>
 <section id="what-is-scaffolding-in-asp-net-mvc"><span style="color: #f66700;">38. What is Scaffolding in ASP.NET MVC?</span></section>
 <span class="ez-toc-section-end"></span></h3>
 <p>One of the essential concepts of ASP.NET MVC that help developers like me generate code to perform basic operations – Create, Read, Update, Delete. You can make changes in the codes as per needs. That's why, we call it a "code-generation framework" for developing MVC applications. It helps enhance the code which interacts with the data model of applications. It also supports reducing the development time to execute data operations.</p>
-<p>&nbsp;</p>
+
 <p>Additionally, the framework includes multiple templates, including page templates, field templates, , entity page templates, and filter templates. You can call them Scaffold templates. These templates permit you to design and build a fully functional website.</p>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="39-What-is-the-role-of-Action-Filters"></span>
 <section id="what-is-the-role-of-action-filters"><span style="color: #f66700;">39. What is the role of Action Filters?</span></section>
 <span class="ez-toc-section-end"></span></h3>
 <p>The central role of Action Filters in ASP.NET MVC is the execution of filtering logic after an action method is called. You can call these filters to "custom attributes" which helps to clarify declarations of pre-action or post-action behaviour to the controller's action methods. These attributes are derived from the "System.Attribute" which could be attached to classes, methods, fields, or properties. You can utilise any of these filters to implement filtering.</p>
-<p>&nbsp;</p>
+
 <table style="width:100%">
 <tr>
 <td><b>Filter type</b></td>
@@ -703,7 +689,6 @@
 <td>It enables you to restrict access to a particular user or role</td>
 </tr>
 </table>
-<p>&nbsp;</p>
 <h3><span class="ez-toc-section" id="40-How-to-intercept-exceptions-using-ASPNET-MVC"></span>
 <section id="how-to-intercept-exceptions-using-asp-net-mvc"><span style="color: #f66700;">40. How to intercept exceptions using ASP.NET MVC?</span></section>
 <span class="ez-toc-section-end"></span></h3>
@@ -716,7 +701,7 @@
 <li><b>Extending HandleErrorAttribute</b> – It permits you to create your Exception Handler to manage the errors</li>
 </ul>
 
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="41-What-is-ASPNET-MVC-Explain-its-components"></span>
 <section id="what-is-asp-net-mvc-explain-its-components"><span style="color: #f66700;">41. What is ASP.NET MVC? Explain its components.</span></section>
 <span class="ez-toc-section-end"></span></h3>
@@ -730,9 +715,9 @@
 <li><b>View</b>: It is responsible for providing the view through the user interface.</li>
 <li><b>Controller</b>: Handles user interaction, works in tandem with model and view components.</li>
 </ul>
-<p>&nbsp;</p>
+
 <p>It provides the latest web standards and many features like routing, model binding, model validation, dependency injection, web APIs, razor view engine, filters, etc.</p>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="42-What-are-the-advantages-of-ASPNET-MVC"></span>
 <section id="what-are-the-advantages-of-asp-net-mvc"><span style="color: #f66700;">42. What are the advantages of ASP.NET MVC?</span></section>
 <span class="ez-toc-section-end"></span></h3>
@@ -744,14 +729,14 @@
 <li>Easy integration with JavaScript, JSON, jQuery, etc.</li>
 <li>Uses the latest technology and supports the latest trends.</li>
 </ul>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="43-Why-use-an-area-in-ASPNET-MVC"></span>
 <section id="why-use-an-area-in-asp-net-mvc"><span style="color: #f66700;">43. Why use an area in ASP.NET MVC?</span></section>
 <span class="ez-toc-section-end"></span></h3>
 <p>Any large ASP.NET MVC project has many controllers, views, and model classes. With time, it will become very difficult to manage it using the default MVC project structure.</p>
-<p>&nbsp;</p>
+
 <p> The area is used to physically partition the large application into small functional units. Each unit has its own MVC folder structure and model, view, and controller folders.</p>
-<p>&nbsp;</p>
+
 <p>The below example shows how each area - admin, finance, HR has its own set of model, view, and controller folders.</p>
 <p>&nbsp;<br />
 <figure id="attachment_9480" aria-describedby="caption-attachment-9480" style="width: 231px" class="wp-caption alignnone"><img loading="lazy" class="size-full wp-image-9480" src="https://www.hackertrail.com/wp-content/uploads/2022/05/asp.net-mvc-area.webp" alt="Multiple areas in an MVC project " width="231" height="435" /><figcaption id="caption-attachment-9480" class="wp-caption-text">Image credit: https://www.tutorialsteacher.com/</figcaption></figure>
@@ -780,7 +765,7 @@
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+
 <h3><span class="ez-toc-section" id="45-Describe-the-request-flow-in-the-ASPNET-MVC-framework"></span>
 <section id="describe-the-request-flow-in-the-asp-net-mvc-framework"><span style="color: #f66700;">45. Describe the request flow in the ASP.NET MVC framework.</section>
 <span class="ez-toc-section-end"></span></h3>
@@ -794,16 +779,11 @@
 <li><b>View engine</b>: ‘IViewInterface’ of the view engine selects a view engine to render the result.</li>
 <li><b>View</b>: ‘ViewResult’ returns and renders an HTML page on the browser.</li>
 </ul>
-<p>&nbsp;<br />
-<figure id="attachment_9481" aria-describedby="caption-attachment-9481" style="width: 368px" class="wp-caption alignnone"><img loading="lazy" class="size-full wp-image-9481" src="https://www.hackertrail.com/wp-content/uploads/2021/07/mvcrequestcycle.png" alt="Request flow in ASP.NET MVC framework " width="368" height="551" srcset="https://www.hackertrail.com/wp-content/uploads/2021/07/mvcrequestcycle.png 368w, https://www.hackertrail.com/wp-content/uploads/2021/07/mvcrequestcycle-200x300.png 200w, https://www.hackertrail.com/wp-content/uploads/2021/07/mvcrequestcycle-33x50.png 33w, https://www.hackertrail.com/wp-content/uploads/2021/07/mvcrequestcycle-67x100.png 67w" sizes="(max-width: 368px) 100vw, 368px" /><figcaption id="caption-attachment-9481" class="wp-caption-text">Image credit: https://dotnettrickscloud.blob.core.windows.NET</figcaption></figure>
-&nbsp;</p>
-<p style="text-align: center;"><i><b>Practice Skill:</b> Expertise comes from practice. Develop your <a href="https://www.hackertrail.com/practice/" target="_blank" rel="noopener">coding skills</a> to become an expert.</i></p>
-<p style="text-align: center;"><i>Refresh your backend development skills <a href="https://www.hackertrail.com/talent/backend/backend-development-skills-2021/" target="_blank" rel="noopener">here</a>.</i></p>
-<p>&nbsp;</p>
-<</div> </div>
+</div> </div>
 </div>
 </article>
-
+<hr/>
+<hr/>
 ____________________________________________________________________________________________
 <li><h2>What is the ASP.NET Core?</h2> 
 <p><a href="https://www.dotnettricks.com/training/masters-program/aspnet-core">ASP.NET Core</a> is not an upgraded version of ASP.NET. ASP.NET Core is completely rewriting that work with the .net Core framework. It is much faster, configurable, modular, scalable, extensible, and has cross-platform support. It can work with both .NET Core and .net framework via the .NET standard framework. It is best suitable for developing cloud-based such as web applications, mobile applications, and IoT applications.</p><p>ASP.NET Core was primarily designed to make the most important part of the ASP.NET components under the concept learn and the compose framework where the previous ASP.NET&nbsp; components were released under a variety of different licenses periodically, The ASP.NET Core framework is a completely open-sourced framework. Apart from the other parts of the framework of the .NET framework libraries, the ASP.NET Core is primarily designed from scratch to be the platform-agnostic that performs seamlessly. It will allow the ASP.NET Core apps to be deployed on the various platforms or the o/s such as the macOS or Linux-based servers or certain devices.</p>
