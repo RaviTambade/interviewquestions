@@ -226,10 +226,6 @@
 
 <h3><span class="ez-toc-section" id="12-What-is-Kestrel"></span>
 <section id="what-is-kestrel"><span style="color: #f66700;">12. What is Kestrel?</span></section>
-<span class="ez-toc-section-end"></span></h3>
-<p>&nbsp;<br />
-
-&nbsp;</p>
 <p>Kestrel is an event-driven, I/O-based, open-source, cross-platform, and asynchronous server which hosts .NET applications. It is provided as a default server for .NET Core therefore, it is compatible with all the platforms and their versions which .NET Core supports.</p>
 
 <p>Usually, it is used as an edge-server, which means it is the server which faces the internet and handles HTTP web requests from clients directly. It is a listening server with a command-line interface.</p>
@@ -334,7 +330,6 @@
 <span class="ez-toc-section-end"></span></h3>
 <p>.NET Core CLI is part of .NET SDK that provides a cross-platform toolset to develop, create, and run .NET Core applications. You can install multiple versions of the toolset on your machine. You can use the following standard syntax to use CLI:</p>
 <p><i>dotnet [verb] [arguments]</i></p>
-
 <h4>It provides four types of commands</h4>
 <ul>
 <li><b>Basic commands</b>: All commands required to develop applications like new, restore, build, run, etc.</li>
@@ -373,10 +368,6 @@
 <li>In case of an acceptable threshold</li>
 <li>When the GC method has been called</li>
 </ul>
-<p><a href="https://www.hackertrail.com/practice/?utm_source=PracticeSkills&utm_medium=CallToAction&utm_campaign=SEO" target="_blank" rel="noopener"><br />
-<img loading="lazy" src="https://www.hackertrail.com/wp-content/uploads/2022/09/Practice-Your-Coding-Skills-Here.webp" alt="Test your .Net coding skills here" width="780" height="78"><br />
-</a></p>
-
 <h3><span class="ez-toc-section" id="21-Discuss-CTS-types-in-NET-Core"></span>
 <section id="discuss-cts-types-in-net-core"><span style="color: #f66700;">21. Discuss CTS types in .NET Core.</span></section>
 <span class="ez-toc-section-end"></span></h3>
