@@ -726,9 +726,7 @@
 <li><b>Setting a goal exception handling filter</b> – You have to take care of HandleErrorAttribute and need to add it RegisterGlobalFilters</li>
 <li><b>Extending HandleErrorAttribute</b> – It permits you to create your Exception Handler to manage the errors</li>
 </ul>
-<p><a href="https://www.hackertrail.com/practice/?utm_source=PracticeSkills&utm_medium=CallToAction&utm_campaign=SEO" target="_blank" rel="noopener"><br />
-<img loading="lazy" src="https://www.hackertrail.com/wp-content/uploads/2022/09/Practice-Your-Coding-Skills-Here.webp" alt="Test your .Net coding skills here" width="780" height="78"><br />
-</a></p>
+
 <p>&nbsp;</p>
 <h3><span class="ez-toc-section" id="41-What-is-ASPNET-MVC-Explain-its-components"></span>
 <section id="what-is-asp-net-mvc-explain-its-components"><span style="color: #f66700;">41. What is ASP.NET MVC? Explain its components.</span></section>
@@ -818,134 +816,11 @@
 <span class="ez-toc-section-end"></span></h2>
 <p>We are here to help you prepare for your .NET Core Interview Questions. We hope these questions will help you sharpen your .NET Core knowledge. Read these <a href="https://www.hackertrail.com/talent/tips/interview-questions-where-do-you-see-yourself-in-5-years/" target="_blank" rel="noopener">interview questions</a> to learn how to succeed in any interview. Join us and practice your skills before your tech interviews. We'd love to hear your questions in the comment section.</p>
 <p>&nbsp;</p>
-<h4>Other Backend Technology Interview Questions and Answers</h4>
-<p><a href="https://www.hackertrail.com/talent/backend/top-c-programming-interview-questions-answers/" title="C Programming Language Interview Questions">C Programming Language Interview Questions</a> | <a href="https://www.hackertrail.com/talent/backend/top-php-interview-questions-and-answers/" title="PHP Interview Questions">PHP Interview Questions</a> | <a href="https://www.hackertrail.com/talent/backend/numpy-interview-questions-answers/" title="NumPy Interview Questions">NumPy Interview Questions</a> | <a href="https://www.hackertrail.com/talent/backend/top-api-interview-questions-answers/" title="API Interview Questions">API Interview Questions</a> | <a href="https://www.hackertrail.com/talent/backend/fastapi-all-you-need-to-know-about-this-trending-python-web-framework/" title="FastAPI Python Web Framework">FastAPI Python Web Framework</a> | <a href="https://www.hackertrail.com/talent/backend/java-exception-handling-interview-questions-and-answers/" title="Java Exception Handling Interview Questions">Java Exception Handling Interview Questions</a> | <a href="https://www.hackertrail.com/talent/backend/oops-interview-questions-and-answers/" title="OOPs Interview Questions and Answers">OOPs Interview Questions and Answers</a> | <a href="https://www.hackertrail.com/talent/backend/java-collections-interview-questions/" title="Java Collections Interview Questions">Java Collections Interview Questions</a> | <a href="https://www.hackertrail.com/talent/backend/system-design-interview-questions-and-answers/" title="System Design Interview Questions">System Design Interview Questions</a> | <a href="https://www.hackertrail.com/talent/backend/must-know-concepts-on-data-structure/" title="Data Structure Concepts">Data Structure Concepts</a> | <a href="https://www.hackertrail.com/talent/backend/top-node-js-interview-questions-answers/" title="Node.js Interview Questions">Node.js Interview Questions</a> | <a href="https://www.hackertrail.com/talent/backend/top-django-interview-questions/" title="Django Interview Questions">Django Interview Questions</a> | <a href="https://www.hackertrail.com/talent/backend/top-react-interview-questions-answers/" title="React Interview Questions">React Interview Questions</a> | <a href="https://www.hackertrail.com/talent/backend/microservices-interview-questions/" title="Microservices Interview Questions">Microservices Interview Questions</a> | <a href="https://www.hackertrail.com/talent/backend/backend-technology-development-skills/" title="Key Backend Development Skills">Key Backend Development Skills</a> | <a href="https://www.hackertrail.com/talent/backend/data-science-interview-questions/" title="Data Science Interview Questions">Data Science Interview Questions</a> | <a href="https://www.hackertrail.com/talent/backend/python-interview-questions-answers/" title="Python Interview Questions">Python Interview Questions</a> | <a href="https://www.hackertrail.com/talent/backend/top-java-spring-interview-questions-and-answers/" title="Java Spring Framework Interview Questions">Java Spring Framework Interview Questions</a> | <a href="https://www.hackertrail.com/talent/backend/spring-boot-interview-questions-and-answers/" title="Spring Boot Interview Questions and Answers">Spring Boot Interview Questions</a>.</p>
-<div class="shared-counts-wrap after_content style-bar"><a href="https://twitter.com/share?url=https://www.hackertrail.com/talent/backend/net-core-interview-questions-answers/&amp;text=.NET%20Core%20Interview%20Questions%20and%20Answers%202023" title="Share on Twitter" target="_blank" rel="nofollow noopener noreferrer" class="shared-counts-button twitter shared-counts-no-count" data-postid="9472" data-social-network="Twitter" data-social-action="Tweet" data-social-target="https://www.hackertrail.com/talent/backend/net-core-interview-questions-answers/"><span class="shared-counts-icon-label"><span class="shared-counts-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="29.71875" height="32" viewBox="0 0 951 1024"><path d="M925.714 233.143q-38.286 56-92.571 95.429 0.571 8 0.571 24 0 74.286-21.714 148.286t-66 142-105.429 120.286-147.429 83.429-184.571 31.143q-154.857 0-283.429-82.857 20 2.286 44.571 2.286 128.571 0 229.143-78.857-60-1.143-107.429-36.857t-65.143-91.143q18.857 2.857 34.857 2.857 24.571 0 48.571-6.286-64-13.143-106-63.714t-42-117.429v-2.286q38.857 21.714 83.429 23.429-37.714-25.143-60-65.714t-22.286-88q0-50.286 25.143-93.143 69.143 85.143 168.286 136.286t212.286 56.857q-4.571-21.714-4.571-42.286 0-76.571 54-130.571t130.571-54q80 0 134.857 58.286 62.286-12 117.143-44.571-21.143 65.714-81.143 101.714 53.143-5.714 106.286-28.571z"></path></svg></span><span class="shared-counts-label">Tweet</span></span></a><a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.hackertrail.com/talent/backend/net-core-interview-questions-answers/" title="Share on LinkedIn" target="_blank" rel="nofollow noopener noreferrer" class="shared-counts-button linkedin shared-counts-no-count" data-postid="9472" data-social-network="LinkedIn" data-social-action="Share" data-social-target="https://www.hackertrail.com/talent/backend/net-core-interview-questions-answers/"><span class="shared-counts-icon-label"><span class="shared-counts-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="27.4375" height="32" viewBox="0 0 878 1024"><path d="M199.429 357.143v566.286h-188.571v-566.286h188.571zM211.429 182.286q0.571 41.714-28.857 69.714t-77.429 28h-1.143q-46.857 0-75.429-28t-28.571-69.714q0-42.286 29.429-70t76.857-27.714 76 27.714 29.143 70zM877.714 598.857v324.571h-188v-302.857q0-60-23.143-94t-72.286-34q-36 0-60.286 19.714t-36.286 48.857q-6.286 17.143-6.286 46.286v316h-188q1.143-228 1.143-369.714t-0.571-169.143l-0.571-27.429h188v82.286h-1.143q11.429-18.286 23.429-32t32.286-29.714 49.714-24.857 65.429-8.857q97.714 0 157.143 64.857t59.429 190z"></path></svg></span><span class="shared-counts-label">LinkedIn</span></span></a><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.hackertrail.com/talent/backend/net-core-interview-questions-answers/&amp;display=popup&amp;ref=plugin&amp;src=share_button" title="Share on Facebook" target="_blank" rel="nofollow noopener noreferrer" class="shared-counts-button facebook_shares shared-counts-no-count" data-postid="9472" data-social-network="Facebook" data-social-action="Share" data-social-target="https://www.hackertrail.com/talent/backend/net-core-interview-questions-answers/"><span class="shared-counts-icon-label"><span class="shared-counts-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="18.8125" height="32" viewBox="0 0 602 1024"><path d="M548 6.857v150.857h-89.714q-49.143 0-66.286 20.571t-17.143 61.714v108h167.429l-22.286 169.143h-145.143v433.714h-174.857v-433.714h-145.714v-169.143h145.714v-124.571q0-106.286 59.429-164.857t158.286-58.571q84 0 130.286 6.857z"></path></svg></span><span class="shared-counts-label">Share</span></span></a></div> </div>
+<</div> </div>
 </div>
 </article>
-<div class="post-meta-wrapper-main">
-<div class="post-meta-wrapper">
-<div class="cat-links">
-<i class="bb-icon-l bb-icon-folder"></i>
-Categories: <span><a href="https://www.hackertrail.com/talent/backend/" rel="category tag">Backend Development</a></span>
-</div>
-</div>
-<div class="show-support">
-<div class="flex author-post-meta">
-<span class="pa-share-fix push-left"></span>
-<div class="author-box-share-wrap">
-<a href="#" class="bb-share"><i class="bb-icon-l bb-icon-share-dots"></i></a>
-<div class="bb-share-container bb-share-author-box">
-<div class="bb-shareIcons"></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="post-author-info">
-</div>
-<div class="post-related-posts">
-<h3>Related Articles</h3>
-<div class="post-grid bb-grid">
-<article id="post-4802" class="post-4802 post type-post status-publish format-standard has-post-thumbnail hentry category-backend user-has-earned lg-grid-1-3 md-grid-1-2 bb-grid-cell sm-grid-1-1 default-fi">
-<div class="post-inner-wrap">
-<div class="ratio-wrap">
-<a href="https://www.hackertrail.com/talent/backend/top-react-interview-questions-answers/" title="
-				   Permalink to Top React JS Interview Questions and Answers 2023				   " class="entry-media entry-img">
-<img width="640" height="230" src="https://www.hackertrail.com/wp-content/uploads/2023/01/reactjs-interview-questions-and-answers.webp" class="attachment-large size-large wp-post-image" alt="React Interview Questions and Answers" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" srcset="https://www.hackertrail.com/wp-content/uploads/2023/01/reactjs-interview-questions-and-answers.webp 780w, https://www.hackertrail.com/wp-content/uploads/2023/01/reactjs-interview-questions-and-answers-300x108.webp 300w, https://www.hackertrail.com/wp-content/uploads/2023/01/reactjs-interview-questions-and-answers-768x276.webp 768w, https://www.hackertrail.com/wp-content/uploads/2023/01/reactjs-interview-questions-and-answers-261x94.webp 261w, https://www.hackertrail.com/wp-content/uploads/2023/01/reactjs-interview-questions-and-answers-624x224.webp 624w, https://www.hackertrail.com/wp-content/uploads/2023/01/reactjs-interview-questions-and-answers-50x18.webp 50w, https://www.hackertrail.com/wp-content/uploads/2023/01/reactjs-interview-questions-and-answers-100x36.webp 100w" /> </a>
-</div>
-<div class="entry-content-wrap">
-<header class="entry-header">
-<h2 class="entry-title"><a href="https://www.hackertrail.com/talent/backend/top-react-interview-questions-answers/" rel="bookmark">Top React JS Interview Questions and Answers 2023</a></h2>
-</header>
-<div class="entry-content">
-<p>TweetLinkedInShare Introduction to ReactJS – Why Use ReactJS? ReactJS is an open-source JavaScript library for building user interfaces. Originally developed by Jordan Walke in 2011,&hellip;</p>
-</div>
-<div class="entry-meta">
-<div class="bb-user-avatar-wrap">
-<div class="avatar-wrap">
-<a href="https://www.hackertrail.com/author/hackertrail/">
-<img alt='' src='https://www.hackertrail.com/wp-content/uploads/avatars/3/60efa89225332-bpthumb.jpg' srcset='https://www.hackertrail.com/wp-content/uploads/avatars/3/60efa89225332-bpthumb.jpg 2x' class='avatar avatar-80 photo' height='80' width='80' loading='lazy' /> </a>
-</div>
-<div class="meta-wrap">
-<a class="post-author" href="https://www.hackertrail.com/author/hackertrail/">
-HackerTrail </a>
-<span class="post-date"><a href="https://www.hackertrail.com/talent/backend/top-react-interview-questions-answers/">January 18, 2023</a></span>
-</div>
-</div>
-<div class="push-right flex align-items-center top-meta">
-</div>
-</div>
-</div>
-</div>
-</article>
-<article id="post-4763" class="post-4763 post type-post status-publish format-standard has-post-thumbnail hentry category-backend user-has-earned lg-grid-1-3 md-grid-1-2 bb-grid-cell sm-grid-1-1 default-fi">
-<div class="post-inner-wrap">
-<div class="ratio-wrap">
-<a href="https://www.hackertrail.com/talent/backend/top-c-programming-interview-questions-answers/" title="
-				   Permalink to C Programming Language Interview Questions and Answers 2023				   " class="entry-media entry-img">
-<img width="640" height="331" src="https://www.hackertrail.com/wp-content/uploads/2022/10/c-programming-language-interview-questions.webp" class="attachment-large size-large wp-post-image" alt="C Programming Language Interview Questions and Answers" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" srcset="https://www.hackertrail.com/wp-content/uploads/2022/10/c-programming-language-interview-questions.webp 1024w, https://www.hackertrail.com/wp-content/uploads/2022/10/c-programming-language-interview-questions-300x155.webp 300w, https://www.hackertrail.com/wp-content/uploads/2022/10/c-programming-language-interview-questions-768x398.webp 768w, https://www.hackertrail.com/wp-content/uploads/2022/10/c-programming-language-interview-questions-261x135.webp 261w, https://www.hackertrail.com/wp-content/uploads/2022/10/c-programming-language-interview-questions-624x323.webp 624w, https://www.hackertrail.com/wp-content/uploads/2022/10/c-programming-language-interview-questions-50x26.webp 50w, https://www.hackertrail.com/wp-content/uploads/2022/10/c-programming-language-interview-questions-100x52.webp 100w" /> </a>
-</div>
-<div class="entry-content-wrap">
-<header class="entry-header">
-<h2 class="entry-title"><a href="https://www.hackertrail.com/talent/backend/top-c-programming-interview-questions-answers/" rel="bookmark">C Programming Language Interview Questions and Answers 2023</a></h2>
-</header>
-<div class="entry-content">
-<p>TweetLinkedInShare To make any programming language interview successful, you must strengthen your foundational programming knowledge. C language is that foundation, and you must enhance this&hellip;</p>
-</div>
-<div class="entry-meta">
-<div class="bb-user-avatar-wrap">
-<div class="avatar-wrap">
-<a href="https://www.hackertrail.com/author/hackertrail/">
-<img alt='' src='https://www.hackertrail.com/wp-content/uploads/avatars/3/60efa89225332-bpthumb.jpg' srcset='https://www.hackertrail.com/wp-content/uploads/avatars/3/60efa89225332-bpthumb.jpg 2x' class='avatar avatar-80 photo' height='80' width='80' loading='lazy' /> </a>
-</div>
-<div class="meta-wrap">
-<a class="post-author" href="https://www.hackertrail.com/author/hackertrail/">
-HackerTrail </a>
-<span class="post-date"><a href="https://www.hackertrail.com/talent/backend/top-c-programming-interview-questions-answers/">January 23, 2023</a></span>
-</div>
-</div>
-<div class="push-right flex align-items-center top-meta">
-</div>
-</div>
-</div>
-</div>
-</article>
-<article id="post-10179" class="post-10179 post type-post status-publish format-standard has-post-thumbnail hentry category-backend user-has-earned lg-grid-1-3 md-grid-1-2 bb-grid-cell sm-grid-1-1 default-fi">
-<div class="post-inner-wrap">
-<div class="ratio-wrap">
-<a href="https://www.hackertrail.com/talent/backend/top-php-interview-questions-and-answers/" title="
-				   Permalink to PHP Interview Questions and Answers 2023				   " class="entry-media entry-img">
-<img width="640" height="230" src="https://www.hackertrail.com/wp-content/uploads/2022/11/top-php-interview-questions-and-answers.webp" class="attachment-large size-large wp-post-image" alt="Top PHP Interview Questions and Answers" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" srcset="https://www.hackertrail.com/wp-content/uploads/2022/11/top-php-interview-questions-and-answers.webp 780w, https://www.hackertrail.com/wp-content/uploads/2022/11/top-php-interview-questions-and-answers-300x108.webp 300w, https://www.hackertrail.com/wp-content/uploads/2022/11/top-php-interview-questions-and-answers-768x276.webp 768w, https://www.hackertrail.com/wp-content/uploads/2022/11/top-php-interview-questions-and-answers-261x94.webp 261w, https://www.hackertrail.com/wp-content/uploads/2022/11/top-php-interview-questions-and-answers-624x224.webp 624w, https://www.hackertrail.com/wp-content/uploads/2022/11/top-php-interview-questions-and-answers-50x18.webp 50w, https://www.hackertrail.com/wp-content/uploads/2022/11/top-php-interview-questions-and-answers-100x36.webp 100w" /> </a>
-</div>
-<div class="entry-content-wrap">
-<header class="entry-header">
-<h2 class="entry-title"><a href="https://www.hackertrail.com/talent/backend/top-php-interview-questions-and-answers/" rel="bookmark">PHP Interview Questions and Answers 2023</a></h2>
-</header>
-<div class="entry-content">
-<p>TweetLinkedInShare PHP is a widely-used general-purpose scripting language that can be embedded into HTML. It is quite popular for web development as well because it&hellip;</p>
-</div>
-<div class="entry-meta">
-<div class="bb-user-avatar-wrap">
-<div class="avatar-wrap">
-<a href="https://www.hackertrail.com/author/hackertrail/">
-<img alt='' src='https://www.hackertrail.com/wp-content/uploads/avatars/3/60efa89225332-bpthumb.jpg' srcset='https://www.hackertrail.com/wp-content/uploads/avatars/3/60efa89225332-bpthumb.jpg 2x' class='avatar avatar-80 photo' height='80' width='80' loading='lazy' /> </a>
-</div>
-<div class="meta-wrap">
-<a class="post-author" href="https://www.hackertrail.com/author/hackertrail/">
-HackerTrail </a>
-<span class="post-date"><a href="https://www.hackertrail.com/talent/backend/top-php-interview-questions-and-answers/">January 27, 2023</a></span>
-</div>
-</div>
-<div class="push-right flex align-items-center top-meta">
-<a href="https://www.hackertrail.com/talent/backend/top-php-interview-questions-and-answers/#comments" class="flex align-items-center bb-comments-wrap"><i class="bb-icon-l bb-icon-comment-square"></i><span class="comments-count">1 <span class="bb-comment-text">Comment</span></span></a>
-</div>
-</div>
-</div>
-</div>
-</article> </div>
 
-_____________________________________________________________________________________________
+____________________________________________________________________________________________
 <li><h2>What is the ASP.NET Core?</h2> 
 <p><a href="https://www.dotnettricks.com/training/masters-program/aspnet-core">ASP.NET Core</a> is not an upgraded version of ASP.NET. ASP.NET Core is completely rewriting that work with the .net Core framework. It is much faster, configurable, modular, scalable, extensible, and has cross-platform support. It can work with both .NET Core and .net framework via the .NET standard framework. It is best suitable for developing cloud-based such as web applications, mobile applications, and IoT applications.</p><p>ASP.NET Core was primarily designed to make the most important part of the ASP.NET components under the concept learn and the compose framework where the previous ASP.NET&nbsp; components were released under a variety of different licenses periodically, The ASP.NET Core framework is a completely open-sourced framework. Apart from the other parts of the framework of the .NET framework libraries, the ASP.NET Core is primarily designed from scratch to be the platform-agnostic that performs seamlessly. It will allow the ASP.NET Core apps to be deployed on the various platforms or the o/s such as the macOS or Linux-based servers or certain devices.</p>
 </li><li>
