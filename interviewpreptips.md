@@ -41,42 +41,6 @@
 <li><a href="#what-is-net-core-framework-and-how-does-it-work">Calm your nerves and/or get psyched.</a></li>
 </ol>
 
-<h3><span class="ez-toc-section" id="Advanced-NET-Core-interview-questions"></span><a href="#advanced-net-core-interview-questions">Advanced .NET Core interview questions</a><span class="ez-toc-section-end"></span></h3>
-<ol>
-<li><a href="#explain-docker-in-net-core">Explain Docker in .NET Core.</a></li>
-<li><a href="#what-is-net-core-cli">What is .NET Core CLI?</a></li>
-<li><a href="#what-is-hosting-environment-management">What is Hosting Environment Management?</a></li>
-<li><a href="#garbage-collection-its-benefits-and-its-condition">Briefly explain Garbage Collection, its benefits, and its condition.</a></li>
-<li><a href="#discuss-cts-types-in-net-core">Discuss CTS types in .NET Core.</a></li>
-<li><a href="#explain-corert">Explain CoreRT.</a></li>
-<li><a href="#why-is-startup-class-important">Why is Startup Class important?</a></li>
-<li><a href="#what-do-you-mean-by-state-management">What do you mean by state management?</a></li>
-<li><a href="#what-is-the-best-way-to-manage-errors-in-net-core">What is the best way to manage errors in .NET Core?</a></li>
-<li><a href="#is-mef-still-available-in-net-core">IS MEF still available in .NET Core?</a></li>
-<li><a href="#what-is-response-caching-in-net-core">What is response caching in .NET Core?</a></li>
-<li><a href="#what-is-a-generic-host-in-net-core">What is a generic host in .NET Core?</a></li>
-<li><a href="#what-is-routing-in-net-core">What is routing in .NET Core?</a></li>
-<li><a href="#what-is-dependency-injection-in-net-core">What is Dependency Injection in .NET Core? Explain its advantages.</a></li>
-</ol>
-
-<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">ASP.NET MVC interview questions</a><span class="ez-toc-section-end"></span></h3>
-<ol>
-<li><a href="#what-role-does-iis-manager-play-for-asp-net-mvc">What role does IIS manager play for ASP.NET MVC?</a></li>
-<li><a href="#discuss-role-based-authentication-in-asp-net-mvc">Discuss role-based authentication in ASP.NET MVC?</a></li>
-<li><a href="#differentiate-asp-net-from-asp-net-mvc">How would you differentiate ASP.NET from ASP.NET MVC?</a></li>
-<li><a href="#asp-net-core-mvc-exposing-server-side-code-that-renders-html-elements">Which feature of ASP.NET Core MVC has been used as a new way of exposing server-side code that renders HTML elements?</a></li>
-<li><a href="#what-is-the-view-component-feature">What is the view component feature?</a></li>
-<li><a href="#what-do-you-mean-by-mvc-application-life-cycle">What do you mean by MVC application life cycle?</a></li>
-<li><a href="#different-return-types-used-by-the-controller-action-method-in-mvc">What are the different return types used by the "controller action" method in MVC</a></li>
-<li><a href="#what-is-scaffolding-in-asp-net-mvc">What is Scaffolding in ASP.NET MVC?</a></li>
-<li><a href="#what-is-the-role-of-action-filters">What is the role of Action Filters?</a></li>
-<li><a href="#how-to-intercept-exceptions-using-asp-net-mvc">How to intercept exceptions using ASP.NET MVC?</a></li>
-<li><a href="#what-is-asp-net-mvc-explain-its-components">What is ASP.NET MVC? Explain its components.</a></li>
-<li><a href="#what-are-the-advantages-of-asp-net-mvc">What are the advantages of ASP.NET MVC?</a></li>
-<li><a href="#why-use-an-area-in-asp-net-mvc">Why use an area in ASP.NET MVC?</a></li>
-<li><a href="#what-is-the-difference-between-viewdata-and-viewbag-in-asp-net-mvc">What is the difference between ViewData and ViewBag in ASP.NET MVC?</a></li>
-<li><a href="#describe-the-request-flow-in-the-asp-net-mvc-framework">Describe the request flow in the ASP.NET MVC framework.</a></li>
-</ol>
 
 <h2><span class="ez-toc-section" id="Basic-NET-Core-Interview-Questions"></span>
 <section id="basic-net-core-interview-questions"><span style="color: #f66700;">Learn everything you can about the company, the job, and the interview.</span></section>
