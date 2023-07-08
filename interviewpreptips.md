@@ -9,36 +9,36 @@
 
 <h3><span class="ez-toc-section" id="Basic-NET-Core-interview-questions"></span><a href="#basic-net-core-interview-questions">Basic .NET Core interview questions</a><span class="ez-toc-section-end"></span></h3>
 <ol>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">1. Research the company</a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">2. Learn everything you can about the open position.</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">3. Try out the company’s product or service (if you can).</a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">4. Learn about the interviewers (without being creepy!)</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">5. Find out what kind of interview you’re in for—and prepare accordingly.</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">6. Identify your selling points for this job.</a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">7. Be ready to tell the interviewer about yourself.</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">8. Know why you’re interested in this position at this company.</a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">9. Do some salary research.</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">10. Prepare your stories.</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">11. Familiarize yourself with the STAR method.</a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">12. Jot down important numbers and details.</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">13. Brush up on your interview skills.</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">14. Practice—but don’t memorize—your answers to common interview questions.</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">15. Think about body language.</a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">16.Try some mock interviews.</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">17. Write down questions you’ll ask them.</a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">18. Plan for what you’ll do if you’re caught off guard.</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">19. Prepare for technical interviews or skill tests.</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">20. Figure out what to wear.</a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">21. Look appropriate and professional.</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">22. Print out copies of your resume.</a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">23. Prepare a reference list.</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">24. Test any needed tech.</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">25. Pack your bag ahead of time.</a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">26. Figure out where you’re going and how you’re getting there</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">27. Prepare your environment (if needed).</a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">28. Fill in an interview cheat sheet.</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">29. Get a good night’s sleep.</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">30. Calm your nerves and/or get psyched.</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">Research the company</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">Learn everything you can about the open position.</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">Try out the company’s product or service (if you can).</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">Learn about the interviewers (without being creepy!)</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">Find out what kind of interview you’re in for—and prepare accordingly.</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">Identify your selling points for this job.</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">Be ready to tell the interviewer about yourself.</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">Know why you’re interested in this position at this company.</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">Do some salary research.</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">Prepare your stories.</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">Familiarize yourself with the STAR method.</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">Jot down important numbers and details.</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">Brush up on your interview skills.</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">Practice—but don’t memorize—your answers to common interview questions.</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">Think about body language.</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">Try some mock interviews.</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">Write down questions you’ll ask them.</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">Plan for what you’ll do if you’re caught off guard.</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">Prepare for technical interviews or skill tests.</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">Figure out what to wear.</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">Look appropriate and professional.</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">Print out copies of your resume.</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">Prepare a reference list.</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">Test any needed tech.</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">Pack your bag ahead of time.</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">Figure out where you’re going and how you’re getting there</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">Prepare your environment (if needed).</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">Fill in an interview cheat sheet.</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">Get a good night’s sleep.</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">Calm your nerves and/or get psyched.</a></li>
 </ol>
 
 <h3><span class="ez-toc-section" id="Advanced-NET-Core-interview-questions"></span><a href="#advanced-net-core-interview-questions">Advanced .NET Core interview questions</a><span class="ez-toc-section-end"></span></h3>
