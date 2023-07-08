@@ -18,7 +18,7 @@
 <p>.NET can be used to develop different types of high-performance applications such as gaming applications. It provides better monitoring, scalability, performance, and consistency for a whole range of applications such as console apps, GUI apps, web apps, web API apps, Windows services etc.</p>
 <p>&nbsp;</p>
 <p>.NET MVC(Model-View-Controller), provides a large set of additional functionalities to create modular applications. It eases the whole application creation process by providing component-based development and testing.</p>
-<figure id="attachment_9473" aria-describedby="caption-attachment-9473" style="width: 640px" class="wp-caption alignnone"><img loading="lazy" class="wp-image-9473 size-large" src="https://www.hackertrail.com/wp-content/uploads/2021/07/net-overview-1024x629.png" alt=".NET Core in nutshell " width="640" height="393" srcset="https://www.hackertrail.com/wp-content/uploads/2021/07/net-overview-1024x629.png 1024w, https://www.hackertrail.com/wp-content/uploads/2021/07/net-overview-300x184.png 300w, https://www.hackertrail.com/wp-content/uploads/2021/07/net-overview-768x472.png 768w, https://www.hackertrail.com/wp-content/uploads/2021/07/net-overview-624x383.png 624w, https://www.hackertrail.com/wp-content/uploads/2021/07/net-overview-50x31.png 50w, https://www.hackertrail.com/wp-content/uploads/2021/07/net-overview-100x61.png 100w, https://www.hackertrail.com/wp-content/uploads/2021/07/net-overview-600x368.png 600w, https://www.hackertrail.com/wp-content/uploads/2021/07/net-overview.png 1047w" sizes="(max-width: 640px) 100vw, 640px" /><figcaption id="caption-attachment-9473" class="wp-caption-text">Image credit: https://codeburst.io/</figcaption></figure>
+
 &nbsp;</p>
 <h4>In this article we will dig deeper into .NET core interview questions into the following sections:</h4>
 <p>&nbsp;</p>
@@ -95,9 +95,7 @@
 <li>Now, the Common Language Runtime (CLR) of the framework convert the compiled code to machine code (executable code) using the Just In Time (JIT) compiler.</li>
 <li>At last, we can execute this executable code on any specific architecture used by developers.</li>
 </ul>
-<p><a href="https://www.hackertrail.com/jobs/?utm_source=Careers&utm_medium=CallToAction&utm_campaign=SEO" target="_blank" rel="noopener"><br />
-<img loading="lazy" src="https://www.hackertrail.com/wp-content/uploads/2022/09/Explore-the-Job-Openings-in-APAC.webp" alt="Explore our careers section for .Net Job Openings" width="780" height="78"><br />
-</a></p>
+
 <p>&nbsp;</p>
 <h3><span class="ez-toc-section" id="2-What-is-the-latest-version-of-NET-Core-Share-one-specific-attribute"></span>
 <section id="what-is-the-latest-version-of-net-core"><span style="color: #f66700;">2. What is the latest version of .NET Core? Share one specific attribute.</span></section>
@@ -137,8 +135,7 @@
 <li>A collection of SDK tools and compilers: It permits you to work with .NET Core SDK quickly.</li>
 </ul>
 <p>This stack could be divided into these four components:</p>
-<p><img loading="lazy" class="alignnone " src="https://www.hackertrail.com/wp-content/uploads/2022/09/critical-components-in-.NET-Core.webp" alt="critical components in .NET Core" width="624" height="364" /></p>
-<p>Image Credit: .NET Core Components</p>
+
 <p>&nbsp;</p>
 <h3><span class="ez-toc-section" id="6-What-is-the-difference-between-Net-Core-and-Mono"></span>
 <section id="what-is-the-difference-between-net-core-and-mono"><span style="color: #f66700;">6. What is the difference between .Net Core and Mono?</span></section>
@@ -203,9 +200,7 @@
 <td>Mono Class Library</td>
 </tr>
 </table>
-<p><a href="https://www.hackertrail.com/practice/?utm_source=PracticeSkills&utm_medium=CallToAction&utm_campaign=SEO" target="_blank" rel="noopener"><br />
-<img loading="lazy" src="https://www.hackertrail.com/wp-content/uploads/2022/09/Practice-Your-Coding-Skills-Here.webp" alt="Test your .Net coding skills here" width="780" height="78"><br />
-</a></p>
+
 <p>&nbsp;</p>
 <h3><span class="ez-toc-section" id="7-What-is-NET-Core-CoreFX"></span>
 <section id="what-is-net-core-corefx"><span style="color: #f66700;">7. What is .NET Core CoreFX?</span></section>
@@ -219,8 +214,7 @@
 <p>&nbsp;</p>
 <p>The following image shows .NET Core Compilation. You can clearly write codes in different languages that compliers like Roslyn would comply with. The compiler will generate the respective CIL code used by the JIT compiler for further compilation. Since CoreCLR is embedded in the JIT compiler, it would eventually generate machine code. Check its source code available on <a href="https://github.com/dotnet/runtime" target="_blank" rel="noopener">GitHub</a></p>
 <p>&nbsp;</p>
-<p><img loading="lazy" class="alignnone " src="https://www.hackertrail.com/wp-content/uploads/2022/09/Net-CoreCLR.webp" alt=".Net CoreCLR" width="975" height="525" /></p>
-<p>Image Credit: dotnet-talk</p>
+
 <p>&nbsp;</p>
 <h3><span class="ez-toc-section" id="9-How-is-NET-Core-SDK-different-from-NET-Core-Runtime"></span>
 <section id="how-is-net-core-sdk-different-from-net-core-runtime"><span style="color: #f66700;">9. How is .NET Core SDK different from .NET Core Runtime?</span></section>
@@ -254,7 +248,7 @@
 <section id="what-is-kestrel"><span style="color: #f66700;">12. What is Kestrel?</span></section>
 <span class="ez-toc-section-end"></span></h3>
 <p>&nbsp;<br />
-<figure id="attachment_9474" aria-describedby="caption-attachment-9474" style="width: 641px" class="wp-caption alignnone"><img loading="lazy" class="size-full wp-image-9474" src="https://www.hackertrail.com/wp-content/uploads/2022/05/kestrel-to-internet.webp" alt="Kestrel architecture" width="641" height="82" /><figcaption id="caption-attachment-9474" class="wp-caption-text">Image credit: https://docs.microsoft.com/</figcaption></figure>
+
 &nbsp;</p>
 <p>Kestrel is an event-driven, I/O-based, open-source, cross-platform, and asynchronous server which hosts .NET applications. It is provided as a default server for .NET Core therefore, it is compatible with all the platforms and their versions which .NET Core supports.</p>
 <p>&nbsp;</p>
@@ -280,7 +274,7 @@
 <p>The below diagram shows a middleware request pipeline consisting of many delegates called one after another. Where black arrows mark the direction of execution. Each delegate in the diagram performs some operations before or after the next delegate.</p>
 <p>More details from <a href="https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-5.0" target="_blank" rel="noopener">Microsoft’s documentation.</a></p>
 <p>&nbsp;<br />
-<figure id="attachment_9475" aria-describedby="caption-attachment-9475" style="width: 600px" class="wp-caption alignnone"><img loading="lazy" class="size-full wp-image-9475" src="https://www.hackertrail.com/wp-content/uploads/2022/05/request-delegate-pipeline.webp" alt="Delegates in Middleware pipeline" width="600" height="384" /><figcaption id="caption-attachment-9475" class="wp-caption-text">Image credit: https://docs.microsoft.com/<span style="font-size: 16px;"> </span></figcaption></figure>
+
 &nbsp;</p>
 <h3><span class="ez-toc-section" id="14-What-are-Razor-Pages-in-NET-Core"></span>
 <section id="what-are-razor-pages-in-net-core"><span style="color: #f66700;">14. What are Razor Pages in .NET Core?</span></section>
@@ -305,7 +299,8 @@
 <li><b>Singleton Service:</b> Single Instance is created once a lifetime of the application.</li>
 </ul>
 <p>&nbsp;<br />
-<figure id="attachment_9477" aria-describedby="caption-attachment-9477" style="width: 783px" class="wp-caption alignnone"><img loading="lazy" class="size-full wp-image-9477" src="https://www.hackertrail.com/wp-content/uploads/2022/05/lifetime-of-dependency-injection-asp.net-core-example.webp" alt=" Service Lifetime in .NET Core " width="783" height="464" /><figcaption id="caption-attachment-9477" class="wp-caption-text">Image credit: https://www.c-sharpcorner.com/</figcaption></figure>
+
+
 &nbsp;</p>
 <h3><span class="ez-toc-section" id="16-What-are-the-differences-between-NET-Core-and-NET-Framework"></span>
 <section id="what-are-the-differences-between-net-core-and-net-framework"><span style="color: #f66700;">16. What are the differences between .NET Core and .NET Framework?</span></section>
@@ -515,7 +510,7 @@
 <p>&nbsp;</p>
 <p>As we can see in the below diagram, the first request has a complete cycle from client browser to proxy server and then subsequently to web server. Now, the proxy server has stored the response in the cache. For all the subsequent requests, the proxy server sends the response from the cache itself. Hence, the number of proxy/client requests to the web server is reduced.</p>
 <p>&nbsp;<br />
-<figure id="attachment_9478" aria-describedby="caption-attachment-9478" style="width: 640px" class="wp-caption alignnone"><img loading="lazy" class="wp-image-9478 size-large" src="https://www.hackertrail.com/wp-content/uploads/2022/05/response-caching-.NET-Core.webp" alt="Response Caching" width="640" height="323" /><figcaption id="caption-attachment-9478" class="wp-caption-text">Image credit: https://jakeydocs.readthedocs.io/</figcaption></figure>
+
 &nbsp;</p>
 <h3><span class="ez-toc-section" id="28-What-is-a-generic-host-in-NET-Core"></span>
 <section id="what-is-a-generic-host-in-net-core"><span style="color: #f66700;">28. What is a generic host in .NET Core?</span></section>
@@ -577,12 +572,7 @@
 <li>Code becomes easy to test because of the use of interfaces.</li>
 <li>Code is loosely coupled, clean, and easy to maintain.</li>
 </ul>
-<p>&nbsp;</p>
-<p style="text-align: center;"><i><b>Practice Skills:</b> Developers love practice; Do your practice <a href="https://www.hackertrail.com/practice/" target="_blank" rel="noopener">here</a> and crack your coding interview</i></p>
-<p><a href="https://www.hackertrail.com/jobs/?utm_source=Careers&utm_medium=CallToAction&utm_campaign=SEO" target="_blank" rel="noopener"><br />
-<img loading="lazy" src="https://www.hackertrail.com/wp-content/uploads/2022/09/Explore-the-Job-Openings-in-APAC.webp" alt="Explore our careers section for .Net Job Openings" width="780" height="78"><br />
-</a></p>
-<p>&nbsp;</p>
+
 <h2><span class="ez-toc-section" id="ASPNET-MVC-Interview-Questions"></span>
 <section id="asp-net-mvc-interview-questions"><span style="color: #f66700;">ASP.NET MVC  Interview Questions</span></section>
 <span class="ez-toc-section-end"></span></h2>
