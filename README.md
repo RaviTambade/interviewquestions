@@ -124,10 +124,6 @@
 <td>Mono Class Library</td>
 </tr>
 </table>
-<p><a href="https://www.hackertrail.com/practice/?utm_source=PracticeSkills&utm_medium=CallToAction&utm_campaign=SEO" target="_blank" rel="noopener"><br />
-<img loading="lazy" src="https://www.hackertrail.com/wp-content/uploads/2022/09/Practice-Your-Coding-Skills-Here.webp" alt="Test your .Net coding skills here" width="780" height="78"><br />
-</a></p>
-<p>&nbsp;</p>
 
 <hr/>
 <ol>
