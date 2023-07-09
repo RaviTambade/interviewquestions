@@ -1,6 +1,6 @@
 <article>
 <div class="entry-content-wrap primary-entry-content">
-<header class="entry-header"><h1 class="entry-title">How to Prepare for a Job Interview</h1>
+<header class="entry-header"><h1 class="entry-title">How to Prepare for DevOps Interview</h1>
 </header>
 <div class="entry-content">
 <p>DevOps is the intersection point of software development, operations, and quality assurance (QA). Organizations around the world are fast adapting to the DevOps culture to streamline their business strategy. If you are planning to start a career in this field, you must prepare the top DevOps interview questions that you might face in your job interview. We have listed most frequently asked DevOps interview questions and answers to boost your interview preparation. </p>
