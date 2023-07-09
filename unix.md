@@ -276,8 +276,8 @@
   <p>% grep -c:We can use it to count the number of matching lines.</p>
 
 
-<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">55. What is the purpose of EXPOSE command in Dockerfile?</a><span class="ez-toc-section-end"></span></h3>
- 23. What is the difference between whoami and who am i commands in Unix?
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions"> 23. What is the difference between whoami and who am i commands in Unix?</a><span class="ez-toc-section-end"></span></h3>
+
   <p>Both the commands whoami and who am i are used to get the user information in Unix</p>
   <p>When we login as root user on the network, then both whoami and who am i commands will show the user as root.</p>
   <p>But when any other user let say john logs in remotely and runs su -root, whoamiwil show root, but who am i will show the original user john.</p>
@@ -330,7 +330,7 @@
 
 
  
-<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">32. What is the significance of 755 in chmod 755 command?</a><span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">29. What is the significance of 755 in chmod 755 command?</a><span class="ez-toc-section-end"></span></h3>
   <p>We use chmod command to change the permissions of a file in Unix. In this command we can pass the file permissions in the form of a three-digit number</p>
   <p>In this number 755, first digit 7 is the permissions given to owner, second digit 5 is the permissions of group and third digit 5 is the permissions of all others.</p>
   <p>Also the numbers 7 and 5 are made from following rules:</p>   
@@ -342,7 +342,7 @@
   <p>In out example 755 means, owner has read, write and execute permissions. Group and others have read and execute permissions</p>
 
 
-<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">33.  How can we run a process in background in Unix? How can we kill a process running in background?</a><span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">30.  How can we run a process in background in Unix? How can we kill a process running in background?</a><span class="ez-toc-section-end"></span></h3>
   <p>In Unix shell we can use symbol & to run a command in background.</p>
   <p>E.g. % ls -lrt &</p>
   <p>Once we use & option it runs the process in background and prints the process ID. We cannot down this process ID for using it in kil command.</p>   
@@ -351,12 +351,12 @@
   <p>% kil -9 processId</p>
 
 
-<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">34.How will you create a read only file in Unix?</a><span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">32.How will you create a read only file in Unix?</a><span class="ez-toc-section-end"></span></h3>
   <p>We can create a file with Vi editor, cat or any other command. Once the file is created we have to give read only permissions to file. To change file permission to read only we use following command:</p>
   <p>%chmod 400 filename</p>
 
 
-<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">35. How does alias work in Unix?</a><span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">33. How does alias work in Unix?</a><span class="ez-toc-section-end"></span></h3>
 <p>We use alias in Unix to give a short name to a long command.</p>
 <p> We can even use it to combine multiple commands and give a short convenient
 name.</p>
@@ -372,7 +372,7 @@ aliasl='last'</b>
 </p>
 
 
-<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">36. How can you redirect I/O in Unix?</a><span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">34. How can you redirect I/O in Unix?</a><span class="ez-toc-section-end"></span></h3>
 <p>In Unix we can redirect the output of command or operation to a file instead of command line interface (CLI). For this we sue redirection pointers.</p>
 <p>These are symbols > and >>.</p>
 <p>Ifwe want to write the output ofls –lrt command to a file we use folowing:</p>
@@ -382,7 +382,7 @@ aliasl='last'</b>
 <p>Ifwe want to append the contents ofone file at the end of another fil ewe use folowing:<p>
 <p>% catsrcFile >> appendToFile</p>
 
-<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">37. What are the main steps taken by a Unix Shell for processing a command?</a><span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">35. What are the main steps taken by a Unix Shell for processing a command?</a><span class="ez-toc-section-end"></span></h3>
 <p>A Unix Shell takes following main steps to process a command:<p>
 <ol>
 <li><b>I. Parse </b>: First step is to parse the command or set of commands given in a Command Line Interface (CLI). In this step multiple
@@ -396,7 +396,7 @@ with the output from the command.</li>
 </ol>
 
 
-<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">38. What is a Sticky bit in Unix?</a><span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">36. What is a Sticky bit in Unix?</a><span class="ez-toc-section-end"></span></h3>
 <p>A Sticky bit is a file/directory permission feature inUnix.</p>
 <p>Sometimes whenwe give write permission to another user then that user can delete the file without the owner knowing about it. </p>
 <p>To preventsuchan
@@ -414,7 +414,7 @@ accidental deletion of file we use sticky bit.</p>
 
 
 
-<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">39. What are the different outputs from Kill command in Unix?</a><span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">37. What are the different outputs from Kill command in Unix?</a><span class="ez-toc-section-end"></span></h3>
 <p>Kil command in Unix can return following outputs:</p>
 <ol>
 <li>I. 0:It means Kill command wassuccessful</li>
@@ -426,7 +426,7 @@ cannot accessthat process.</p>
 
 
 
-<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">40. How will you customize your environment in Unix?</a><span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">38. How will you customize your environment in Unix?</a><span class="ez-toc-section-end"></span></h3>
 <p>InUnix, almost al the popular shells provide optionsto customize the environment by using environment variables. To make these customizations
 permanent we canwrite these to special files that are specific to auser in a shell.</p>
 <p>Once we write our customizations to these files, we keep on getting same customization when we open a new shel with same user account.</p>
@@ -440,7 +440,7 @@ permanent we canwrite these to special files that are specific to auser in a she
 
 
 
-<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">41. What are the popular commands for user management in Unix?</a><span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">39. What are the popular commands for user management in Unix?</a><span class="ez-toc-section-end"></span></h3>
 <p>InUnixwe use folowingcommandsfor User Management:</p>
 <ol>
 <li><b>I. id </b>: This command gives the active user id with login and groups to which user belongs.</li>
@@ -452,7 +452,7 @@ permanent we canwrite these to special files that are specific to auser in a she
 </ol>
 
 
-<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">42. How will you debug a shell script in Unix?</a><span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">40. How will you debug a shell script in Unix?</a><span class="ez-toc-section-end"></span></h3>
 <p>A shell script is a program that can be executed in Unix shell. </p>
 <p>Sometimes a shell script does not work as intended.</p>
 <p> To debug and find the problem</p>
@@ -465,7 +465,7 @@ permanent we canwrite these to special files that are specific to auser in a she
 arguments passed to a command with–xoption.</p>
 
 
-<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">43. What is the difference between a Zombie and Orphan process in Unix?</a><span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">41. What is the difference between a Zombie and Orphan process in Unix?</a><span class="ez-toc-section-end"></span></h3>
 <ol>
 <li>Zombie is a defunct child process in Unix thatstil has entry in processtable.</li>
 <li>Sometimes a child process is terminated inUnix, but the parent process stil waits onit.</li>
@@ -476,7 +476,7 @@ arguments passed to a command with–xoption.</p>
 </ol>
 
 
-<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">44. How will you check if a remote host is still alive?</a><span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">42. How will you check if a remote host is still alive?</a><span class="ez-toc-section-end"></span></h3>
 <p>We can use one of the networking commands in Unix. It is caled ping. With ping command we can ping a remote host.</p>
 <p>Ping utility sends packets in an IP network with ICMP protocol. </p>
 <p>Once the packet goes fromsource to destination and comes back it records the
@@ -486,7 +486,7 @@ time.</p>
 <p>Another optionisto use telnetto remote host to check itsstatus.</p>
 
 
-<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">45. How will you get the last executed command in Unix?</a><span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">43. How will you get the last executed command in Unix?</a><span class="ez-toc-section-end"></span></h3>
 <p>We can use history command to get the list commands that were executed in Unix.</p>
 </p> Since we are only interested in the last executed command we
 have to use tailto get the last entry.</p>
@@ -494,14 +494,14 @@ have to use tailto get the last entry.</p>
 <p><b>% history | tail-2</b></p>
 
 
-<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">46. What is the meaning of<b> “2>&1” </b>in a Unix shell?</a><span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">44. What is the meaning of<b> “2>&1” </b>in a Unix shell?</a><span class="ez-toc-section-end"></span></h3>
 <p>In Unix shell file descriptor 1 isforstandard output.</p>
 <p>File description 2 isforstandard error.</p>
 <p>We can use <b>“2>&1”</b> in a command so that all the errors from standard error go to standard output.</p>
 <p><b>%catfile 2>&1</b></P>
 
 
-<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">47. How will you find which process is taking most CPU time in Unix?</a><span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">45. How will you find which process is taking most CPU time in Unix?</a><span class="ez-toc-section-end"></span></h3>
 <p>In Unix, we can use top command to list the CPU time and memory used by various processes.</P>
 <p>The top command lists the process IDs and CPU</P>
 time, memory etc used bytopmost processes.</P>
@@ -511,7 +511,7 @@ time, memory etc used bytopmost processes.</P>
 <p>This is the processthat is consumingmost CPUtime.</p>
 
 
-<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">48. What is the difference between Soft link and Hard link in Unix?</a><span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">46. What is the difference between Soft link and Hard link in Unix?</a><span class="ez-toc-section-end"></span></h3>
 <p>A soft link is a pointer to a file, directory or a program located in a dif erent location.</p> 
 <p>A hard link can point to a programor a file but not to a
 directory.</p>
@@ -519,7 +519,7 @@ directory.</p>
 <p>We use the command ln–s for creating a soft link. But a hard link canbe created by lncommand without –s option.</p>
 
 
-<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">49. How will you find which processes are using a file?</a><span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">47. How will you find which processes are using a file?</a><span class="ez-toc-section-end"></span></h3>
 <p>We canuse ls of command to find the list of ProcessIDs of the processes that are accessing a file in Unix.</p>
 <p>Lsofstandsfor List OpenFiles.</p>
 <p>Sample command is:<b>
@@ -529,14 +529,14 @@ directory.</p>
 <p>%ls of–iwil only list IP sockets.</p>
 
 
-<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">50. What is the purpose of nohup in Unix?</a><span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">48. What is the purpose of nohup in Unix?</a><span class="ez-toc-section-end"></span></h3>
 <p>In Unix, nohup command can be used to run a command in background. But it is dif erent from & option to run a process in background.
 Nohup stands for No Hangup. 
 <p>A nohup process does not stop even ifthe Unix user that started the process has logged out from the system.</P>
 <p>But the process started with option & will stop when the user thatstarted the processlogs of.</p>
 
 
-<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">51. How will you remove blank lines from a file in Unix?</a><span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">49. How will you remove blank lines from a file in Unix?</a><span class="ez-toc-section-end"></span></h3>
 <p>We can use grep command for this option. Grep command gives –v option to exclude lines that do not match a pattern.</p>
 <p>In an empty line there is nothing from start to end.</P>
 <p> InGrep command, ^ denotes that start ofline and $ denotes the end ofline.,</p>
@@ -545,14 +545,14 @@ Nohup stands for No Hangup.
 <p>% grep –v ‘^$’ file1.txt > file2.txt</p>
 
 
-<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">52. How will you find the remote hosts that are connecting to your system on a specific port in Unix?</a><span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">50. How will you find the remote hosts that are connecting to your system on a specific port in Unix?</a><span class="ez-toc-section-end"></span></h3>
 <p>We canuse netstat command forthis purpose. Netstat command lists the statistics about network connections. We cangrep forthe port inwhich
 we are interested</P>.
 <p><b>Exact command wil be:</b>
 <b>% netstst –a | grep “port number”</b></P>
 
 
-<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">53. What is xargs in Unix?</a><span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">51. What is xargs in Unix?</a><span class="ez-toc-section-end"></span></h3>
 <p>We use xargs command to build and execute commands that take input fromstandard input.</P> 
 <p>It is generaly used in chaining of commands.</P>
 <p>Xargs breaks the list of arguments into small sub lists that canbe handled bya command.</P>
