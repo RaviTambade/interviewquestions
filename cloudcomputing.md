@@ -273,7 +273,7 @@ cloud computing options should be wisely considered in conjunction with computin
 
 
 
-<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">>20.  What is virtualization in cloud computing?</a><span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">20.  What is virtualization in cloud computing?</a><span class="ez-toc-section-end"></span></h3>
   <p>Virtualization is the core of cloud computing platform. In cloud we can create a virtual version of hardware, storage and operating system that can be used to deploy the application.</p>
   <p>A cloud provider gives options to create virtual machines in cloud that can be used by its clients. These virtual machines are much cheaper than buying a few high end computing machines.</p>
   <p>In cloud we can use multiple cheap virtual machines to implement a resilient software system that can be scaled very easily in quick time. Where as buying an actual high-end machine to scale the system is very costly and time taking.
