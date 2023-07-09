@@ -224,10 +224,10 @@
 <li><b>Flexible</b>: Provides the flexibility to use any database and infrastructure as per choice. It provides the ability to change, evolve and grow easily according to external factors.</li>
 </ul>
 
-<h3><span class="ez-toc-section" id="12-What-is-Kestrel"></span>
-<section id="what-is-kestrel"><span style="color: #f66700;">12. What is Kestrel?</span></section>
-<p>Kestrel is an event-driven, I/O-based, open-source, cross-platform, and asynchronous server which hosts .NET applications. It is provided as a default server for .NET Core therefore, it is compatible with all the platforms and their versions which .NET Core supports.</p>
+<h3><span class="ez-toc-section" id="13-What-do-you-know-about-NET-Core-middleware"></span>
 
+<section id="what-do-you-know-about-net-core-middleware"><span style="color: #f66700;">12. What is Kestrel?</span></section>
+<p>Kestrel is an event-driven, I/O-based, open-source, cross-platform, and asynchronous server which hosts .NET applications. It is provided as a default server for .NET Core therefore, it is compatible with all the platforms and their versions which .NET Core supports.</p>
 <p>Usually, it is used as an edge-server, which means it is the server which faces the internet and handles HTTP web requests from clients directly. It is a listening server with a command-line interface.</p>
 
 <h4>Advantages of Kestrel are:</h4>
