@@ -8,7 +8,7 @@
 <p>This is because it’s seen the fastest adoption into the mainstream than the other technology within the domain. This adoption has been fueled mainly by the ever-increasing number of smartphones and mobile devices which may access the web.
 </p>
 <p>Cloud computing isn’t just for organizations and businesses; it’s also useful for the standard person. It enables us to run software programs without installing them on our computers and store and access our multimedia content online. Pooled computing resources available through cloud computing have tremendous benefits to business organizations.</p>
-<p>, we've put together a list of the most common Cloud Computing interview questions that can help you get the job. Learn more about cloud computing concepts to advance your career by being selected for a cloud interview. Prepare well, and you'll do well.</p>
+<p>We've put together a list of the most common Cloud Computing interview questions that can help you get the job. Learn more about cloud computing concepts to advance your career by being selected for a cloud interview. Prepare well, and you'll do well.</p>
 
 <h3><span class="ez-toc-section" id="Basic-NET-Core-interview-questions"></span><a href="#basic-net-core-interview-questions">Cloud Computing Interview Questions</a><span class="ez-toc-section-end"></span></h3>
 <ol>
