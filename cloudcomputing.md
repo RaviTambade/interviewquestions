@@ -53,18 +53,16 @@
 
 </ol>
 
-<details>
- <summary>108. Why do we use API in cloud computing environment? </summary>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">108. Why do we use API in cloud computing environment? </a><span class="ez-toc-section-end"></span></h3>
   <p>Application Programming Interfaces (API) is used in cloud computing environment for accessing many services. APIs are very easy to use. They 
 provide a quick option to create different set of applications in cloud environment.</p>
 <p>An API provides a simple interface that can be used in multiple scenarios. </p>
 <p> There are different types of clients for cloud computing APIs. It is easier to serve different needs of multiple clients with APIs in cloud computing environment.
  </p>
-</details>
 
 
-<details>
- <summary>109. What are the different areas of Security Management in cloud?  </summary>
+
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">109. What are the different areas of Security Management in cloud?</a><span class="ez-toc-section-end"></span></h3>
   <p>Different areas of Security management in cloud are as folows:</p>
     <ol>
         <li><b>I. Identity Management : </b>This aspect creates dif erent level of users, roles and their credentials to access the services in cloud. </li>
@@ -75,11 +73,9 @@ user password and multi-factor authentication like-verification by a one-time us
         <li><b>IV. Authorization :</b> In this aspect, we check for the permissions that are given to a user or role. If a user is authorized to access a 
 service, they are alowed to use it in the cloud environment.</li>
     </ol>
-</details>
 
 
-<details>
- <summary>110. What are the main cost factors of cloud based data center? </summary>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">110. What are the main cost factors of cloud based data center?</a><span class="ez-toc-section-end"></span></h3>
   <p>Costs in a Cloud based data center are different from a traditional data center. Main cost factors of cloud based data center are as follows: </p>
     <ol>
         <li><b>I. Labor cost :</b> We need skilled staff that can work with the cloud-based datacenter that we have selected for our operation. Since 
@@ -89,10 +85,9 @@ increase in scale and usage. </li>
         <li><b>III. Computing cost : </b>The biggest cost in Cloud environment is the cost that we pay to Cloud provider for giving us computing 
 resources. This cost is much higher compared to the labor or power costs. </li>
     </ol>
-</details>
 
-<details>
- <summary>111. How can we measure the cloud-based services? </summary>
+
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">111. How can we measure the cloud-based services?</a><span class="ez-toc-section-end"></span></h3>
   <p>
 In a cloud-computing environment we pay for the services that we use. So main criteria to measure a cloud based service its usage.  </p>
    <p>For computing resource we measure by usage in terms of time and the power of computing resource.  </p>
@@ -101,10 +96,9 @@ In a cloud-computing environment we pay for the services that we use. So main cr
 <p> Another important aspect of measuring a cloud service is its availability. A cloud provider has to specify the service level agreement (SLA) for the 
 time for which service wil be available in cloud. </p>
     
-</details>
 
-<details>
- <summary> 112. How a traditional datacenter is different from a cloud environment?</summary>
+
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">112. How a traditional datacenter is different from a cloud environment?</a><span class="ez-toc-section-end"></span></h3>
   <p>In a traditional datacenter the cost of increasing the scale of computing environment is much higher than a Cloud computing environment. Also in a 
 traditional data center, there are not much benefits of scaling down the operation when demand decreases. Since most of the expenditure is in 
 capital spent of buying servers etc., scaling down just saves power cost, which is very less compared to other fixed costs.   </p>
@@ -113,10 +107,9 @@ Also in a Cloud environment there is no need to higher a large number of operati
 maintaining and upgrading the resources in Cloud environment. </p>
 <p>With a traditional datacenter, people cost is very high since we have to hire a large number of technical operation people for in-house datacenter. </p>
     
-</details>
 
-<details>
- <summary> 113. How will you optimize availability of your application in a Cloud environment? </summary>
+
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">113. How will you optimize availability of your application in a Cloud environment? </a><span class="ez-toc-section-end"></span></h3>
   <p> 
 In a Cloud environment, it is important to optimize the availability of an application by implementing disaster recovery strategy. For disaster 
 recovery we create a backup application in another location of cloud environment. In case of complete failure at a data center we use the disaster 
@@ -125,10 +118,9 @@ recovery site to run the application.   </p>
 Another aspect of cloud environment is that servers often fail or go down. In such a scenario it is important to implement the application in such a 
 way that we just kil the slow server and restart another server to handle the traffic seamlessly. </p>
 
-</details>
 
-<details>
- <summary>114. What are the requirements for implementing IaaS strategy in Cloud?  </summary>
+
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">114. What are the requirements for implementing IaaS strategy in Cloud?  </a><span class="ez-toc-section-end"></span></h3>
   <p>Main requirements to implement IAAS are as folows:  </p>
     <ol>
         <li><b>I. Operating System(OS):</b> We need an OS to support hypervisor in IaaS. We can use open source OS like Linux for this purpose.  </li>
@@ -136,31 +128,23 @@ way that we just kil the slow server and restart another server to handle the tr
 network for this. </li>
         <li><b>III. Cloud Model :</b> We have to select the right cloud model for implementing IaaS strategy. It can be SaaS, PaaS or CaaS. </li>
     </ol>
-</details>
 
 
-<details>
- <summary>115. What is the scenario in which public cloud is preferred over private cloud?   </summary>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">115. What is the scenario in which public cloud is preferred over private cloud?  </a><span class="ez-toc-section-end"></span></h3>
   <p> In a startup mode often we want to test our idea. In such a scenario it makes sense to setup application in public cloud. It is much faster and 
 cheaper to use public cloud over private cloud.  </p>
   <p> Remember security is a major concern in public cloud. But with time and changes in technology, even public cloud is very secure.  </p>
-    
-</details>
 
-
-
-<details>
- <summary>116. Do you think Cloud Computing is a software application or a hardware service? </summary>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">116. Do you think Cloud Computing is a software application or a hardware service? </a><span class="ez-toc-section-end"></span></h3>
   <p> Cloud Computing is neither a software application nor a hardware service. Cloud computing is a systemarchitecture that can be used to implement 
 software as wel as hardware strategy of an organization.  </p>
   <p>Cloud Computing is a highly scalable, highly available and cost ef ective solution for software and hardware needs of an application. </p>
   <p>Cloud Computing provides great ease of use in running the software in cloud environment. It is also very fast to implement compared with any 
 other traditional strategy.</p>
     
-</details>
 
-<details>
- <summary>117. Why companies now prefer Cloud Computing architecture over Client Server Architecture? </summary>
+
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">117. Why companies now prefer Cloud Computing architecture over Client Server Architecture?</a><span class="ez-toc-section-end"></span></h3>
   <p>  
 In Client Server architecture there is one to one communication between client and server. Server is often at in-house datacenter and client can 
 access same server from anywhere. If client is at a remote location, the communication can have high latency.  </p>
@@ -169,10 +153,9 @@ such a scenario clients can access cloud-based service from any location and the
   <p>Another reason for Cloud computing architecture is high availability. Since there are multiple servers behind the cloud, even if one server is down, 
 another server can serve the clients seamlessly.</p>
     
-</details>
 
-<details>
- <summary>118. What are the main characteristics of Cloud Computing architecture?  </summary>
+
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">118. What are the main characteristics of Cloud Computing architecture?</a><span class="ez-toc-section-end"></span></h3>
   <p>Main characteristics of Cloud Computing architecture are as folows:  </p>
   <ol>
         <li><b>I. Elasticity : </b>In Cloud Computing system is highly elastic in the sense that it can easily adapt itself to increase or decrease in load. 
@@ -186,12 +169,10 @@ the services are accessible via public and standard APIs in Cloud computing. </l
         <li><b>V. Usage based Billing : </b>In a Cloud environment, users are charged for their usage of resources. They can forecast their bil and 
 costs based on the growth they are expecting in their load. </li>
     </ol>
-</details>
 
 
 
-<details>
- <summary>119. How databases in Cloud computing are different from traditional databases? </summary>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">119. How databases in Cloud computing are different from traditional databases? </a><span class="ez-toc-section-end"></span></h3>
   <p> In a Cloud environment, companies often use dif erent kind of data to store. There are data like email, images, video, pdf, graph etc. in a Cloud 
 environment. To store this data often NoSQL databases are used.   </p>
   <p>A NoSQL database like MongoDB provides storage and retrieval of data that cannot be stored ef iciently in a traditional RDBMS.  </p>
@@ -200,21 +181,17 @@ environment. To store this data often NoSQL databases are used.   </p>
 Hadoop like database help in storing Big Data based information. It can handle very large-scale information that is generated in a large-scale 
 environment. </p>  
 
-</details>
 
 
-<details>
- <summary>120. What is Virtual Private Network (VPN)? </summary>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">120. What is Virtual Private Network (VPN)?</a><span class="ez-toc-section-end"></span></h3>
   <p>  In a Cloud environment, we can create a virtual private network (VPM) that can be solely used by only one client. This is a secure network in 
 which data transfer between servers of same VPN is very secure.  </p>
   <p>By using VPN, an organization uses the public network in a private manner. It increases the privacy of an organization’s data transfer in a cloud 
 environment.  </p>
   
-</details>
 
 
-<details>
- <summary>121. What are the main components of a VPN? </summary>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">121. What are the main components of a VPN?</a><span class="ez-toc-section-end"></span></h3>
   <p>Virtual Private Network (VPN) consists of following main components:  </p>
   <ol>
         <li><b> Network Access Server (NAS): </b>A NAS server is responsible for setting up tunnels in a VPN that is accesses remotely. It 
@@ -223,21 +200,18 @@ maintains these tunnels that connect clients to VPN. </li>
         <li><b>AAA Server : </b>This is an authentication and authorization server that controls the access and usage of VPN. For each request to use VPN, AAA server checks the user for correct permissions</li>
         <li><b>Encryption : </b>In a VPN, encryption algorithms protect the important private data from malicious users. </li>
     </ol>
-</details>
 
-<details>
- <summary>122. How will you secure the application data for transport in a cloud environment? </summary>
+
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">122. How will you secure the application data for transport in a cloud environment?</a><span class="ez-toc-section-end"></span></h3>
   <p> With ease of use in Cloud environment comes the important aspect of keeping data secure. Many organizations have data that is transferred from 
 their traditional datacenter to Cloud datacenter.  </p>
   <p>During the transit of data it is important to keep it secure. Once of the best way to secure data is by using HTTPS protocol over Secure Socket 
 Layer (SSL).</p>
 <p>Another important point is to keep the data always encrypted. This protects data from being accessed by any unauthorized user during transit. </p>
-</details>
 
 
 
-<details>
- <summary>123. What are the large-scale databases available in Cloud? </summary>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">123. What are the large-scale databases available in Cloud? </a><span class="ez-toc-section-end"></span></h3>
   <p> 
 In Cloud computing scale is not a limit. So there are very large-scale databases available from cloud providers. Some of these are:  </p>
   <ol>
@@ -252,12 +226,10 @@ generating the data. </li>
 increased demand. It has very good security features and it can be even used to build multi-tenant apps to service multiple 
 customers in cloud. </li>
     </ol>
-</details>
 
 
 
-<details>
- <summary>124. What are the options for open source NoSQL database in a Cloud environment?</summary>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">124. What are the options for open source NoSQL database in a Cloud environment?</a><span class="ez-toc-section-end"></span></h3>
   <p> Most of the cloud-computing providers support Open Source NoSQL databases. Some of these databases are:</p>
   <ol>
         <li><b>I. Apache CouchDB :</b> It is a document based NoSQL database from Apache Open Source. It is compatible with Couch 
@@ -267,11 +239,10 @@ scalable and distributed Big Data database.  </li>
         <li><b>III. MongoDB :</b> It is an open source database system that of ers a flexible data model that can be used to store various kinds of data. 
 It provides high performance and always-on user experience.</li>
     </ol>
-</details>
 
 
-<details>
- <summary>125. What are the important points to consider before selecting cloud computing? </summary>
+
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">125. What are the important points to consider before selecting cloud computing? </a><span class="ez-toc-section-end"></span></h3>
   <p> Cloud computing is a very good option for an organization to scale and outsource its software/hardware needs. But before selecting a cloud 
 provider it is important to consider following points:   </p>
   <ol>
@@ -292,37 +263,33 @@ when we have to pay by bandwidth usage. So storage cost of data in cloud should 
 <li><b>VIII. Computing Cost :</b> One of the highest costs of cloud is computing cost. It can be very high cost with the increase of scale. So 
 cloud computing options should be wisely considered in conjunction with computing cost charged for them.</li>
     </ol>
-</details>
 
 
 
-<details>
- <summary>126. What is a System integrator in Cloud computing?</summary>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">126. What is a System integrator in Cloud computing?</a><span class="ez-toc-section-end"></span></h3>
   <p>Often an organization does not know al the options available in a Cloud computing environment. Here comes the role of a SystemIntegrator (SI) who specializes in implementing Cloud computing environment.</p>
   <p>SI creates the strategy of cloud setup. It designs the cloud platform for the use of its client. It creates the cloud architecture for the business need of client.</p>
   <p>SI oversees the overall implementation of cloud strategy and plan. It also guides the client while choosing the right options in cloud computing platform.</p>
-</details>
 
-<details>
- <summary>127.  What is virtualization in cloud computing?</summary>
+
+
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">>127.  What is virtualization in cloud computing?</a><span class="ez-toc-section-end"></span></h3>
   <p>Virtualization is the core of cloud computing platform. In cloud we can create a virtual version of hardware, storage and operating system that can be used to deploy the application.</p>
   <p>A cloud provider gives options to create virtual machines in cloud that can be used by its clients. These virtual machines are much cheaper than buying a few high end computing machines.</p>
   <p>In cloud we can use multiple cheap virtual machines to implement a resilient software system that can be scaled very easily in quick time. Where as buying an actual high-end machine to scale the system is very costly and time taking.
 </p>
-</details>
 
-<details>
- <summary>128.  What is Eucalyptus in a cloud environment?</summary>
+
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">128.  What is Eucalyptus in a cloud environment?</a><span class="ez-toc-section-end"></span></h3>
   <p>Eucalyptusis an open source software to build private and hybrid cloud in Amazon Web Services(AWS)</p>
   <p>It stands for Elastic Utility Computing Architecture for Linking Your Programs to Useful Systems</p>
   <p>We can create our own data center in a private cloud by using Eucalyptus. It makes use of pooling the computing and storage resources to scale up the operations.</p>
   <p>In Eucalyptus, we create images of software applications. These images are deployed to create instances. These instances are used for computing needs</p>
   <p>A Eucalyptus instance can have both public and private ip addresses.</p>
-</details>
 
 
-<details>
- <summary>129. What are the main components of Eucalyptus cloud architecture?</summary>
+
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">129. What are the main components of Eucalyptus cloud architecture?</a><span class="ez-toc-section-end"></span></h3>
   <p>The main components of Eucalyptus cloud architecture are as follows:</p>
     <ol>
         <li><b>Cloud Controller (CLC) </b> : : This is the controller that manages virtual resources like servers, network and storage. It is at the
@@ -334,17 +301,15 @@ cloud computing options should be wisely considered in conjunction with computin
         downloads images from Walrus and creates an instance for computing requirements in cloud.</li>
         <li><b>VMWare Broker </b>:It is an optional component in Eucalyptus. It provides AWS compatible interface to VMWare environment.</li>
     </ol>
-</details>
 
-<details>
- <summary>130. What is Auto-scaling in Cloud computing?</summary>
+
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">130. What is Auto-scaling in Cloud computing?</a><span class="ez-toc-section-end"></span></h3>
   <p>Amazon Web Services (AWS) provides an important feature called Auto-scaling in the cloud. With Auto-scaling setup we can automaticaly provision and start new instances in AWS cloud without any human intervention.</p>
   <p>Auto-scaling is triggered based on load and other metrics</p>
   <p>Let say if the load reaches a threshold we can setup auto-scaling to kick in and start a new server to handle additional load.</p>  
-</details>
 
-<details>
- <summary>131. What are the benefits of Utility Computing model?</summary>
+
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">131. What are the benefits of Utility Computing model?</a><span class="ez-toc-section-end"></span></h3>
   <p>Utility computing is a cloud service model in which provider gives computing resources to users for using on need basis.</p>
   <p>Some of the main benefits of Utility computing are:</p>
     <ol>
@@ -352,18 +317,16 @@ cloud computing options should be wisely considered in conjunction with computin
         <li><b>Easy to Scale </b>:  It is easier to scale up the operations in Utility computing. There is no need to plan for time consuming and costly hardware purchase</li>
         <li><b>Maintenance </b>:In Utility computing maintenance of servers is done by cloud provider. So a user can focus on its core business. It need not spend time and resources on maintenance of servers in cloud.Utility computing is also known as On-demand computing.</li>
     </ol>
-</details>
 
-<details>
- <summary>132. What is a Hypervisor in Cloud Computing?</summary>
+
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">132. What is a Hypervisor in Cloud Computing?</a><span class="ez-toc-section-end"></span></h3>
   <p>Hypervisor is also known as virtual machine monitor (VMM). It is a computer software/hardware that can create and run virtual machines.</p>
   <p>Hypervisor runs on a host machine. Each virtual machine is called Guest machine</p>
   <p>Hypervisor derives its name from term supervisor, which is a traditional name for the kernel of an operating system</p>
   <p>Hypervisor provides a virtual operating platformto the guest operating system. It manages the execution of guest OS.</p>  
-</details>
 
-<details>
- <summary>133. What are the different types of Hypervisor in Cloud Computing?</summary>
+
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">133. What are the different types of Hypervisor in Cloud Computing?</a><span class="ez-toc-section-end"></span></h3>
   <p>Hypervisors come in two main types:</p>
   <ol>
         <li><b>. Type-1, native orbare-metal hypervisors</b>: Type 1 hypervisor runs directly on the hardware of host machine. It controls the guest operating system from host machine. It is also caled bare metal hypervisor or native hypervisor.
@@ -371,44 +334,31 @@ cloud computing options should be wisely considered in conjunction with computin
         <li><b>Type-2, hosted hypervisors: </b>:  Type 2 hypervisor runs like a regular computer program on an operating system. The guest operating system runs like a process on the host machine. It creates an abstract guest operating systemif erent from the host operating system.<p>Examples of Type-2 are:VMware Workstation, VMware Player, VirtualBox, Paralels Desktop for Mac and QEMU are examples of type-2 hypervisors.</P>
         </li>
     </ol>
-</details>
 
-<details>
- <summary>134. Why Type-1 Hypervisor has better performance than Type-2 Hypervisor?</summary>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">134. Why Type-1 Hypervisor has better performance than Type-2 Hypervisor?</a><span class="ez-toc-section-end"></span></h3>
   <p>Type-1 Hypervisor has better performance than Type-2 hypervisor because Type-1 hypervisor skips the host operating system and it runs directly on host hardware. So it canutilize al the resources of host machine.</p>
   <p>In cloud computing Type-1 hypervisors are more popular since Cloud servers may need to run multiple operating system images.</p>
-</details>
 
-<details>
- <summary>135. What is CaaS?</summary>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">135. What is CaaS?</a><span class="ez-toc-section-end"></span></h3>
   <p>CaaS is also known as Communication as a Service. It is available in Telecom domain. One of the examples for CaaS is Voice Over IP (VoIP).</p>
   <p>CaaS of ers business features like desktop call control, unified messaging, and fax via desktop</p>
   <p>CaaS also provides services for Call Center automation like- IVR, ACD, cal recording, multimedia routing and screen sharing.</p> 
-</details>
 
-<details>
- <summary>136. How is Cloud computing different from computing for mobile devices?</summary>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">136. How is Cloud computing different from computing for mobile devices?</a><span class="ez-toc-section-end"></span></h3>
   <p>Since Mobile devices are getting connected to the Internet inlarge numbers, we often use Cloud computing for Mobile devices</p>
   <p>In mobile applications, there can be sudden increase in traffic as well as usage. Even some applications become viral very soon. This leads to very high load on application.</p>
   <p>In such a scenario, it makes sense to use Cloud Computing for mobile devices.</p>
   <p>Also mobile devices keep changing over time, it requires standard interfaces of cloud computing for handling multiple mobile devices.</p>  
-</details>
 
-<details>
- <summary>137. Why automation of deployment is very important in Cloud architecture?</summary>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">137. Why automation of deployment is very important in Cloud architecture?</a><span class="ez-toc-section-end"></span></h3>
   <p>One of the main reasons for selecting Cloud architecture is scalability of the system. In case of heavy load, we have to scale up the system so that there is no performance degradation.</p>
   <p>While scaling up the system we have to start new instances. To provision new instances we have to deploy our application on them.</p>
   <p>In such a scenario, if we want to save time, it makes sense to automate the deployment process. Another term for this is Auto-scaling</p>
   <p>With a fully automated deployment process we can start new instances based on automated triggers that are raised by load reaching a threshold.</p>  
-</details>
 
 
 
-
-
-
-<details>
- <summary>138. What are the main components in Amazon Cloud?</summary>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">138. What are the main components in Amazon Cloud?</a><span class="ez-toc-section-end"></span></h3>
   <p>Amazon provides a wide range of products in Amazon Web Services for implementing Cloud computing architecture. In AWS some of the main components are as follows:</p>
     <ol>
         <li><b>Amazon EC2 </b>:  This is used for creating instances and getting computing power to run applications in AWS. </li>
@@ -418,11 +368,10 @@ cloud computing options should be wisely considered in conjunction with computin
         <li><b>AmazonElastic LoadBalancing (ELB) </b>: This component can be used to load balance the various nodes in AWS cloud.</li>
         <li><b>AmazonCodeDeploy </b> :This service provides feature to automate the code deployment to any instance in AWS</li>
     </ol>
-</details>
 
 
-<details>
- <summary>139. What are main components in Google Cloud?</summary>
+
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">139. What are main components in Google Cloud?</a><span class="ez-toc-section-end"></span></h3>
   <p>Google is a newer cloud alternative than Amazon. But Google provides many additional features than AWS. Some of the main components of Google Cloud are asfolows:</p>
     <ol>
         <li><b>Compute Engine </b>: This component provides computing power to Google Cloud users. </li>
@@ -433,10 +382,9 @@ cloud computing options should be wisely considered in conjunction with computin
         <li><b> Cloud Machine Learning Platform </b>: It is a powerful cloud based machine learning product from Google to perform machine learning with APIs like- Job Search, Text Analysis, SpeechRecognition, Dynamic translation etc.</li>
         <li><b>  Cloud IAM </b>: This is an Identity and Access management tool from Google to help administrators run the security and authorization/authentication policies of an organization.</li>
     </ol>
-</details>
 
-<details>
- <summary>140. What are the major offerings of Microsoft Azure Cloud?</summary>
+
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">140. What are the major offerings of Microsoft Azure Cloud?</a><span class="ez-toc-section-end"></span></h3>
   <p>Microsoft is a relatively new entrant to Cloud computing with Azure cloud of ering. Some of the main products of Microsoft cloud are as follows:</p>
     <ol>
         <li><b> Azure Container Service </b>: This is a cloud computing service from Microsoft to run and manage Docker based containers  </li>
@@ -447,10 +395,9 @@ cloud computing options should be wisely considered in conjunction with computin
         <li><b>Azure Bot Service </b>: We can use Azure Bot Service to create serverless bots that can be scaled up on demand</li>
          <li><b>Azure IoT Hub </b>:It is a solution for Internet of Things services in cloud by Microsoft.</li>
     </ol>
-</details>
 
-<details>
- <summary>141. What are the reasons of popularity of Cloud Computing architecture?</summary>
+
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">141. What are the reasons of popularity of Cloud Computing architecture?</a><span class="ez-toc-section-end"></span></h3>
   <p>These days Cloud Computing is one of the most favorite architecture among organizations for their systems. Following are some of the reasons for popularity of Cloud Computing architecture:
 </p>
     <ol>
@@ -460,10 +407,9 @@ cloud computing options should be wisely considered in conjunction with computin
         <li><b>Mobile Devices </b>:A large number of users are going to Mobile computing. With a mobile device users can access a service from any location. To handle wide-variety of mobile devices,standard interfaces of Cloud Computing are very useful.</li>
         <li><b> ViralContent </b>:With growth of Social Media, content and media is getting viral i.e. It takes very short time to increase the traffic exponentialy on a server. In such a scenario Auto-scaling of Cloud Computing architecture can handle such spikes very easily.</li>
     </ol>
-</details>
 
-<details>
- <summary>142. What are the Machine Learning options from Google Cloud?</summary>
+
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">142. What are the Machine Learning options from Google Cloud?</a><span class="ez-toc-section-end"></span></h3>
   <p>Google provides a very rich library of Machine Learning options in Google Cloud. Some of these API are:</p>
     <ol>
         <li><b>Google Cloud ML  </b>: This is a general purpose Machine Learning API in cloud. We can use pre-trained models or generate new models for machine learning with this option.  </li>
@@ -473,11 +419,9 @@ cloud computing options should be wisely considered in conjunction with computin
         <li><b>Google Cloud Translate API  </b> :This API can translate content from one language to another language in cloud</li>
         <li><b>Google Cloud Vision API </b>: It is a powerful API for Image analysis. It can recognize faces and objects in an image. It can even categorize images in multiple relevant categories with a simple RESTAPI call</li>
     </ol>
-</details>
 
 
-<details>
- <summary>143. How will you optimize the Cloud Computing environment?</summary>
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">143. How will you optimize the Cloud Computing environment?</a><span class="ez-toc-section-end"></span></h3>
   <p>In a Cloud Computing environment we pay by usage. In such a scenario our usage costs are much higher. To optimize the Cloud Computing environment we have to keep abalance between our usage costs and usage.</p>
   <p>If we are paying for computing instances we can choose options like Lambda in AWS, which is a much cheaper options for computing in cloud.</p>
   <p>In case of Storage, if the data to be stored is not going to be accesses frequently we can go for Glacier option in AWS.</p>
@@ -485,14 +429,12 @@ cloud computing options should be wisely considered in conjunction with computin
 <p>It is a chalenging task for an architect in cloud to match the options available in cloud with the budget that an organization has to run its applications.</p>
 <p>Optimizations like server-less computing, load balancing, and storage selection can help in keeping the Cloud computing costs low with no degradation inUser experience.
 </p> 
-</details>
 
-<details>
- <summary>144.Do you think Regulations and Legal Compliance is an important aspect of Cloud Computing?</summary>
+
+<h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">144.Do you think Regulations and Legal Compliance is an important aspect of Cloud Computing?</a><span class="ez-toc-section-end"></span></h3>
   <p>Yes,in Cloud Computing we are using resources that are owned by the Cloud provider. Due to this our data resides on the servers that can be shared by other users of Cloud.</p>
   <p>There are regulations and laws for handling user data. We have to ensure that these regulations are met while selecting and implementing a Cloud computing strategy.</p>
   <p>Similarly, if we are in a contract with a client to provide certain Service Level Agreement (SLA) performance, we have to implement the cloud solutionin such a way that there is no breach of SLA agreement due to Cloud provider’s failures.</p>
   <p>For security there are laws that have to be folowed irrespective of Cloud or Co-located Data center. This is in the interest of our end-customer as wel as for the benefit of business continuity.</p>
   <p>With Cloud computing architecture we have to do due diligence in selecting Security and Encryption options in Cloud.</p>    
-</details>
 
