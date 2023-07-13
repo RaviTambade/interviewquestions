@@ -1,6 +1,6 @@
 <article>
 <div class="entry-content-wrap primary-entry-content">
-<header class="entry-header"><h1 class="entry-title">How to Prepare for a Job Interview</h1>
+<header class="entry-header"><h1 class="entry-title">Are you ready Job Interview?</h1>
 </header>
 <div class="entry-content">
 <p>Preparing for an interview takes a lot more than Googling a list of common interview questions (though yes, you should 100% be ready for those). You have to make a great first impression (no showing up in wrinkly suits or running late!), know about the company and its products and mission, and, of course, convey exactly why you’d be a great hire for this job.</p>
