@@ -3,7 +3,9 @@
 <header class="entry-header"><h1 class="entry-title">How to Prepare for Git Interview</h1>
 </header>
 <div class="entry-content">
-<p>DevOps is the intersection point of software development, operations, and quality assurance (QA). Organizations around the world are fast adapting to the DevOps culture to streamline their business strategy. If you are planning to start a career in this field, you must prepare the top DevOps interview questions that you might face in your job interview. We have listed most frequently asked DevOps interview questions and answers to boost your interview preparation. </p>
+<p>If you're a developer, you've probably heard of Git and GitHub. But what are they, and what's the difference? The first answer is version control.</p>
+<p>Any developer who has worked on a project with multiple team members knows the importance of version control. When more than one person is working on a codebase, it's essential to have a way to track changes and ensure that everyone is working off of the same version of the code.</p>
+<p>Git is a version control system used for tracking changes in computer files. It is generally used for source code management in software development. Git is used to tracking changes in the source code. The distributed version control tool is used for source code management.</p>
 
 <h3><span class="ez-toc-section" id="Basic-NET-Core-interview-questions"></span><a href="#basic-net-core-interview-questions">GIT interview questions</a><span class="ez-toc-section-end"></span></h3>
 <ol>
@@ -59,8 +61,7 @@
 </ol>
 
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">1. What is GIT? </a><span class="ez-toc-section-end"></span></h3>
-  <p>GIT is a distributed version control system and source code management (SCM) system 
-with an emphasis to handle small and large projects with speed and efficiency.</p>
+  <p>GIT is a distributed version control system and source code management (SCM) system with an emphasis to handle small and large projects with speed and efficiency.</p>
 
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
 <a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
