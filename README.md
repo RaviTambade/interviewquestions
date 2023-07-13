@@ -2,7 +2,7 @@
 <div class="entry-content-wrap primary-entry-content">
 <header class="entry-header"><h1 class="entry-title">How to prepare for an interview</h1></header>
     <div class="entry-content">
-        <p>In order to put in a good performance and secure the job you need to make sure you're prepared. Take a look at these tips to get you interview ready</p>
+        <p>As a software engineer, technical interviews can be a daunting prospect. However, with the right preparation and mindset, you can give yourself the best chance of success. Review key concepts and syntax in the programming languages and tools you'll be using in the interview. In order to put in a good performance and secure the job, you need to make sure you're prepared. Having a handson Knowledge is the first key for facing technical interviews. Some useful resources for reviewing the basics include:</p>
         <ol>
             <li><a href="https://github.com/RaviTambade/interviewquestions/blob/main/interviewpreptips.md">Interview Preparation Tips</a></li>
             <li><a href="https://github.com/RaviTambade/interviewquestions/blob/main/unix.md">Unix</a></li>
