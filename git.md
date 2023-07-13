@@ -3,9 +3,9 @@
 <header class="entry-header"><h1 class="entry-title">How to Prepare for Git Interview</h1>
 </header>
 <div class="entry-content">
-<p>If you're a developer, you've probably heard of Git and GitHub. But what are they, and what's the difference? The first answer is version control.</p>
-<p>Any developer who has worked on a project with multiple team members knows the importance of version control. When more than one person is working on a codebase, it's essential to have a way to track changes and ensure that everyone is working off of the same version of the code.</p>
-<p>Git is a version control system used for tracking changes in computer files. It is generally used for source code management in software development. Git is used to tracking changes in the source code. The distributed version control tool is used for source code management.</p>
+<p>If you're a developer, you've probably heard of Git and GitHub. But what are they, and what's the difference? The first answer is version control. Any developer who has worked on a project with multiple team members knows the importance of version control. When more than one person is working on a codebase, it's essential to have a way to track changes and ensure that everyone is working off of the same version of the code. Git is a version control system used for tracking changes in computer files. It is generally used for source code management in software development. Git is used to tracking changes in the source code. The distributed version control tool is used for source code management.</p>
+
+<p>Git is a version control system that allows developers to track changes in their code. GitHub is a web-based hosting service for git repositories. In simple terms, you can use git without Github, but you cannot use GitHub without Git. Take note of the following illustration for further information on the distinctions between the two.</p>
 
 <h3><span class="ez-toc-section" id="Basic-NET-Core-interview-questions"></span><a href="#basic-net-core-interview-questions">GIT interview questions</a><span class="ez-toc-section-end"></span></h3>
 <ol>
