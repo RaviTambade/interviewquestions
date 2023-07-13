@@ -7,7 +7,7 @@
 <p>So to help you prepare, we compiled a list of our all-time best pre-interview tips. From strategizing about how to tackle the toughest questions to packing your bag, we’ve got you covered—with 30 ways to make sure you bring your A-game.</p>
 
 
-<h3><span class="ez-toc-section" id="Basic-NET-Core-interview-questions"></span><a href="#basic-net-core-interview-questions">Basic .NET Core interview questions</a><span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="Basic-NET-Core-interview-questions"></span><a href="#basic-net-core-interview-questions">Basic tips for getting ready for interview</a><span class="ez-toc-section-end"></span></h3>
 <ol>
 <li><a href="#what-is-net-core-framework-and-how-does-it-work">Research the company</a></li>
 <li><a href="#what-is-the-latest-version-of-net-core">Learn everything you can about the open position.</a></li>
