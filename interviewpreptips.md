@@ -3,9 +3,8 @@
 <header class="entry-header"><h1 class="entry-title">Are you ready Job Interview?</h1>
 </header>
 <div class="entry-content">
-<p>Preparing for an interview takes a lot more than Googling a list of common interview questions (though yes, you should 100% be ready for those). You have to make a great first impression (no showing up in wrinkly suits or running late!), know about the company and its products and mission, and, of course, convey exactly why you’d be a great hire for this job.</p>
+<p>Preparing for an interview takes a lot more than Googling a list of common interview questions (though yes, you should 100% be ready for those). You have to make a great first impression, know about the company and its products and mission, and, of course, convey exactly why you’d be a great hire for this job.</p>
 <p>So to help you prepare, we compiled a list of our all-time best pre-interview tips. From strategizing about how to tackle the toughest questions to packing your bag, we’ve got you covered—with 30 ways to make sure you bring your A-game.</p>
-
 
 <h3><span class="ez-toc-section" id="Basic-NET-Core-interview-questions"></span><a href="#basic-net-core-interview-questions">Basic tips for getting ready for interview</a><span class="ez-toc-section-end"></span></h3>
 <ol>
