@@ -107,8 +107,9 @@
 </ul>
 <p>Note that for some questions you might want to tweak this structure slightly. For example, if you’re talking about a time you demonstrated leadership skills, consider defining what leadership means to you before jumping into the situation. But the STAR method will ensure your stories always have a beginning, middle, and end.</p>
 
-<h3><span class="ez-toc-section" id="12-What-is-Kestrel"></span>
-<section id="what-is-kestrel"><span style="color: #f66700;">12. Jot down important numbers and details.</span></section>
+<h3><span class="ez-toc-section" id="11-What-are-the-advantages-of-NET-Core"></span>
+<section id="what-are-the-advantages-of-net-core"><span style="color: #f66700;">12. Jot down important numbers and details.</span></section>
+<span class="ez-toc-section-end"></span></h3>
 <p>Don’t forget about the numbers! Find some revenue figures, engagement numbers, budget or team sizes, percentages of time saved, or anything else you can use to communicate your impact. Throwing in some hard numbers when talking about your responsibilities and accomplishments or answering behavioral interview questions really sweetens the deal and helps you tell a hiring manager why you’re so awesome. You can even write them down so you can refer to them during the interview. (Here’s how to quantify your accomplishments, even if you don’t work with numbers.)</p>
 
 <h3><span class="ez-toc-section" id="13-What-do-you-know-about-NET-Core-middleware"></span>
