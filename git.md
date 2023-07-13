@@ -60,8 +60,6 @@ with an emphasis to handle small and large projects with speed and efficiency.</
 <a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
 <p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
 
-
-
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">3. What is GIT version control? </a><span class="ez-toc-section-end"></span></h3>
   <ul>
     <li>GIT version control allows you to track the history of a collection of files (code files).</i>
@@ -69,36 +67,22 @@ with an emphasis to handle small and large projects with speed and efficiency.</
     <li>VCS allows you to switch between these versions. These versions are stored in a specific place, typically called as repository. (You can switch between different versions of java in between development process</i>
   </ul>
 
- 
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
 <a href="#asp-net-mvc-interview-questions">5. What is a repository in GIT? </a><span class="ez-toc-section-end"></span></h3>
 <p>A Git repository contains the history of a files.</p>
-
-
 
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
 <a href="#asp-net-mvc-interview-questions">6. How can you create a local repository in Git?  </a><span class="ez-toc-section-end"></span></h3>
 <p>By using # git init command create a local repository.</p>
 
-
-
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
 <a href="#asp-net-mvc-interview-questions">7. What is ‘bare repository’ in GIT? </a><span class="ez-toc-section-end"></span></h3>
 <p>A bare repository in Git just contains the version control information and no working files (no tree) and it doesn’t contain the special .git sub-directory. </p>
-
-
-
 
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
 <a href="#asp-net-mvc-interview-questions">8. How to configure GitHub repository locally? </a><span class="ez-toc-section-end"></span></h3>
 <p># git config --global user.name "user_name" </p>
 <p># git config --global user.email "user_email" </p>
-
-
-
-
-
-
 
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
 <a href="#asp-net-mvc-interview-questions">9. How to Create Alias to git commands</a><span class="ez-toc-section-end"></span></h3>
@@ -106,21 +90,15 @@ with an emphasis to handle small and large projects with speed and efficiency.</
 <p># git config --global --unset alias.lo -----> To Remove an Alias </p>
 <p># git config --global --unset user.name -----> to remove username</p>
 
-
-
-# git clone <url>
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
 <a href="#asp-net-mvc-interview-questions">10. What is the git clone? </a><span class="ez-toc-section-end"></span></h3>
 <p>To download an existing repository from Centralized (Github) to local system.</p>
+<p># git clone <url></p>
 
-
-
-# git add <file_name1> <file_name2>
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
 <a href="#asp-net-mvc-interview-questions">11. What is ‘git add’?</a><span class="ez-toc-section-end"></span></h3>
 <p>To add files from work area to Index/staging/cache area. </p>
-
-
+<p># git add <file_name1> <file_name2></p>
 
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
 <a href="#asp-net-mvc-interview-questions">12. What is Staging Area? </a><span class="ez-toc-section-end"></span></h3>
