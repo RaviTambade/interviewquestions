@@ -46,7 +46,7 @@
 <span class="ez-toc-section-end"></span></h2>
 <p>A lot of your interview preparation will depend on the specifics surrounding the job, the company, and even who is interviewing you and how.</p>
 <h3><span class="ez-toc-section" id="1-What-is-NET-Core-Framework-and-how-does-it-work"></span>
-<section id="what-is-net-core-framework-and-how-does-it-work"><span style="color: #f66700;">1.Research the company.?</span></section>
+<section id="what-is-net-core-framework-and-how-does-it-work"><span style="color: #f66700;">1.Research the company.</span></section>
 <span class="ez-toc-section-end"></span></h3>
 <p>Spend a few hours learning everything you can about the company—from as many sources as you can. Talk to people in your network to find current and previous employees, read current news releases, and, yes, spend some time on Google. Often, candidates just look at the information a company is pushing out on its own website and social media accounts, but fail to look more in depth at what others are saying. By looking at multiple sources, you’ll get a broader picture of the company (along with any negative press), and be ready to talk about why you’d like to work there and what you can do for them.</p>
 
