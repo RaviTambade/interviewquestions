@@ -71,65 +71,65 @@ with an emphasis to handle small and large projects with speed and efficiency.</
 
 
 
-5. What is a repository in GIT? 
+
 A Git repository contains the history of a files. 
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
-<a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
+<a href="#asp-net-mvc-interview-questions">5. What is a repository in GIT? </a><span class="ez-toc-section-end"></span></h3>
 <p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
 
-6. How can you create a local repository in Git? 
+
 By using # git init command create a local repository.
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
-<a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
+<a href="#asp-net-mvc-interview-questions">6. How can you create a local repository in Git?  </a><span class="ez-toc-section-end"></span></h3>
 <p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
 
-7. What is ‘bare repository’ in GIT? 
+
 A bare repository in Git just contains the version control information and no working 
 files (no tree) and it doesn’t contain the special .git sub-directory. 
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
-<a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
+<a href="#asp-net-mvc-interview-questions">7. What is ‘bare repository’ in GIT? </a><span class="ez-toc-section-end"></span></h3>
 <p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
 
-8. How to configure GitHub repository locally? 
+
 # git config --global user.name "user_name" 
 # git config --global user.email "user_email" 
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
-<a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
+<a href="#asp-net-mvc-interview-questions">8. How to configure GitHub repository locally? </a><span class="ez-toc-section-end"></span></h3>
 <p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
 
 
 
-9. How to Create Alias to git commands
+
 # git config --global alias.lo "log --oneline" -----> To create an Alias to Command
 # git config --global --unset alias.lo -----> To Remove an Alias 
 # git config --global --unset user.name -----> to remove username
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
-<a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
+<a href="#asp-net-mvc-interview-questions">9. How to Create Alias to git commands</a><span class="ez-toc-section-end"></span></h3>
 <p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
 
-10. What is the git clone? 
+
 To download an existing repository from Centralized (Github) to local system.
 # git clone <url>
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
-<a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
+<a href="#asp-net-mvc-interview-questions">10. What is the git clone? </a><span class="ez-toc-section-end"></span></h3>
 <p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
 
-11. What is ‘git add’?
+
 To add files from work area to Index/staging/cache area. 
 # git add <file_name1> <file_name2>
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
-<a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
+<a href="#asp-net-mvc-interview-questions">11. What is ‘git add’?</a><span class="ez-toc-section-end"></span></h3>
 <p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
 
-12. What is Staging Area? 
+
 staging area means “holding area”. Before the commits, it can be formatted and reviewed in 
 an intermediate area known as staging or Index Area.
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
-<a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
+<a href="#asp-net-mvc-interview-questions">12. What is Staging Area? </a><span class="ez-toc-section-end"></span></h3>
 <p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
 
 
-13. What is the use of ‘git log’? 
+
 To see the commits. Also, we can find specific commits in your project history- by author, 
 date, content or history.
 # git log -----> To show the Git Commits
@@ -141,205 +141,198 @@ date, content or history.
 # git log --grep="Index"
 # git log --oneline --author="user_name"
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
-<a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
+<a href="#asp-net-mvc-interview-questions">13. What is the use of ‘git log’? </a><span class="ez-toc-section-end"></span></h3>
 <p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
 
 
 
-14. How can we add modified/updated/edited files to the staging area and commit then 
-at the same time?
 # git commit -a -m "Do Something once more"
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
-<a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
+<a href="#asp-net-mvc-interview-questions">
+14. How can we add modified/updated/edited files to the staging area and commit then at the same time? </a><span class="ez-toc-section-end"></span></h3>
 <p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
 
 
-15. How to edit an incorrect commit message in Git? Or How can you fix a broken 
-commit?
+
 # git commit --amend -m "This is your new Git Message"
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
-<a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
+<a href="#asp-net-mvc-interview-questions">15. How to edit an incorrect commit message in Git? Or How can you fix a broken commit?</a><span class="ez-toc-section-end"></span></h3>
 <p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
 
 
-16. How to get back a commit to staging area?
+
 # git reset --soft <previous_commit id>
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
-<a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
+<a href="#asp-net-mvc-interview-questions">16. How to get back a commit to staging area?</a><span class="ez-toc-section-end"></span></h3>
 <p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
 
-17. How to get back a file from staging area to working area?
+
 # git reset head <file_name>
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
-<a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
+<a href="#asp-net-mvc-interview-questions">17. How to get back a file from staging area to working area?</a><span class="ez-toc-section-end"></span></h3>
 <p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
 
 
-18. How to get back a commit to work area?
+
 # git reset --mixed <previous commit id>
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
-<a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
+<a href="#asp-net-mvc-interview-questions">18. How to get back a commit to work area?</a><span class="ez-toc-section-end"></span></h3>
 <p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
 
 
-19. What is git reset?
+
 Reset the current HEAD state to specific state.
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
-<a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
+<a href="#asp-net-mvc-interview-questions">19. What is git reset? </a><span class="ez-toc-section-end"></span></h3>
 <p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
 
 
-20. What is ‘head’ in git and how many heads can be created in a repository?
+
 A ‘head’ is simply a reference to a commit object. In every repository, there is a default 
 head referred as “Master”. A repository can contain any number of heads.
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
-<a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
+<a href="#asp-net-mvc-interview-questions">20. What is ‘head’ in git and how many heads can be created in a repository?</a><span class="ez-toc-section-end"></span></h3>
 <p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
 
 
-21. What is .gitignore file?
+
 Keep the files names in .gitignore then that files not add and commit, just skip that files 
 while adding and committing.
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
-<a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
+<a href="#asp-net-mvc-interview-questions">21. What is .gitignore file? </a><span class="ez-toc-section-end"></span></h3>
 <p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
 
 
-22. How to see the difference between 2 commits?
+
 # git diff <commit_id1>..<commit_id2>
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
-<a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
+<a href="#asp-net-mvc-interview-questions">22. How to see the difference between 2 commits?</a><span class="ez-toc-section-end"></span></h3>
 <p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
 
 
-23. when file have staging area or file have committed if file is deleted in local repository 
-unfortunately how to get back that file to staging area?
+
 # git checkout --<file_name>
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
-<a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
+<a href="#asp-net-mvc-interview-questions">23. when file have staging area or file have committed if file is deleted in local repository unfortunately how to get back that file to staging area?</a><span class="ez-toc-section-end"></span></h3>
 <p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
 
 
-24. How to create a branch?
+
 # git branch <branch_name>
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
-<a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
+<a href="#asp-net-mvc-interview-questions">24. How to create a branch?</a><span class="ez-toc-section-end"></span></h3>
 <p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
 
 
 
 
-25. How to checkout to branch?
+
 # git checkout <branch_name>
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
-<a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
+<a href="#asp-net-mvc-interview-questions">25. How to checkout to branch?</a><span class="ez-toc-section-end"></span></h3>
 <p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
 
 
 
 
-26. How to create branch while checkout?
+
 # git checkout -b <branch_name>
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
-<a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
+<a href="#asp-net-mvc-interview-questions">26. How to create branch while checkout?</a><span class="ez-toc-section-end"></span></h3>
 <p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
 
 
 
 
-27. How do you rename the local branch?
+
 # git branch -m <old_branch_name> <new_branch_name>
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
-<a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
+<a href="#asp-net-mvc-interview-questions">27. How do you rename the local branch?</a><span class="ez-toc-section-end"></span></h3>
 <p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
 
 
 
-28. How to see the branch list?
+
 # git branch 
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
-<a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
+<a href="#asp-net-mvc-interview-questions">28. How to see the branch list? </a><span class="ez-toc-section-end"></span></h3>
 <p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
 
 
 
-29. How to see the remote branch list?
+
 # git branch -r
 Or
 # git remote show origin
 
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
-<a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
+<a href="#asp-net-mvc-interview-questions">29. How to see the remote branch list?</a><span class="ez-toc-section-end"></span></h3>
 <p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
 
-30. How to see the local and remote branch list?
+
 # git branch -a
 
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
-<a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
+<a href="#asp-net-mvc-interview-questions">30. How to see the local and remote branch list?</a><span class="ez-toc-section-end"></span></h3>
 <p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
 
-31. How to delete a branch?
+
 # git branch -d <branch_name>
 Or
 # git branch -D <branch_name>
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
-<a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
+<a href="#asp-net-mvc-interview-questions">31. How to delete a branch?</a><span class="ez-toc-section-end"></span></h3>
 <p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
 
 
 
 
-32. How to delete a Remote Branch? 
+
 # git push origin -d <branch_name>
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
-<a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
+<a href="#asp-net-mvc-interview-questions">32. How to delete a Remote Branch? </a><span class="ez-toc-section-end"></span></h3>
 <p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
 
 
 
 
-33. How to see the difference between 2 branches
+
 # git diff <branch1>..<branch2 >
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
-<a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
+<a href="#asp-net-mvc-interview-questions">33. How to see the difference between 2 branches</a><span class="ez-toc-section-end"></span></h3>
 <p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
 
 
 
-34. What is git push? 
+
 git push is to push commits from your local repository to a remote repository. 
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
-<a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
+<a href="#asp-net-mvc-interview-questions">34. What is git push?  </a><span class="ez-toc-section-end"></span></h3>
 <p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
 
 
-35. How do you push the files to master branch in remote repo?
+
 #git push (you must be in master branch)
 
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
-<a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
+<a href="#asp-net-mvc-interview-questions">35. How do you push the files to master branch in remote repo? </a><span class="ez-toc-section-end"></span></h3>
 <p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
 
 
-36. How do you push files from local to particular branch in remote repo?
+
 #git push origin <branch_name> 
 (or)
 #git push --set-upstream <branch_name>
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
-<a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
+<a href="#asp-net-mvc-interview-questions">36. How do you push files from local to particular branch in remote repo?</a><span class="ez-toc-section-end"></span></h3>
 <p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
 
-
-
-37. How to push new branch and its data to remote repository?
-#git push <github_repository_path> <branch_name>
-(or)
-#git push --set-upstream <branch_name>
 
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span>
-<a href="#asp-net-mvc-interview-questions">2. What is Distributed Control System? </a><span class="ez-toc-section-end"></span></h3>
-<p>We work in our local machine and later we transfer the code to Centralized repository (GitHub). We don’t need to connect to centralized repository to work.</p>
+<a href="#asp-net-mvc-interview-questions">37. How to push new branch and its data to remote repository? </a><span class="ez-toc-section-end"></span></h3>
+<p>#git push <github_repository_path> <branch_name></p>
+<p>(or)</p>
+<p>#git push --set-upstream <branch_name></p>
 
 
 
