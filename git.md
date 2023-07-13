@@ -5,51 +5,57 @@
 <div class="entry-content">
 <p>DevOps is the intersection point of software development, operations, and quality assurance (QA). Organizations around the world are fast adapting to the DevOps culture to streamline their business strategy. If you are planning to start a career in this field, you must prepare the top DevOps interview questions that you might face in your job interview. We have listed most frequently asked DevOps interview questions and answers to boost your interview preparation. </p>
 
-<h3><span class="ez-toc-section" id="Basic-NET-Core-interview-questions"></span><a href="#basic-net-core-interview-questions">DevOps interview questions</a><span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="Basic-NET-Core-interview-questions"></span><a href="#basic-net-core-interview-questions">GIT interview questions</a><span class="ez-toc-section-end"></span></h3>
 <ol>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">What are the popular DevOps tools that you use?</a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">What are the main benefits of DevOps?</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">What is the typical DevOps workflow you use in your organization?</a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">How do you take DevOps approach with Amazon Web Services?</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">How will you run a script automatically when a developer commits a change into GIT?</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">What are the main features of AWS OpsWorks Stacks?</a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">How does CloudFormation work in AWS?</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">What is CICD in DevOps?</a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">What are the best practices of Continuous Integration (CI)?</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">What are the benefits of Continuous Integration (CI)?</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">What are the options for security in Jenkins?</a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">What are the main benefits of Chef?</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">What is the architecture of Chef?</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">What is a Recipe in Chef?</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">What are the main benefits of Ansible?</a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">What are the main use cases of Ansible?</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">What is Docker Hub?</a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">What is your favourite scripting language for DevOps?</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">What is Multi-factor authentication?</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">What are the main benefits of Nagios?</a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">What is State Stalking in Nagios?</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">What are the main features of Nagios?</a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">What is Puppet?</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">What is the architecture of Puppet?</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">What are the main use cases of Puppet Enterprise?</a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">What is the use of Kubernetes?</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">What is the architecture of Kubernetes?</a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">How does Kubernetes provide high availability of applications in a Cluster?</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">Why Automated Testing is a must requirement for DevOps?</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">What is Chaos Monkey in DevOps?</a></li>
-
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">How do you perform Test Automation in DevOps?</a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">What are the main services of AWS that you have used?</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">Why GIT is considered better than CVS for version control system?</a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">What is the difference between a Container and a Virtual Machine?</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">What is Serverless architecture?</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">What are the main principles of DevOps? </a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">Are you more Dev or more Ops? </a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">What is a REST service?</a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">What are the Three Ways of DevOps?</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">How do you apply DevOps principles to make system Secure?</a></li>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">What is Self-testing Code?</a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">What is a Deployment Pipeline? </a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">What is GIT?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">What is Distributed Control System?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">What is GIT version control?</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">What is a repository in GIT?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">How can you create a local repository in Git?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">What is ‘bare repository’ in GIT?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">How to configure GitHub repository locally?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">How to Create Alias to git commands</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">What is the git clone?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">What is ‘git add’?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">What is Staging Area?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">What is the use of ‘git log’?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">How can we add modified/updated/edited files to the staging area and commit then at the same time?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">How to edit an incorrect commit message in Git? Or How can you fix a broken commit?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">How to get back a commit to staging area?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">How to get back a file from staging area to working area?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">How to get back a commit to work area?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">What is git reset?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">What is ‘head’ in git and how many heads can be created in a repository?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">What is .gitignore file?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">How to see the difference between 2 commits?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">When file have staging area or file have committed if file is deleted in local repository unfortunately how to get back that file to staging area?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">How to create a branch?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">How to checkout to branch?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">How to create branch while checkout?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">How do you rename the local branch?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">How to see the branch list?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">How to see the remote branch list?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">How to see the local and remote branch list?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">How to delete a branch?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">How to delete a Remote Branch?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">How to see the difference between 2 branches</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">What is git push?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">How do you push the files to master branch in remote repo?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">How do you push files from local to particular branch in remote repo?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">How to push new branch and its data to remote repository?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">What is git pull?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">How do you pull a file from particular remote branch?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">How do you download a remote branch to local without merge?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">What is git Fetch?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">What is difference between git clone & git pull?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">What is git merge?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">What is git conflict? What is the scenario you will get git conflict error?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">How do you resolve merge conflict?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">How do you skip from merge conflict?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">What is the function of ‘git rm’?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">How will you know in GIT if a branch has been already merged into master?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">What is branching? What is the purpose of branching in GIT?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">What is the criteria u merge two branches?</a></li>
 </ol>
 
 <h3><span class="ez-toc-section" id="ASPNET-MVC-interview-questions"></span><a href="#asp-net-mvc-interview-questions">1. What is GIT? </a><span class="ez-toc-section-end"></span></h3>
