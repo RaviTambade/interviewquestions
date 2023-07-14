@@ -495,23 +495,24 @@
 <li><b>UseEndpoints:</b> Adds end execution point to the middleware pipeline and runs the delegate of the endpoint.</li>
 </ul>
 <div>
-public void Configure(IApplicationBuilder app, IWebHostEnvironment env) 
-{ 
-    if (env.IsDevelopment()) 
-    { 
-        app.UseDeveloperExceptionPage(); 
-    } 
 
-    app.UseRouting(); 
-
-    app.UseEndpoints(endpoints =&gt; 
+    public void Configure(IApplicationBuilder app, IWebHostEnvironment env) 
     { 
-        endpoints.MapGet("/", async context =&gt; 
+        if (env.IsDevelopment()) 
         { 
-            await context.Response.WriteAsync("Hello World!"); 
+            app.UseDeveloperExceptionPage(); 
+        } 
+
+        app.UseRouting(); 
+
+        app.UseEndpoints(endpoints =&gt; 
+        { 
+            endpoints.MapGet("/", async context =&gt; 
+            { 
+                await context.Response.WriteAsync("Hello World!"); 
+            }); 
         }); 
-    }); 
-}
+    }
 
 </div>
 
