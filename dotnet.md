@@ -494,7 +494,7 @@
 <li><b>UseRouting:</b> Adds route which matches the middleware pipeline.</li>
 <li><b>UseEndpoints:</b> Adds end execution point to the middleware pipeline and runs the delegate of the endpoint.</li>
 </ul>
-```
+
 public void Configure(IApplicationBuilder app, IWebHostEnvironment env) 
 { 
     if (env.IsDevelopment()) 
@@ -512,7 +512,8 @@ public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         }); 
     }); 
 }
-```
+
+
 
 <h3><span class="ez-toc-section" id="30-What-is-Dependency-Injection-in-NET-Core-Explain-its-advantages"></span>
 <section id="what-is-dependency-injection-in-net-core"><span style="color: #f66700;">30. What is Dependency Injection in .NET Core? Explain its advantages.</span></section>
