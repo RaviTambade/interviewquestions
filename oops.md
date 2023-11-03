@@ -983,3 +983,43 @@ ________________________________________________________________________________
 </pre>
 </li> 
 </ol>
+
+
+1)What is OOPS?
+2)Write basic concepts of OOPS?
+3)What is Class?
+4)What is an Object?
+5)What is Encapsulation?
+6)What is Polymorphism?
+7)What is Inheritance?
+8)What are manipulators?
+9)Explain the term constructor?
+10)Define Destructor?
+21)What is method overriding?
+22)What is an interface?
+23)What is exception handling?
+24)What are tokens?
+25)What is the main difference between overloading and overriding?
+26)What is the main difference between a class and an object?
+27)What is an abstraction?
+28)What are the access modifiers?
+29)What are sealed modifiers?
+30)How can we call the base method without creating an instance?
+31)What is the difference between new and override?
+32)What are the various types of constructors?
+33)What is early and late Binding?
+34)What is 'this' pointer?
+35)What is the difference between structure and a class?
+36)What is the default access modifier in a class?
+37)What is a pure virtual function?
+38)What are all the operators that cannot be overloaded?
+39)What is dynamic or run time polymorphism?
+40)Do we require a parameter for constructors?
+41)What is a copy constructor?
+42)What does the keyword virtual represented in the method definition?
+43)Whether static method can use nonstatic members?
+44)What are a base class,subclass, and superclass?
+45)What is static and dynamic binding?
+46)How many instance can be created for an abstract class?
+47)Which keyword can be used for overloading?
+48)What is the default access specifier in a class definition?
