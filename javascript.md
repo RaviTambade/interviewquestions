@@ -448,6 +448,7 @@ async4(function(){
 <p>Observables work by providing a way to subscribe to a stream of values, and then receiving those values as they become available. This allows you to respond to events in a more reactive way, without having to wait for the entire event stream to complete before processing it.</p>
 
 To use observables in JavaScript, you can use the RxJS library.
+
 ```
 import { Observable } from 'rxjs';
 
@@ -468,14 +469,14 @@ observable.subscribe(value => {
 <h3><span class="ez-toc-section" id="28-What-is-a-generic-host-in-NET-Core"></span>
 <section id="what-is-a-generic-host-in-net-core"><span style="color: #f66700;">28.What are the differences between promises and observables?</span></section>
 <span class="ez-toc-section-end"></span></h3>
-- Promises
+- <b>Promises</b>
     - Emits only a single value at a time
 	- Eager in nature; they are going to be called immediately
 	- Promise is always asynchronous even though it resolved immediately
 	- Doesn't provide any operators
 	- Cannot be cancelled
 	
-- Observables
+- <b>Observables</b>
 	- Emits multiple values over a period of time(stream of values ranging from 0 to multiple)
 	- Lazy in nature; they require subscription to be invoked
 	- Observable can be either synchronous or asynchronous
@@ -486,11 +487,9 @@ observable.subscribe(value => {
 <h3><span class="ez-toc-section" id="29-What-is-routing-in-NET-Core"></span>
 <section id="what-is-routing-in-net-core"><span style="color: #f66700;">29. What is the difference between setTimeout, setImmediate and process.nextTick?</span></section>
 <span class="ez-toc-section-end"></span></h3>
-- setTimeout(): Using the setTimeout() method, a callback function can be scheduled to run once after a millisecond delay. 
-- setImmediate(): Use the setImmediate function to run a function immediately following the conclusion of the current event loop.
-- process.nextTick():  If process.nextTick() is invoked in a given phase, all the callbacks passed to process.nextTick() will be resolved before the event loop continues. This will block the event loop and create I/O Starvation if process.nextTick() is called recursively.
-
-
+- <b>setTimeout()</b>: Using the setTimeout() method, a callback function can be scheduled to run once after a millisecond delay. 
+- <b>setImmediate()</b>: Use the setImmediate function to run a function immediately following the conclusion of the current event loop.
+- <b>process.nextTick()</b>:  If process.nextTick() is invoked in a given phase, all the callbacks passed to process.nextTick() will be resolved before the event loop continues. This will block the event loop and create I/O Starvation if process.nextTick() is called recursively.
 
 <h3><span class="ez-toc-section" id="29-What-is-routing-in-NET-Core"></span>
 <section id="what-is-routing-in-net-core"><span style="color: #f66700;">29. What is microtask in JavaScript?</span></section>
@@ -498,14 +497,13 @@ observable.subscribe(value => {
 <p>A function or section of code that always yields the same outcome when the same arguments are supplied is known as a pure function. It is independent of any state or data changes that occur while a program is running. Instead, it just relies on the arguments it is given.</p>
 <p>Additionally, a pure function does not result in any side effects that can be seen, such as network queries, data alteration, etc.</p>
 
-
-
 <h3><span class="ez-toc-section" id="29-What-is-routing-in-NET-Core"></span>
 <section id="what-is-routing-in-net-core"><span style="color: #f66700;">What is an error object and its different error name object?</span></section>
 <span class="ez-toc-section-end"></span></h3>
 <p>When an error happens, an error object—a built-in error object—provides error information. There are two attributes: name and message. For instance, the following </p>
 
 ```
+
 function records error information
 Syntax:
 try {
@@ -514,10 +512,11 @@ try {
 catch (err) {
 	console.log(err.name + "<br>" + err.message);
 }
+
 ```
 
 <p>There are 6 different types of error names returned from error object</p>
-- EvalError :An error has occurred in the eval() function
+- <b>EvalError</b> :An error has occurred in the eval() function
 - RangeError :An error has occurred with a number "out of range"
 - ReferenceError : An error due to an illegal reference
 - SyntaxError: An error due to syntax
