@@ -5,7 +5,7 @@
 <div class="entry-content">
 <p>The majority of big tech companies utilize JavaScript to build complex and powerful web-based applications. And with the launch of node.js, it has become one of the top languages for building server-side applications. However, the web still needs to be bigger to utilize JavaScript's full potential and flexibility.
 
-A list of JavaScript developer interview questions and answers to help you ace your next JavaScript interview and land your desired job. Conversely, if you are an interviewer looking for the best questions to gauge the talented candidate, this can be your reference.</p>
+A list of JavaScript developer interview questions and answers to help you ace your next JavaScript interview and land your desired job.</p>
 <h3><span class="ez-toc-section" id="Basic-NET-Core-interview-questions"></span>
 <a href="#basic-net-core-interview-questions">Javascript Interview Questions</a><span class="ez-toc-section-end"></span></h3>
 <ol>
