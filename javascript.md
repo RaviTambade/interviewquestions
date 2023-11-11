@@ -8,38 +8,38 @@
 Here, we have compiled a list of JavaScript developer interview questions and answers to help you ace your next JavaScript interview and land your desired job. Conversely, if you are an interviewer looking for the best questions to gauge the talented candidate, this can be your reference.</p>
 <h3><span class="ez-toc-section" id="Basic-NET-Core-interview-questions"></span><a href="#basic-net-core-interview-questions">Javascript Interview Questions</a><span class="ez-toc-section-end"></span></h3>
 <ol>
-<li><a href="#what-is-net-core-framework-and-how-does-it-work">1.New features in ES6 version</a></li>
-<li><a href="#what-is-the-latest-version-of-net-core">2.Is javascript a statically typed or a dynamically typed language?</a></li>
-<li><a href="#share-specific-features-of-net-core">3.Explain scope and scope chain JavaScript</a></li>
-<li><a href="#what-is-net-core-used-for">4.What are the differences between var, const & let in JavaScript?</a></li>
-<li><a href="#discuss-critical-components-in-net-core">5.What is closure in JavaScript?</a></li>
-<li><a href="#what-is-the-difference-between-net-core-and-mono">6.What is hoisting in JavaScript?</a></li>
-<li><a href="#what-is-net-core-corefx">7.Explain temporal dead zone.</a></li>
-<li><a href="#what-is-coreclr">8.What are differences between “==” & “===”?</a></li>
-<li><a href="#how-is-net-core-sdk-different-from-net-core-runtime">9.What is NaN property?</a></li>
-<li><a href="#where-should-you-not-use-net-core">10.What is the difference between null and undefined?</a></li>
-<li><a href="#what-are-the-advantages-of-net-core">11.What are the terms BOM and DOM in JavaScript?</a></li>
-<li><a href="#what-is-kestrel">12.What is Critical Rendering Path?</a></li>
-<li><a href="#what-do-you-know-about-net-core-middleware">13.What are basic JavaScript array methods?</a></li>
-<li><a href="#what-are-razor-pages-in-net-core">14.What is the rest parameter and spread operator?</a></li>
-<li><a href="#what-are-service-lifetimes-in-net-core">15.Explain this keyword</a></li>
-<li><a href="#what-are-the-differences-between-net-core-and-net-framework">16.Explain call(), apply() and, bind() methods.</a></li> 
-<li><a href="#explain-docker-in-net-core">17.Is JavaScript single-threaded, if yes then how it works as an multi-threaded language? OR What is event loop in javascript?</a></li>
-<li><a href="#what-is-net-core-cli">18.What is callback hell?</a></li>
-<li><a href="#what-is-hosting-environment-management">19.What are promises, async-await and callback?</a></li>
-<li><a href="#garbage-collection-its-benefits-and-its-condition">20.The callback hell looks like below</a></li>
-<li><a href="#discuss-cts-types-in-net-core">21.What are observables?</a></li>
+<li><a href="#what-is-net-core-framework-and-how-does-it-work">New features in ES6 version</a></li>
+<li><a href="#what-is-the-latest-version-of-net-core">Is javascript a statically typed or a dynamically typed language?</a></li>
+<li><a href="#share-specific-features-of-net-core">Explain scope and scope chain JavaScript</a></li>
+<li><a href="#what-is-net-core-used-for">What are the differences between var, const & let in JavaScript?</a></li>
+<li><a href="#discuss-critical-components-in-net-core">What is closure in JavaScript?</a></li>
+<li><a href="#what-is-the-difference-between-net-core-and-mono">What is hoisting in JavaScript?</a></li>
+<li><a href="#what-is-net-core-corefx">Explain temporal dead zone.</a></li>
+<li><a href="#what-is-coreclr">What are differences between “==” & “===”?</a></li>
+<li><a href="#how-is-net-core-sdk-different-from-net-core-runtime">What is NaN property?</a></li>
+<li><a href="#where-should-you-not-use-net-core">What is the difference between null and undefined?</a></li>
+<li><a href="#what-are-the-advantages-of-net-core">What are the terms BOM and DOM in JavaScript?</a></li>
+<li><a href="#what-is-kestrel">What is Critical Rendering Path?</a></li>
+<li><a href="#what-do-you-know-about-net-core-middleware">What are basic JavaScript array methods?</a></li>
+<li><a href="#what-are-razor-pages-in-net-core">What is the rest parameter and spread operator?</a></li>
+<li><a href="#what-are-service-lifetimes-in-net-core">Explain this keyword</a></li>
+<li><a href="#what-are-the-differences-between-net-core-and-net-framework">Explain call(), apply() and, bind() methods.</a></li> 
+<li><a href="#explain-docker-in-net-core">Is JavaScript single-threaded, if yes then how it works as an multi-threaded language? OR What is event loop in javascript?</a></li>
+<li><a href="#what-is-net-core-cli">What is callback hell?</a></li>
+<li><a href="#what-is-hosting-environment-management">What are promises, async-await and callback?</a></li>
+<li><a href="#garbage-collection-its-benefits-and-its-condition">The callback hell looks like below</a></li>
+<li><a href="#discuss-cts-types-in-net-core">What are observables?</a></li>
 <li><a href="#explain-corert">22.What are the differences between promises and observables?</a></li>
-<li><a href="#why-is-startup-class-important">23.What is the difference between setTimeout, setImmediate and process.nextTick?</a></li>
-<li><a href="#what-do-you-mean-by-state-management">24. What is microtask in JavaScript?</a></li>
-<li><a href="#what-is-the-best-way-to-manage-errors-in-net-core">25.What Pure Functions in JavaScript?</a></li>
-<li><a href="#is-mef-still-available-in-net-core">26.What is an error object and its different error name object?</a></li>
-<li><a href="#what-is-response-caching-in-net-core">27.What are the various statements in error handling?</a></li>
-<li><a href="#what-is-a-generic-host-in-net-core">28.What do you mean by strict mode in javascript and characteristics of javascript strict-mode?</a></li>
-<li><a href="#what-is-routing-in-net-core">29. What are the differences between cookie, local storage and session storage?</a></li>
-<li><a href="#what-is-dependency-injection-in-net-core">30.Explain prototype chaining</a></li>
-<li><a href="#what-is-dependency-injection-in-net-core">31.What are generators and what are its different kinds?</a></li>
-<li><a href="#what-is-dependency-injection-in-net-core">32. Difference between Debouncing and Throttling</a></li>
+<li><a href="#why-is-startup-class-important">What is the difference between setTimeout, setImmediate and process.nextTick?</a></li>
+<li><a href="#what-do-you-mean-by-state-management">What is microtask in JavaScript?</a></li>
+<li><a href="#what-is-the-best-way-to-manage-errors-in-net-core">What Pure Functions in JavaScript?</a></li>
+<li><a href="#is-mef-still-available-in-net-core">What is an error object and its different error name object?</a></li>
+<li><a href="#what-is-response-caching-in-net-core">What are the various statements in error handling?</a></li>
+<li><a href="#what-is-a-generic-host-in-net-core">What do you mean by strict mode in javascript and characteristics of javascript strict-mode?</a></li>
+<li><a href="#what-is-routing-in-net-core">What are the differences between cookie, local storage and session storage?</a></li>
+<li><a href="#what-is-dependency-injection-in-net-core">Explain prototype chaining</a></li>
+<li><a href="#what-is-dependency-injection-in-net-core">What are generators and what are its different kinds?</a></li>
+<li><a href="#what-is-dependency-injection-in-net-core"> Difference between Debouncing and Throttling</a></li>
 </ol>
 
 <h3><span class="ez-toc-section" id="1-What-is-NET-Core-Framework-and-how-does-it-work"></span>
