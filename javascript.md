@@ -102,14 +102,14 @@ Scope Chain refers to the situation when one variable, which may have a global, 
 <h3><span class="ez-toc-section" id="4-What-is-NET-Core-used-for"></span>
 <section id="what-is-net-core-used-for"><span style="color: #f66700;">4. What are the differences between var, const & let in JavaScript?</span></section>
 <span class="ez-toc-section-end"></span></h3>
-- var
+- <b>var</b>
     - The scope of a var variable is functional scope.
     - It can be updated and redeclared into the scope.
     - It can be declared without initialization.
     - It can be accessed without initialization as its default value is “undefined”.
     - Hoisting done, with initializing as ‘default’ value
 
-- let
+- <b>let</b>
     - The scope of a let variable is block scope
     - It can be updated but cannot be re-declared into the scope.
     - It can be declared without initialization.
@@ -117,7 +117,7 @@ Scope Chain refers to the situation when one variable, which may have a global, 
     - Hoisting is done, but not initialized (this is the reason for the error when we access the let variable before  declaration/initialization
 
 
-- const
+- <b>const</b>
     - The scope of a let variable is block scope.
     - It cannot be updated or redeclared into the scope.
     - It cannot be declared without initialization.
@@ -173,6 +173,7 @@ parseInt("Hello");
 <h3><span class="ez-toc-section" id="10-Where-should-you-not-use-NET-Core"></span>
 <section id="where-should-you-not-use-net-core"><span style="color: #f66700;">10. What is the difference between null and undefined?</span></section>
 <span class="ez-toc-section-end"></span></h3>
+
 - <b>null</b>
     - It is an assignment value which indicates that variable points to no object.
     - Type of null is object
