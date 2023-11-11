@@ -489,3 +489,172 @@ observable.subscribe(value => {
 - setImmediate(): Use the setImmediate function to run a function immediately following the conclusion of the current event loop.
 - process.nextTick():  If process.nextTick() is invoked in a given phase, all the callbacks passed to process.nextTick() will be resolved before the event loop continues. This will block the event loop and create I/O Starvation if process.nextTick() is called recursively.
 
+
+
+<h3><span class="ez-toc-section" id="29-What-is-routing-in-NET-Core"></span>
+<section id="what-is-routing-in-net-core"><span style="color: #f66700;">29. What is microtask in JavaScript?</span></section>
+<span class="ez-toc-section-end"></span></h3>
+<p>A function or section of code that always yields the same outcome when the same arguments are supplied is known as a pure function. It is independent of any state or data changes that occur while a program is running. Instead, it just relies on the arguments it is given.</p>
+<p>Additionally, a pure function does not result in any side effects that can be seen, such as network queries, data alteration, etc.</p>
+
+
+
+<h3><span class="ez-toc-section" id="29-What-is-routing-in-NET-Core"></span>
+<section id="what-is-routing-in-net-core"><span style="color: #f66700;">What is an error object and its different error name object?</span></section>
+<span class="ez-toc-section-end"></span></h3>
+<p>When an error happens, an error object—a built-in error object—provides error information. There are two attributes: name and message. For instance, the following </p>
+
+```
+function records error information
+Syntax:
+try {
+	greeting("Welcome");
+} 
+catch (err) {
+	console.log(err.name + "<br>" + err.message);
+}
+```
+
+<p>There are 6 different types of error names returned from error object</p>
+- EvalError :An error has occurred in the eval() function
+- RangeError :An error has occurred with a number "out of range"
+- ReferenceError : An error due to an illegal reference
+- SyntaxError: An error due to syntax
+- TypeError:An error due to a type error
+- URIError:An error due to encodeURI()
+
+
+<h3><span class="ez-toc-section" id="29-What-is-routing-in-NET-Core"></span>
+<section id="what-is-routing-in-net-core"><span style="color: #f66700;">What are the various statements in error handling?</span></section>
+<span class="ez-toc-section-end"></span></h3>
+<p>Below are the list of statements used in an error handling:</p>
+	- try: This statement is used to test a block of code for errors
+	- catch: This statement is used to handle the error
+	- throw: This statement is used to create custom errors.
+	- finally: This statement is used to execute code after try and
+	- catch regardless of the result.
+
+
+<h3><span class="ez-toc-section" id="29-What-is-routing-in-NET-Core"></span>
+<section id="what-is-routing-in-net-core"><span style="color: #f66700;">What do you mean by strict mode in javascript and characteristics of javascript strict-mode?</span></section>
+<span class="ez-toc-section-end"></span></h3>
+
+<p>In ECMAScript 5, a new feature called JavaScript Strict Mode allows you to write a code or a function in a "strict"
+operational environment. When it comes to throwing errors, javascript is often 'not extremely severe'. However,
+in "Strict mode," all errors, even silent faults, will result in a throw. Debugging hence becomes more easier. Thus, the chance of a coder committing a mistake is decreased</p>
+
+<p>Characteristics of strict mode in javascript</p>
+	- Duplicate arguments are not allowed by developers.
+	- Use of javascript’s keyword as parameter or function name is not allowed.
+	- The 'use strict' keyword is used to define strict mode at the start of the script. Strict mode is supported by all browsers
+	- Creating of global variables is not allowed.
+
+
+<h3><span class="ez-toc-section" id="29-What-is-routing-in-NET-Core"></span>
+<section id="what-is-routing-in-net-core"><span style="color: #f66700;">What are the differences between cookie, local storage and session storage?</span></section>
+<span class="ez-toc-section-end"></span></h3>
+- Cookie
+	- Can be accessed on both server- side & client side
+	- As configured using expires option
+	- SSL is supported
+	- Maximum size is 4 KB
+- Local storage
+	- Can be accessed on client- side only
+	- Lifetime is until deleted
+	- SSL is not supported
+	- Maximum size is 5 MB
+- Session
+	- Can be accessed on client- side only
+	- Lifetime is until tab is closed
+	- SSL is not supported
+	- Maximum size is 5 MB
+
+    <h3><span class="ez-toc-section" id="29-What-is-routing-in-NET-Core"></span>
+<section id="what-is-routing-in-net-core"><span style="color: #f66700;">Explain prototype chaining</span></section>
+<span class="ez-toc-section-end"></span></h3>
+
+<p>Prototype chaining is used to build new types of objects based on existing ones. It is similar to inheritance in a
+class based language.</p>
+
+<p>The prototype on object instance is available through Object.getPrototypeOf(object) or __proto__ property
+whereas prototype on constructors function is available through Object.prototype</p>
+
+
+
+
+<h3><span class="ez-toc-section" id="29-What-is-routing-in-NET-Core"></span>
+<section id="what-is-routing-in-net-core"><span style="color: #f66700;">What are generators and what are its different kinds?</span></section>
+<span class="ez-toc-section-end"></span></h3>
+<p>Introduced in the ES6 version, generator functions are a special class of functions. They can be stopped midway and then continue from where they had stopped. Generator functions are declared with the function* keyword instead of the normal function keyword.
+</p>
+There are five kinds of generators:
+	1. Generator function declaration
+	2. Generator function expressions
+	3. Generator method definitions in object literals
+	4. Generator method definitions in class
+	5. Generator as a computed property
+
+
+
+
+
+<h3><span class="ez-toc-section" id="29-What-is-routing-in-NET-Core"></span>
+<section id="what-is-routing-in-net-core"><span style="color: #f66700;">Difference between Debouncing and Throttling</span></section>
+<span class="ez-toc-section-end"></span></h3>
+
+- Debouncing
+    - Debouncing waits for a certain time before invoking the function again
+    - Ensures that the function is called only once, even if the event is triggered multiple times.
+    - Useful when you want to delay the invocation of a function until a certain period of inactivity has passed.
+
+Eg. You can debounce an async API request function that is called every time the user types in an input field.
+Syntax:
+```
+function debounce(func, delay) {
+
+let timerId;
+
+return function () {
+	const context = this;
+	const args = arguments;
+	clearTimeout(timerId);
+
+	timerId = setTimeout(function () {
+						func.apply(context, args);
+		  }, delay);
+
+};
+}
+```
+
+- <b>Throttling</b>
+    - An error has occurred in the eval() function
+    - An error has occurred with a number "out of range"
+    - An error due to an illegal reference
+    - An error due to syntax
+
+```
+Syntax:
+
+function throttle(callback, delay=1000) {
+
+let shouldWait = false;
+
+return (...args) => {
+
+if (shouldWait) return;
+
+callback(...args);
+
+shouldWait = true;
+
+setTimeout(() => {
+
+shouldWait = false;
+
+}, delay);
+
+};
+
+}
+```
