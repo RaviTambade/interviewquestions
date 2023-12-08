@@ -8,7 +8,7 @@
 <p>SQL skills help data experts maintain, create and retrieve information from relational databases, which separate data into columns and rows. It also allows them to access, update, manipulate, insert and modify data efficiently.</p>
 
 <h3><span class="ez-toc-section" id="Basic-NET-Core-interview-questions"></span>
-<a href="#basic-net-core-interview-questions">GIT interview questions</a><span class="ez-toc-section-end"></span></h3>
+<a href="#basic-net-core-interview-questions">Sql interview questions</a><span class="ez-toc-section-end"></span></h3>
 <ol>
 <li><a href="#what-is-net-core-framework-and-how-does-it-work">1. What exactly is SQL?</a></li>
 <li><a href="#what-is-the-latest-version-of-net-core">2. What Can SQL do for you?</a></li>
