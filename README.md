@@ -8,6 +8,10 @@
             <li><a href="https://github.com/RaviTambade/interviewquestions/blob/main/unix.md">Unix</a></li>
             <li><a href="https://github.com/RaviTambade/interviewquestions/blob/main/git.md">GIT</a></li>
             <li><a href="https://github.com/RaviTambade/interviewquestions/blob/main/cloudcomputing.md">Cloud Computing</a></li>
+
+
+              <li><a href="https://github.com/RaviTambade/interviewquestions/blob/main/sql.md">MySql</a></li>
+
             <li><a href="https://github.com/RaviTambade/interviewquestions/blob/main/docker.md">Docker</a></li>
             <li><a href="https://github.com/RaviTambade/interviewquestions/blob/main/devops.md">DevOps</a></li>
             <li><a href="https://github.com/RaviTambade/interviewquestions/blob/main/dotnet.md">Dotnet</a></li>
